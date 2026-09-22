@@ -20,6 +20,8 @@ jobs:
       - name: Install OHLpkg
         run: |
           git clone --depth 1 https://github.com/NoahCornish/OHLpkg.git /tmp/OHLpkg
+          Rscript -e 'install.packages("remotes")'
+          Rscript -e 'remotes::install_deps("/tmp/OHLpkg", dependencies = TRUE)'
           R CMD INSTALL /tmp/OHLpkg
 
       - name: Update current OHL data
