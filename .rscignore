@@ -1,1 +1,7 @@
 .Renviron
+.RData
+.Rhistory
+.github
+scripts
+README.md
+OHLDataHub.Rproj
