@@ -19,9 +19,8 @@ jobs:
 
       - name: Install OHLpkg
         run: |
-          install.packages("remotes")
-          remotes::install_github("NoahCornish/OHLpkg")
-        shell: Rscript {0}
+          git clone --depth 1 https://github.com/NoahCornish/OHLpkg.git /tmp/OHLpkg
+          R CMD INSTALL /tmp/OHLpkg
 
       - name: Update current OHL data
         run: Rscript scripts/update_current_all.R
@@ -30,6 +29,9 @@ jobs:
         run: |
           git config user.name "OHL Data Bot"
           git config user.email "actions@github.com"
+
           git add data/current/
+
           git diff --cached --quiet || git commit -m "Update current OHL data"
+
           git push
