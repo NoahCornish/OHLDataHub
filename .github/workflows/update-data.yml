@@ -3,6 +3,13 @@ name: Update OHL Data
 on:
   workflow_dispatch:
 
+  on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 2,9,12,17,20,21,22 * * *"
+      timezone: "America/Toronto"
+
 permissions:
   contents: write
 
