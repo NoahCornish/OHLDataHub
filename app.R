@@ -17,7 +17,7 @@ source("R/load_current_data.R")
 source("R/load_skater_data.R")
 source("R/load_goalie_data.R")
 source("R/load_ohl_data.R")
-source("R/mod_data_explorer.R")
+#source("R/mod_data_explorer.R")
 
 
 # ============================================================
@@ -200,14 +200,14 @@ app_ui <- page_navbar(
   # DATA EXPLORER
   # ==========================================================
 
-  nav_panel(
+#  nav_panel(
 
-    "Data Explorer",
+#    "Data Explorer",
 
-    mod_data_explorer_ui(
-      "data_explorer"
-    )
-  ),
+#    mod_data_explorer_ui(
+#      "data_explorer"
+#    )
+#  ),
 
 
   # ==========================================================
@@ -960,10 +960,10 @@ server <- function(input, output, session) {
   # DATA EXPLORER
   # ==========================================================
 
-  mod_data_explorer_server(
-    "data_explorer",
-    season_choices = season_choices
-  )
+ # mod_data_explorer_server(
+#    "data_explorer",
+#    season_choices = season_choices
+#  )
 }
 
 
