@@ -24,6 +24,7 @@ mod_player_compare_ui <- function(id) {
 
       div(
         h1("Player Comparison"),
+
         p(
           "Compare OHL players from any supported season."
         )
@@ -107,7 +108,7 @@ mod_player_compare_ui <- function(id) {
 
 
     # --------------------------------------------------------
-    # PLAYER HERO CARDS
+    # PLAYER PROFILE CARDS
     # --------------------------------------------------------
 
     uiOutput(
@@ -121,6 +122,33 @@ mod_player_compare_ui <- function(id) {
 
     uiOutput(
       ns("stat_comparison")
+    ),
+
+
+    # --------------------------------------------------------
+    # RATE COMPARISON CHART
+    # --------------------------------------------------------
+
+    div(
+      class = "compare-chart-card",
+
+      div(
+        class = "compare-chart-header",
+
+        h2("Rate Comparison"),
+
+        p(
+          paste(
+            "Per-game production allows players from",
+            "different season lengths to be compared more fairly."
+          )
+        )
+      ),
+
+      plotOutput(
+        ns("comparison_chart"),
+        height = "360px"
+      )
     )
   )
 }
@@ -141,9 +169,9 @@ mod_player_compare_server <- function(
     function(input, output, session) {
 
 
-      # ------------------------------------------------------
+      # ======================================================
       # SEASON SELECTORS
-      # ------------------------------------------------------
+      # ======================================================
 
       observe({
 
@@ -163,13 +191,15 @@ mod_player_compare_server <- function(
       })
 
 
-      # ------------------------------------------------------
+      # ======================================================
       # LOAD SEASON DATA
-      # ------------------------------------------------------
+      # ======================================================
 
       season_1_data <- reactive({
 
-        req(input$season_1)
+        req(
+          input$season_1
+        )
 
         load_skater_data(
           input$season_1
@@ -179,7 +209,9 @@ mod_player_compare_server <- function(
 
       season_2_data <- reactive({
 
-        req(input$season_2)
+        req(
+          input$season_2
+        )
 
         load_skater_data(
           input$season_2
@@ -187,9 +219,9 @@ mod_player_compare_server <- function(
       })
 
 
-      # ------------------------------------------------------
+      # ======================================================
       # PLAYER DROPDOWNS
-      # ------------------------------------------------------
+      # ======================================================
 
       observeEvent(
         season_1_data(),
@@ -249,62 +281,119 @@ mod_player_compare_server <- function(
       )
 
 
-      # ------------------------------------------------------
-      # PLAYER DATA
-      # ------------------------------------------------------
+      # ======================================================
+      # SELECTED PLAYER DATA
+      # ======================================================
 
       player_1 <- reactive({
 
-        req(input$player_1)
+        req(
+          input$player_1
+        )
 
         data <- season_1_data()
 
-        data[
+        selected <- data[
           data$Name == input$player_1,
           ,
           drop = FALSE
-        ][1, , drop = FALSE]
+        ]
+
+        req(
+          nrow(selected) > 0
+        )
+
+        selected[
+          1,
+          ,
+          drop = FALSE
+        ]
       })
 
 
       player_2 <- reactive({
 
-        req(input$player_2)
+        req(
+          input$player_2
+        )
 
         data <- season_2_data()
 
-        data[
+        selected <- data[
           data$Name == input$player_2,
           ,
           drop = FALSE
-        ][1, , drop = FALSE]
+        ]
+
+        req(
+          nrow(selected) > 0
+        )
+
+        selected[
+          1,
+          ,
+          drop = FALSE
+        ]
       })
 
 
-      # ------------------------------------------------------
+      # ======================================================
       # HELPER FUNCTIONS
-      # ------------------------------------------------------
+      # ======================================================
 
       get_value <- function(data, column) {
 
         if (
           column %in% names(data) &&
+          length(data[[column]]) > 0 &&
           !is.na(data[[column]][1])
         ) {
+
           as.character(
             data[[column]][1]
           )
+
         } else {
+
           "—"
         }
       }
 
 
+      get_numeric <- function(data, column) {
+
+        if (
+          !column %in% names(data) ||
+          length(data[[column]]) == 0
+        ) {
+          return(
+            NA_real_
+          )
+        }
+
+        suppressWarnings(
+          as.numeric(
+            as.character(
+              data[[column]][1]
+            )
+          )
+        )
+      }
+
+
       initials <- function(name) {
+
+        if (
+          is.null(name) ||
+          is.na(name) ||
+          name == ""
+        ) {
+          return("?")
+        }
 
         pieces <- strsplit(
           name,
-          " "
+          "\\s+"
         )[[1]]
 
         paste0(
@@ -318,9 +407,9 @@ mod_player_compare_server <- function(
       }
 
 
-      # ------------------------------------------------------
-      # PLAYER CARDS
-      # ------------------------------------------------------
+      # ======================================================
+      # PLAYER PROFILE CARDS
+      # ======================================================
 
       output$player_cards <- renderUI({
 
@@ -337,7 +426,10 @@ mod_player_compare_server <- function(
           class = "compare-player-grid",
 
 
+          # --------------------------------------------------
           # PLAYER A
+          # --------------------------------------------------
+
           div(
             class = "compare-player-profile",
 
@@ -346,6 +438,7 @@ mod_player_compare_server <- function(
 
               div(
                 class = "compare-avatar",
+
                 initials(
                   get_value(
                     p1,
@@ -398,6 +491,7 @@ mod_player_compare_server <- function(
 
                 span(
                   class = "detail-value",
+
                   get_value(
                     p1,
                     "BD"
@@ -413,6 +507,7 @@ mod_player_compare_server <- function(
 
                 span(
                   class = "detail-value",
+
                   get_value(
                     p1,
                     "Rookie"
@@ -423,7 +518,10 @@ mod_player_compare_server <- function(
           ),
 
 
+          # --------------------------------------------------
           # PLAYER B
+          # --------------------------------------------------
+
           div(
             class = "compare-player-profile",
 
@@ -432,6 +530,7 @@ mod_player_compare_server <- function(
 
               div(
                 class = "compare-avatar",
+
                 initials(
                   get_value(
                     p2,
@@ -484,6 +583,7 @@ mod_player_compare_server <- function(
 
                 span(
                   class = "detail-value",
+
                   get_value(
                     p2,
                     "BD"
@@ -499,6 +599,7 @@ mod_player_compare_server <- function(
 
                 span(
                   class = "detail-value",
+
                   get_value(
                     p2,
                     "Rookie"
@@ -511,9 +612,9 @@ mod_player_compare_server <- function(
       })
 
 
-      # ------------------------------------------------------
-      # STAT COMPARISON
-      # ------------------------------------------------------
+      # ======================================================
+      # HEAD-TO-HEAD STAT CARDS
+      # ======================================================
 
       output$stat_comparison <- renderUI({
 
@@ -565,8 +666,8 @@ mod_player_compare_server <- function(
 
             stat$column %in% names(p1) &&
               stat$column %in% names(p2)
-          },
 
+          },
           stats
         )
 
@@ -599,20 +700,35 @@ mod_player_compare_server <- function(
             )
 
 
-            max_value <- max(
-              c(
-                numeric_1,
-                numeric_2
-              ),
-              na.rm = TRUE
+            available_values <- c(
+              numeric_1,
+              numeric_2
             )
+
+            available_values <- available_values[
+              is.finite(
+                available_values
+              )
+            ]
 
 
             if (
-              is.infinite(max_value) ||
-              max_value <= 0
+              length(available_values) == 0
             ) {
+
               max_value <- 1
+
+            } else {
+
+              max_value <- max(
+                available_values
+              )
+
+              if (
+                max_value <= 0
+              ) {
+                max_value <- 1
+              }
             }
 
 
@@ -651,6 +767,7 @@ mod_player_compare_server <- function(
 
                   span(
                     class = "compare-stat-name",
+
                     get_value(
                       p1,
                       "Name"
@@ -669,6 +786,7 @@ mod_player_compare_server <- function(
 
                   span(
                     class = "compare-stat-name",
+
                     get_value(
                       p2,
                       "Name"
@@ -691,6 +809,7 @@ mod_player_compare_server <- function(
 
                   div(
                     class = "compare-bar-fill player-one",
+
                     style = paste0(
                       "width:",
                       width_1,
@@ -704,6 +823,7 @@ mod_player_compare_server <- function(
 
                   div(
                     class = "compare-bar-fill player-two",
+
                     style = paste0(
                       "width:",
                       width_2,
@@ -724,6 +844,7 @@ mod_player_compare_server <- function(
 
             div(
               h2("Head-to-Head"),
+
               p(
                 "Season statistics for the selected players."
               )
@@ -736,6 +857,309 @@ mod_player_compare_server <- function(
           )
         )
       })
+
+
+      # ======================================================
+      # PER-GAME RATE COMPARISON CHART
+      # ======================================================
+
+      output$comparison_chart <- renderPlot({
+
+        req(
+          player_1(),
+          player_2()
+        )
+
+        p1 <- player_1()
+        p2 <- player_2()
+
+
+        gp1 <- get_numeric(
+          p1,
+          "GP"
+        )
+
+        gp2 <- get_numeric(
+          p2,
+          "GP"
+        )
+
+
+        validate(
+
+          need(
+            !is.na(gp1) &&
+              gp1 > 0,
+
+            "Player A does not have valid games-played data."
+          ),
+
+          need(
+            !is.na(gp2) &&
+              gp2 > 0,
+
+            "Player B does not have valid games-played data."
+          )
+        )
+
+
+        player_1_name <- get_value(
+          p1,
+          "Name"
+        )
+
+        player_2_name <- get_value(
+          p2,
+          "Name"
+        )
+
+
+        chart_data <- data.frame(
+
+          Metric = c(
+            "Goals / Game",
+            "Goals / Game",
+
+            "Assists / Game",
+            "Assists / Game",
+
+            "Points / Game",
+            "Points / Game",
+
+            "PIM / Game",
+            "PIM / Game"
+          ),
+
+          Player = c(
+            player_1_name,
+            player_2_name,
+
+            player_1_name,
+            player_2_name,
+
+            player_1_name,
+            player_2_name,
+
+            player_1_name,
+            player_2_name
+          ),
+
+          Value = c(
+
+            get_numeric(
+              p1,
+              "G"
+            ) / gp1,
+
+            get_numeric(
+              p2,
+              "G"
+            ) / gp2,
+
+
+            get_numeric(
+              p1,
+              "A"
+            ) / gp1,
+
+            get_numeric(
+              p2,
+              "A"
+            ) / gp2,
+
+
+            get_numeric(
+              p1,
+              "PTS"
+            ) / gp1,
+
+            get_numeric(
+              p2,
+              "PTS"
+            ) / gp2,
+
+
+            get_numeric(
+              p1,
+              "PIM"
+            ) / gp1,
+
+            get_numeric(
+              p2,
+              "PIM"
+            ) / gp2
+          ),
+
+          stringsAsFactors = FALSE
+        )
+
+
+        chart_data <- chart_data[
+          is.finite(
+            chart_data$Value
+          ),
+          ,
+          drop = FALSE
+        ]
+
+
+        validate(
+          need(
+            nrow(chart_data) > 0,
+            "No comparable rate statistics are available."
+          )
+        )
+
+
+        chart_data$Metric <- factor(
+          chart_data$Metric,
+
+          levels = c(
+            "Goals / Game",
+            "Assists / Game",
+            "Points / Game",
+            "PIM / Game"
+          )
+        )
+
+
+        chart_data$Player <- factor(
+          chart_data$Player,
+
+          levels = c(
+            player_1_name,
+            player_2_name
+          )
+        )
+
+
+        comparison_plot <- ggplot2::ggplot(
+          chart_data,
+
+          ggplot2::aes(
+            x = Metric,
+            y = Value,
+            fill = Player
+          )
+        ) +
+
+          ggplot2::geom_col(
+            position = ggplot2::position_dodge(
+              width = 0.75
+            ),
+            width = 0.65
+          ) +
+
+          ggplot2::geom_text(
+            ggplot2::aes(
+              label = sprintf(
+                "%.2f",
+                Value
+              )
+            ),
+
+            position = ggplot2::position_dodge(
+              width = 0.75
+            ),
+
+            vjust = -0.45,
+
+            size = 4,
+
+            fontface = "bold"
+          ) +
+
+          ggplot2::scale_fill_manual(
+            values = c(
+              "#20AD9C",
+              "#526B84"
+            )
+          ) +
+
+          ggplot2::scale_y_continuous(
+            limits = c(
+              0,
+              NA
+            ),
+
+            expand = ggplot2::expansion(
+              mult = c(
+                0,
+                0.18
+              )
+            )
+          ) +
+
+          ggplot2::labs(
+            x = NULL,
+            y = "Per Game",
+            fill = NULL
+          ) +
+
+          ggplot2::theme_minimal(
+            base_size = 13
+          ) +
+
+          ggplot2::theme(
+
+            legend.position = "top",
+
+            legend.justification = "left",
+
+            panel.grid.major.x =
+              ggplot2::element_blank(),
+
+            panel.grid.minor =
+              ggplot2::element_blank(),
+
+            panel.grid.major.y =
+              ggplot2::element_line(
+                colour = "#E4E9EE",
+                linewidth = 0.5
+              ),
+
+            axis.title.y =
+              ggplot2::element_text(
+                colour = "#66717F",
+
+                margin = ggplot2::margin(
+                  r = 10
+                )
+              ),
+
+            axis.text.x =
+              ggplot2::element_text(
+                colour = "#495A6A",
+                face = "bold"
+              ),
+
+            axis.text.y =
+              ggplot2::element_text(
+                colour = "#708090"
+              ),
+
+            legend.text =
+              ggplot2::element_text(
+                colour = "#495A6A",
+                face = "bold"
+              ),
+
+            plot.margin =
+              ggplot2::margin(
+                10,
+                20,
+                10,
+                10
+              )
+          )
+
+
+        print(
+          comparison_plot
+        )
+
+      })
+
     }
   )
 }

@@ -7,6 +7,7 @@ library(shiny)
 library(bslib)
 library(reactable)
 library(shinymanager)
+library(ggplot2)
 
 
 # ============================================================
@@ -977,6 +978,195 @@ server <- function(input, output, session) {
     "player_compare",
     season_choices = season_choices
   )
+
+
+  # ------------------------------------------------------
+  # PER-GAME COMPARISON CHART
+  # ------------------------------------------------------
+
+  output$comparison_chart <- renderPlot({
+
+    req(
+      player_1(),
+      player_2()
+    )
+
+    p1 <- player_1()
+    p2 <- player_2()
+
+    get_numeric <- function(data, column) {
+
+      if (!column %in% names(data)) {
+        return(NA_real_)
+      }
+
+      suppressWarnings(
+        as.numeric(
+          as.character(
+            data[[column]][1]
+          )
+        )
+      )
+    }
+
+
+    gp1 <- get_numeric(p1, "GP")
+    gp2 <- get_numeric(p2, "GP")
+
+
+    if (
+      is.na(gp1) ||
+      is.na(gp2) ||
+      gp1 <= 0 ||
+      gp2 <= 0
+    ) {
+      return(NULL)
+    }
+
+
+    name1 <- as.character(
+      p1$Name[1]
+    )
+
+    name2 <- as.character(
+      p2$Name[1]
+    )
+
+
+    chart_data <- data.frame(
+
+      Metric = rep(
+        c(
+          "Goals / Game",
+          "Assists / Game",
+          "Points / Game",
+          "PIM / Game"
+        ),
+        each = 2
+      ),
+
+      Player = rep(
+        c(
+          name1,
+          name2
+        ),
+        times = 4
+      ),
+
+      Value = c(
+
+        get_numeric(p1, "G") / gp1,
+        get_numeric(p2, "G") / gp2,
+
+        get_numeric(p1, "A") / gp1,
+        get_numeric(p2, "A") / gp2,
+
+        get_numeric(p1, "PTS") / gp1,
+        get_numeric(p2, "PTS") / gp2,
+
+        get_numeric(p1, "PIM") / gp1,
+        get_numeric(p2, "PIM") / gp2
+      )
+    )
+
+
+    chart_data <- chart_data[
+      !is.na(chart_data$Value),
+    ]
+
+
+    chart_data$Metric <- factor(
+      chart_data$Metric,
+      levels = c(
+        "Goals / Game",
+        "Assists / Game",
+        "Points / Game",
+        "PIM / Game"
+      )
+    )
+
+
+    ggplot(
+      chart_data,
+      aes(
+        x = Metric,
+        y = Value,
+        fill = Player
+      )
+    ) +
+
+      geom_col(
+        position = position_dodge(
+          width = 0.72
+        ),
+        width = 0.62
+      ) +
+
+      geom_text(
+        aes(
+          label = sprintf(
+            "%.2f",
+            Value
+          )
+        ),
+        position = position_dodge(
+          width = 0.72
+        ),
+        vjust = -0.45,
+        size = 4,
+        fontface = "bold"
+      ) +
+
+      scale_y_continuous(
+        expand = expansion(
+          mult = c(
+            0,
+            0.15
+          )
+        )
+      ) +
+
+      labs(
+        x = NULL,
+        y = NULL,
+        fill = NULL
+      ) +
+
+      theme_minimal(
+        base_size = 13
+      ) +
+
+      theme(
+        legend.position = "top",
+
+        legend.justification = "left",
+
+        panel.grid.major.x = element_blank(),
+
+        panel.grid.minor = element_blank(),
+
+        panel.grid.major.y = element_line(
+          colour = "#E4E9EE",
+          linewidth = 0.5
+        ),
+
+        axis.text.x = element_text(
+          colour = "#495A6A",
+          face = "bold"
+        ),
+
+        axis.text.y = element_text(
+          colour = "#708090"
+        ),
+
+        plot.margin = margin(
+          10,
+          15,
+          10,
+          10
+        )
+      )
+  })
 }
 
 

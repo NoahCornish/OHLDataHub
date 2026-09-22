@@ -645,3 +645,51 @@
   }
 
 }
+
+
+/* =========================================================
+   PLAYER COMPARISON CHART
+========================================================= */
+
+.compare-chart-card {
+  margin-top: 22px;
+  padding: 20px 22px 10px 22px;
+
+  background: #ffffff;
+  border: 1px solid #dde4eb;
+  border-radius: 12px;
+
+  box-shadow: 0 2px 8px rgba(20, 40, 60, 0.04);
+}
+
+.compare-chart-header {
+  margin-bottom: 8px;
+}
+
+.compare-chart-header h2 {
+  margin-bottom: 3px;
+
+  color: #243547;
+  font-size: 1.35rem;
+  font-weight: 750;
+}
+
+.compare-chart-header p {
+  margin: 0;
+
+  color: #788490;
+  font-size: 0.9rem;
+}
+
+
+@media (max-width: 768px) {
+
+  .compare-chart-card {
+    padding: 15px 10px 5px 10px;
+  }
+
+  .compare-chart-header {
+    padding: 0 5px;
+  }
+
+}
