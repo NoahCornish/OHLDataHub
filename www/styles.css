@@ -1,0 +1,132 @@
+/* -----------------------------------------
+   OHL DATA HUB
+   Responsive layout
+----------------------------------------- */
+
+.page-container {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+
+/* -----------------------------------------
+   SKATER PAGE HEADER
+----------------------------------------- */
+
+.skater-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 15px;
+}
+
+.skater-header h2 {
+  margin-bottom: 4px;
+}
+
+.skater-header p {
+  margin-bottom: 0;
+}
+
+
+/* -----------------------------------------
+   TABLE
+----------------------------------------- */
+
+.table-card {
+  width: 100%;
+}
+
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-title-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.table-help {
+  font-size: 0.8rem;
+  opacity: 0.65;
+}
+
+
+/* -----------------------------------------
+   STAT SELECTOR
+----------------------------------------- */
+
+.shiny-options-group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px 20px;
+}
+
+
+/* -----------------------------------------
+   MOBILE / IPHONE
+----------------------------------------- */
+
+@media (max-width: 768px) {
+
+  .page-container {
+    padding: 12px;
+  }
+
+  .skater-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .skater-header .btn {
+    width: 100%;
+  }
+
+  .table-title-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+  }
+
+  .shiny-options-group {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .card-body {
+    padding: 10px;
+  }
+
+}
+
+
+/* -----------------------------------------
+   SMALL IPHONE
+----------------------------------------- */
+
+@media (max-width: 480px) {
+
+  .page-container {
+    padding: 8px;
+  }
+
+  .shiny-options-group {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+}
