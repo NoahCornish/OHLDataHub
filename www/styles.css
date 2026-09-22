@@ -1,7 +1,7 @@
-/* -----------------------------------------
+/* =========================================================
    OHL DATA HUB
-   Responsive layout
------------------------------------------ */
+   GLOBAL RESPONSIVE LAYOUT
+========================================================= */
 
 .page-container {
   width: 100%;
@@ -11,9 +11,9 @@
 }
 
 
-/* -----------------------------------------
-   SKATER PAGE HEADER
------------------------------------------ */
+/* =========================================================
+   SKATER / GOALIE PAGE HEADER
+========================================================= */
 
 .skater-header {
   display: flex;
@@ -32,9 +32,9 @@
 }
 
 
-/* -----------------------------------------
-   TABLE
------------------------------------------ */
+/* =========================================================
+   DATA TABLES
+========================================================= */
 
 .table-card {
   width: 100%;
@@ -60,9 +60,9 @@
 }
 
 
-/* -----------------------------------------
-   STAT SELECTOR
------------------------------------------ */
+/* =========================================================
+   STAT SELECTOR MODALS
+========================================================= */
 
 .shiny-options-group {
   display: grid;
@@ -71,15 +71,421 @@
 }
 
 
-/* -----------------------------------------
+/* =========================================================
+   PLAYER COMPARISON DASHBOARD
+========================================================= */
+
+.compare-dashboard {
+  position: relative;
+  max-width: 1500px;
+  padding-top: 30px;
+}
+
+
+/* ---------------------------------------------------------
+   Comparison page background
+--------------------------------------------------------- */
+
+.compare-dashboard::before {
+  content: "";
+  position: absolute;
+  left: -100vw;
+  right: -100vw;
+  top: 0;
+  bottom: 0;
+  background: #f5f7f9;
+  z-index: -1;
+}
+
+
+/* ---------------------------------------------------------
+   Comparison header
+--------------------------------------------------------- */
+
+.compare-page-header {
+  margin-bottom: 24px;
+}
+
+.compare-page-header h1 {
+  margin-bottom: 6px;
+  color: #1f2d3d;
+  font-size: 2.25rem;
+  font-weight: 750;
+  letter-spacing: -0.03em;
+}
+
+.compare-page-header p {
+  margin: 0;
+  color: #66717f;
+  font-size: 1rem;
+}
+
+
+/* ---------------------------------------------------------
+   Player selector panel
+--------------------------------------------------------- */
+
+.compare-selector-card {
+  margin-bottom: 22px;
+  padding: 22px;
+
+  background: #ffffff;
+  border: 1px solid #dde4eb;
+  border-radius: 12px;
+
+  box-shadow: 0 2px 8px rgba(20, 40, 60, 0.04);
+}
+
+.compare-selector-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 80px minmax(0, 1fr);
+  gap: 22px;
+  align-items: center;
+}
+
+.compare-selector-side {
+  min-width: 0;
+}
+
+.compare-selector-label {
+  margin-bottom: 12px;
+
+  color: #708090;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+}
+
+.compare-selector-side .form-group {
+  margin-bottom: 12px;
+}
+
+.compare-selector-side label {
+  color: #394a5a;
+  font-size: 0.85rem;
+  font-weight: 650;
+}
+
+
+/* Select inputs */
+
+.compare-selector-side select,
+.compare-selector-side .selectize-input {
+  min-height: 42px !important;
+
+  border-color: #d7dfe7 !important;
+  border-radius: 7px !important;
+}
+
+.compare-selector-side .selectize-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.compare-selector-side .selectize-input.focus {
+  border-color: #18a999 !important;
+  box-shadow: 0 0 0 0.2rem rgba(24, 169, 153, 0.12);
+}
+
+
+/* VS badge */
+
+.compare-vs-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.compare-vs-circle {
+  display: flex;
+  width: 52px;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+
+  background: #2d4258;
+  border-radius: 50%;
+
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+
+/* =========================================================
+   PLAYER PROFILE CARDS
+========================================================= */
+
+.compare-player-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+
+  margin-bottom: 32px;
+}
+
+.compare-player-profile {
+  overflow: hidden;
+
+  background: #ffffff;
+  border: 1px solid #dde4eb;
+  border-radius: 12px;
+
+  box-shadow: 0 2px 8px rgba(20, 40, 60, 0.04);
+}
+
+.compare-player-top {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+
+  padding: 22px;
+}
+
+.compare-avatar {
+  display: flex;
+  flex: 0 0 auto;
+
+  width: 64px;
+  height: 64px;
+
+  align-items: center;
+  justify-content: center;
+
+  background: #2d4258;
+  border-radius: 12px;
+
+  color: #ffffff;
+  font-size: 1.3rem;
+  font-weight: 800;
+}
+
+.compare-player-identity {
+  min-width: 0;
+}
+
+.compare-season-tag {
+  display: inline-block;
+
+  margin-bottom: 5px;
+
+  color: #149f90;
+  font-size: 0.72rem;
+  font-weight: 750;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.compare-player-identity h2 {
+  margin: 0 0 5px 0;
+
+  color: #213244;
+  font-size: 1.7rem;
+  font-weight: 750;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.compare-team-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+
+  color: #66717f;
+  font-size: 0.95rem;
+}
+
+
+/* Profile metadata */
+
+.compare-profile-details {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  background: #f8fafc;
+  border-top: 1px solid #e6ebf0;
+}
+
+.compare-profile-details > div {
+  padding: 13px 20px;
+}
+
+.compare-profile-details > div + div {
+  border-left: 1px solid #e6ebf0;
+}
+
+.detail-label {
+  display: block;
+
+  margin-bottom: 3px;
+
+  color: #7a8793;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.detail-value {
+  display: block;
+
+  color: #28394a;
+  font-size: 0.92rem;
+  font-weight: 650;
+}
+
+
+/* =========================================================
+   HEAD-TO-HEAD SECTION
+========================================================= */
+
+.compare-section-heading {
+  margin-bottom: 14px;
+}
+
+.compare-section-heading h2 {
+  margin-bottom: 3px;
+
+  color: #243547;
+  font-size: 1.35rem;
+  font-weight: 750;
+}
+
+.compare-section-heading p {
+  margin: 0;
+
+  color: #788490;
+  font-size: 0.9rem;
+}
+
+
+/* =========================================================
+   HEAD-TO-HEAD STAT CARDS
+========================================================= */
+
+.compare-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.compare-stat-card {
+  min-width: 0;
+  padding: 17px;
+
+  background: #ffffff;
+  border: 1px solid #dde4eb;
+  border-radius: 10px;
+
+  box-shadow: 0 2px 7px rgba(20, 40, 60, 0.035);
+}
+
+.compare-stat-title {
+  margin-bottom: 14px;
+
+  color: #778591;
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.compare-stat-values {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+
+  margin-bottom: 13px;
+}
+
+.compare-stat-player {
+  min-width: 0;
+}
+
+.compare-stat-player.right {
+  text-align: right;
+}
+
+.compare-stat-name {
+  display: block;
+
+  margin-bottom: 2px;
+
+  overflow: hidden;
+
+  color: #788591;
+  font-size: 0.73rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.compare-stat-number {
+  display: block;
+
+  color: #26384a;
+  font-size: 1.65rem;
+  font-weight: 750;
+  line-height: 1.05;
+}
+
+
+/* Stat comparison bars */
+
+.compare-bars {
+  display: grid;
+  gap: 5px;
+}
+
+.compare-bar-track {
+  width: 100%;
+  height: 5px;
+
+  overflow: hidden;
+
+  background: #edf1f4;
+  border-radius: 10px;
+}
+
+.compare-bar-fill {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.compare-bar-fill.player-one {
+  background: #20ad9c;
+}
+
+.compare-bar-fill.player-two {
+  background: #526b84;
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 1000px) {
+
+  .compare-stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+}
+
+
+/* =========================================================
    MOBILE / IPHONE
------------------------------------------ */
+========================================================= */
 
 @media (max-width: 768px) {
 
   .page-container {
     padding: 12px;
   }
+
+
+  /* Skater / goalie pages */
 
   .skater-header {
     flex-direction: column;
@@ -97,19 +503,87 @@
   }
 
   .shiny-options-group {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .card-body {
     padding: 10px;
   }
 
+
+  /* Comparison page */
+
+  .compare-dashboard {
+    padding-top: 18px;
+  }
+
+  .compare-page-header {
+    margin-bottom: 18px;
+  }
+
+  .compare-page-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .compare-selector-card {
+    padding: 15px;
+  }
+
+  .compare-selector-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .compare-vs-circle {
+    width: 44px;
+    height: 44px;
+  }
+
+  .compare-player-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+
+    margin-bottom: 24px;
+  }
+
+  .compare-player-top {
+    padding: 17px;
+  }
+
+  .compare-avatar {
+    width: 54px;
+    height: 54px;
+
+    font-size: 1rem;
+  }
+
+  .compare-player-identity h2 {
+    font-size: 1.4rem;
+  }
+
+  .compare-profile-details > div {
+    padding: 11px 15px;
+  }
+
+  .compare-stat-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .compare-stat-card {
+    padding: 15px;
+  }
+
+  .compare-stat-number {
+    font-size: 1.45rem;
+  }
+
 }
 
 
-/* -----------------------------------------
+/* =========================================================
    SMALL IPHONE
------------------------------------------ */
+========================================================= */
 
 @media (max-width: 480px) {
 
@@ -127,6 +601,47 @@
 
   h2 {
     font-size: 1.5rem;
+  }
+
+
+  /* Comparison */
+
+  .compare-selector-card {
+    padding: 12px;
+  }
+
+  .compare-player-top {
+    gap: 12px;
+    padding: 14px;
+  }
+
+  .compare-avatar {
+    width: 48px;
+    height: 48px;
+  }
+
+  .compare-player-identity h2 {
+    font-size: 1.25rem;
+  }
+
+  .compare-team-line {
+    font-size: 0.85rem;
+  }
+
+  .compare-profile-details > div {
+    padding: 10px 12px;
+  }
+
+  .detail-value {
+    font-size: 0.84rem;
+  }
+
+  .compare-stat-card {
+    padding: 13px;
+  }
+
+  .compare-stat-number {
+    font-size: 1.35rem;
   }
 
 }

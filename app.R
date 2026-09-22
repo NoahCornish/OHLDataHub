@@ -17,6 +17,7 @@ source("R/load_current_data.R")
 source("R/load_skater_data.R")
 source("R/load_goalie_data.R")
 source("R/load_ohl_data.R")
+source("R/mod_player_compare.R")
 #source("R/mod_data_explorer.R")
 
 
@@ -127,11 +128,7 @@ app_ui <- page_navbar(
   ),
 
   header = tags$head(
-    tags$link(
-      rel = "stylesheet",
-      type = "text/css",
-      href = "styles.css"
-    )
+    includeCSS("www/styles.css")
   ),
 
 
@@ -209,6 +206,17 @@ app_ui <- page_navbar(
 #    )
 #  ),
 
+# ==========================================================
+# Player Compare
+# ==========================================================
+
+nav_panel(
+  "Compare Players",
+
+  mod_player_compare_ui(
+    "player_compare"
+  )
+),
 
   # ==========================================================
   # SKATERS
@@ -964,6 +972,11 @@ server <- function(input, output, session) {
 #    "data_explorer",
 #    season_choices = season_choices
 #  )
+
+  mod_player_compare_server(
+    "player_compare",
+    season_choices = season_choices
+  )
 }
 
 
