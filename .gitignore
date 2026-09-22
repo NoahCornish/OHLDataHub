@@ -5,6 +5,9 @@
 #password file
 .Renviron
 
+#log in credentials
+credentials.rds
+
 # Session Data files
 .RData
 .RDataTmp

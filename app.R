@@ -31,17 +31,19 @@ credentials <- data.frame(
 )
 
 # Prevent accidentally launching without credentials
-if (
-  credentials$user == "" ||
-  credentials$password == ""
-) {
+# ============================================================
+# LOGIN CREDENTIALS
+# ============================================================
+
+if (!file.exists("credentials.rds")) {
   stop(
-    paste(
-      "OHL Data Hub login credentials are missing.",
-      "Check OHL_APP_USER and OHL_APP_PASSWORD."
-    )
+    "credentials.rds is missing. The application cannot start."
   )
 }
+
+credentials <- readRDS(
+  "credentials.rds"
+)
 
 
 # ============================================================
