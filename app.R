@@ -418,8 +418,148 @@ nav_panel(
 # PASSWORD-PROTECT ENTIRE APPLICATION
 # ============================================================
 
+auth_css <- tags$style(HTML("
+
+  body {
+    background: #f4f7f9 !important;
+  }
+
+  .panel {
+    border: none !important;
+    border-radius: 18px !important;
+    box-shadow: 0 18px 50px rgba(31, 45, 61, 0.12) !important;
+    overflow: hidden;
+  }
+
+  .panel-primary {
+    border-color: transparent !important;
+  }
+
+  .panel-heading {
+    display: none !important;
+  }
+
+  .panel-body {
+    padding: 34px 34px 30px 34px !important;
+    background: #ffffff;
+  }
+
+  .form-group label {
+    font-weight: 700 !important;
+    color: #314355 !important;
+    margin-bottom: 7px !important;
+  }
+
+  .form-control {
+    height: 48px !important;
+    border-radius: 9px !important;
+    border: 1px solid #d8e0e7 !important;
+    box-shadow: none !important;
+    font-size: 16px !important;
+  }
+
+  .form-control:focus {
+    border-color: #20ad9c !important;
+    box-shadow: 0 0 0 3px rgba(32, 173, 156, 0.12) !important;
+  }
+
+  .btn-primary {
+    height: 48px !important;
+    border-radius: 9px !important;
+    border: none !important;
+    background: #2d4258 !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    transition: 0.2s ease;
+  }
+
+  .btn-primary:hover,
+  .btn-primary:focus {
+    background: #203548 !important;
+  }
+
+  .ohl-login-brand {
+    text-align: center;
+    margin-bottom: 26px;
+  }
+
+  .ohl-login-mark {
+    width: 62px;
+    height: 62px;
+    margin: 0 auto 14px auto;
+    border-radius: 14px;
+    background: #2d4258;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+  }
+
+  .ohl-login-brand h1 {
+    margin: 0 0 6px 0;
+    color: #223447;
+    font-size: 28px;
+    font-weight: 800;
+  }
+
+  .ohl-login-brand p {
+    margin: 0;
+    color: #71808f;
+    font-size: 14px;
+  }
+
+  .ohl-login-footer {
+    margin-top: 22px;
+    text-align: center;
+    color: #8a96a2;
+    font-size: 12px;
+  }
+
+  @media (max-width: 600px) {
+
+    .panel-body {
+      padding: 26px 20px !important;
+    }
+
+    .ohl-login-brand h1 {
+      font-size: 24px;
+    }
+
+  }
+
+"))
+
 ui <- secure_app(
-  app_ui
+  app_ui,
+
+  head_auth = auth_css,
+
+  tags_top = tags$div(
+    class = "ohl-login-brand",
+
+    tags$div(
+      class = "ohl-login-mark",
+      "OHL"
+    ),
+
+    tags$h1(
+      "OHL Data Hub"
+    ),
+
+    tags$p(
+      "Sign in to access the dashboard"
+    )
+  ),
+
+  tags_bottom = tags$div(
+    class = "ohl-login-footer",
+    "Ontario Hockey League data, visualization, and comparison tools."
+  ),
+
+  background = "#f4f7f9"
 )
 
 
