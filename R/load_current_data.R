@@ -15,3 +15,16 @@ load_current_data <- function(file) {
     stringsAsFactors = FALSE
   )
 }
+
+load_refresh_time <- function() {
+
+  url <- paste0(
+    github_base,
+    "refresh.csv"
+  )
+
+  read.csv(
+    url,
+    stringsAsFactors = FALSE
+  )
+}

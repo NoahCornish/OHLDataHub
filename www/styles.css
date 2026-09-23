@@ -693,3 +693,29 @@
   }
 
 }
+
+/* =========================================================
+   DATA REFRESH STATUS
+========================================================= */
+
+.refresh-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  margin: 12px 0 20px 0;
+
+  color: #607080;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.refresh-dot {
+  width: 9px;
+  height: 9px;
+
+  background: #20ad9c;
+  border-radius: 50%;
+
+  flex: 0 0 auto;
+}
