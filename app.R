@@ -17,6 +17,9 @@ library(ggplot2)
 source("R/load_current_data.R")
 source("R/load_skater_data.R")
 source("R/load_goalie_data.R")
+source("R/load_player_history.R")
+source("R/load_player_directory.R")
+source("R/mod_player_profile.R")
 source("R/mod_player_compare.R")
 
 
@@ -211,6 +214,19 @@ app_ui <- page_navbar(
           )
         )
       )
+    )
+  ),
+
+  # ==========================================================
+  # PLAYER PROFILES
+  # ==========================================================
+
+  nav_panel(
+
+    "Players",
+
+    mod_player_profile_ui(
+      "player_profile"
     )
   ),
 
@@ -1191,6 +1207,17 @@ server <- function(input, output, session) {
     "player_compare",
     season_choices = season_choices
   )
+
+
+  # ==========================================================
+  # PLAYER PROFILE MODULE
+  # ==========================================================
+
+  mod_player_profile_server(
+    "player_profile",
+    season_choices = season_choices
+  )
+
 }
 
 
