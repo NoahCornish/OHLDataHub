@@ -1,35 +1,37 @@
 "Name","Rookie","BD","Hgt","Wgt","Pos","Team","GP","G","A","PTS","Pts/G","+/-","PPG","PPA","PPP","GWG","ENG","PIM"
-"Dima Zhilkin","NO",2008-10-21,"5.11",195,"LW","Saginaw Spirit",2,3,2,5,2.5,1,1,2,3,0,0,2
-"Ryan Kaczynski","NO",2009-07-08,"6.03",158,"LW","Soo Greyhounds",2,4,0,4,2,1,2,0,2,0,0,0
-"Noah Laus","NO",2009-02-10,"6.01",193,"LW","Soo Greyhounds",2,3,1,4,2,2,0,1,1,0,0,2
+"Ryan Kaczynski","NO",2009-07-08,"6.03",158,"LW","Soo Greyhounds",3,5,0,5,1.67,2,2,0,2,0,0,2
+"Noah Laus","NO",2009-02-10,"6.01",193,"LW","Soo Greyhounds",3,4,1,5,1.67,4,0,1,1,0,0,2
+"Dima Zhilkin","NO",2008-10-21,"5.11",195,"LW","Saginaw Spirit",3,3,2,5,1.67,2,1,2,3,0,0,2
+"Easton Walos","NO",2008-12-28,"5.11",192,"C","Sarnia Sting",3,3,1,4,1.33,-2,2,1,3,0,0,4
 "Nolan Snyder","NO",2009-04-13,"5.11",180,"RW","Kingston Frontenacs",2,2,2,4,2,3,0,1,1,0,0,0
+"Trevor Daley Jr","YES",2009-07-11,"5.10",182,"C","Soo Greyhounds",3,1,3,4,1.33,1,1,1,2,1,0,6
 "Levi Harper","NO",2008-10-03,"6.00",185,"D","Saginaw Spirit",2,0,4,4,2,-2,0,2,2,0,0,4
 "Bogdan Yakushevsky","YES",2009-01-16,"6.00",182,"RW","Windsor Spitfires",2,2,1,3,1.5,0,1,0,1,0,0,0
-"Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",2,2,1,3,1.5,0,1,0,1,1,0,0
-"Easton Walos","NO",2008-12-28,"5.11",192,"C","Sarnia Sting",2,2,1,3,1.5,-2,2,1,3,0,0,4
-"Trevor Daley Jr","YES",2009-07-11,"5.10",182,"C","Soo Greyhounds",2,1,2,3,1.5,0,1,1,2,1,0,4
-"Jake Murray","NO",2009-02-26,"6.01",195,"C","Erie Otters",1,0,3,3,3,3,0,0,0,0,0,0
+"Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",3,2,1,3,1,0,1,0,1,1,0,0
+"Jake Murray","NO",2009-02-26,"6.01",195,"C","Erie Otters",2,0,3,3,1.5,3,0,0,0,0,0,0
 "Kingston Harris","YES",2009-02-15,"6.01",164,"C","Sudbury Wolves",2,0,3,3,1.5,3,0,1,1,0,0,0
 "Keaton Ardagh","NO",2009-07-08,"6.00",163,"RW","Brampton Steelheads",3,2,0,2,0.67,-1,0,0,0,0,0,0
-"Tyler Hinde","YES",2009-06-23,"6.03",173,"C","Oshawa Generals",2,2,0,2,1,1,1,0,1,0,0,0
-"Aleks Kulemin","NO",2009-03-20,"6.04",190,"C","Kingston Frontenacs",2,1,1,2,1,3,1,0,1,1,0,2
+"Tyler Hinde","YES",2009-06-23,"6.03",173,"C","Oshawa Generals",3,2,0,2,0.67,1,1,0,1,0,0,0
+"Aleks Kulemin","NO",2009-03-20,"6.04",190,"C","Kingston Frontenacs",3,1,1,2,0.67,3,1,0,1,1,0,2
 "Brayden Lappalainen","YES",2009-04-27,"5.11",170,"LW","Brantford Bulldogs",2,1,1,2,1,3,1,0,1,0,0,0
 "Dante D'Andrea","YES",2009-01-22,"6.01",180,"D","Kingston Frontenacs",2,1,1,2,1,5,0,0,0,0,0,0
-"Eloan Le Gallic","YES",2009-02-06,"6.01",165,"C","London Knights",2,1,1,2,1,3,0,0,0,0,0,0
-"Jake Ritson","YES",2009-02-12,"6.01",190,"LW","London Knights",2,1,1,2,1,2,0,0,0,1,0,0
+"Eloan Le Gallic","YES",2009-02-06,"6.01",165,"C","London Knights",3,1,1,2,0.67,3,0,0,0,0,0,0
+"Jake Ritson","YES",2009-02-12,"6.01",190,"LW","London Knights",3,1,1,2,0.67,2,0,0,0,1,0,0
 "Max Brocklehurst","NO",2008-12-30,"5.09",170,"RW","Windsor Spitfires",2,1,1,2,1,0,0,0,0,0,0,0
-"Adam Nemec","YES",2009-07-28,"6.01",175,"LW","Brantford Bulldogs",2,0,2,2,1,0,0,1,1,0,0,0
-"John McLaughlin","NO",2009-08-14,"6.00",185,"C","Windsor Spitfires",2,0,2,2,1,0,0,1,1,0,0,0
-"Kaden McGregor","NO",2009-01-30,"5.11",180,"C","Brantford Bulldogs",2,0,2,2,1,1,0,1,1,0,0,2
+"Adam Nemec","YES",2009-07-28,"6.01",175,"LW","Brantford Bulldogs",3,0,2,2,0.67,-1,0,1,1,0,0,0
+"Dmitry Savin","YES",2009-04-14,"6.03",190,"C","Saginaw Spirit",3,0,2,2,0.67,0,0,0,0,0,0,0
+"John McLaughlin","NO",2009-08-14,"6.00",185,"C","Windsor Spitfires",3,0,2,2,0.67,0,0,1,1,0,0,0
+"Kade Meyer","NO",2008-11-05,"5.08",190,"D","Saginaw Spirit",3,0,2,2,0.67,2,0,0,0,0,0,5
+"Kaden McGregor","NO",2009-01-30,"5.11",180,"C","Brantford Bulldogs",3,0,2,2,0.67,1,0,1,1,0,0,2
 "Kane Barch","YES",2009-03-13,"6.00",192,"C","London Knights",2,0,2,2,1,0,0,0,0,0,0,0
 "Mason Walker","NO",2008-11-26,"5.11",169,"LW","Sudbury Wolves",2,0,2,2,1,0,0,1,1,0,0,2
-"Sam Roberts","NO",2009-05-21,"6.01",186,"RW","Oshawa Generals",2,0,2,2,1,1,0,1,1,0,0,0
-"Brayden Bennett","NO",2009-02-05,"6.00",193,"C","Sudbury Wolves",2,1,0,1,0.5,1,1,0,1,0,0,0
+"Sam Roberts","NO",2009-05-21,"6.01",186,"RW","Oshawa Generals",3,0,2,2,0.67,1,0,1,1,0,0,2
+"Brayden Bennett","NO",2009-02-05,"6.00",193,"C","Sudbury Wolves",3,1,0,1,0.33,1,1,0,1,0,0,0
 "Brenner Lammens","NO",2009-09-13,"6.01",195,"C","Sarnia Sting",2,1,0,1,0.5,-2,1,0,1,0,0,2
-"Genc Ula","NO",2008-10-26,"6.01",198,"D","Sudbury Wolves",2,1,0,1,0.5,0,1,0,1,0,0,7
+"Genc Ula","NO",2008-10-26,"6.01",198,"D","Sudbury Wolves",3,1,0,1,0.33,1,1,0,1,0,0,9
 "Luca Blonda","NO",2008-11-25,"5.10",188,"D","Sudbury Wolves",2,1,0,1,0.5,5,0,0,0,0,0,0
-"Lucas DeMiglio","NO",2008-10-26,"6.00",165,"LW","Brampton Steelheads",3,1,0,1,0.33,1,0,0,0,0,0,2
-"Mark Pape","NO",2009-01-24,"6.00",178,"LW","Oshawa Generals",2,1,0,1,0.5,2,0,0,0,0,0,7
+"Lucas DeMiglio","NO",2008-10-26,"6.00",165,"LW","Brampton Steelheads",4,1,0,1,0.25,0,0,0,0,0,0,2
+"Mark Pape","NO",2009-01-24,"6.00",178,"LW","Oshawa Generals",3,1,0,1,0.33,1,0,0,0,0,0,7
 "A.J. Gladman","YES",2009-01-19,"6.06",225,"D","Erie Otters",1,0,1,1,1,1,0,0,0,0,0,0
 "Alex Campeau","YES",2009-03-23,"6.04",190,"C","London Knights",2,0,1,1,0.5,1,0,0,0,0,0,2
 "Alex Forrest","YES",2009-06-11,"5.11",157,"LD","Kitchener Rangers",2,0,1,1,0.5,1,0,0,0,0,0,0
@@ -41,62 +43,62 @@
 "Christopher Weiss","YES",2009-01-17,"6.03",201,"D","Soo Greyhounds",2,0,1,1,0.5,2,0,0,0,0,0,0
 "Cole Mazzoni","YES",2009-05-12,"6.03",193,"LW","Oshawa Generals",2,0,1,1,0.5,1,0,0,0,0,0,0
 "David Buchman","NO",2009-07-01,"5.11",182,"D","Brantford Bulldogs",2,0,1,1,0.5,2,0,0,0,0,0,2
-"Dmitry Savin","YES",2009-04-14,"6.03",190,"C","Saginaw Spirit",2,0,1,1,0.5,-1,0,0,0,0,0,0
 "Jax Pereira","NO",2009-05-06,"5.11",175,"C","North Bay Battalion",2,0,1,1,0.5,1,0,0,0,0,0,0
-"Jonas Gulbrandsen","NO",2008-10-14,"6.06",220,"C","Sarnia Sting",2,0,1,1,0.5,-1,0,0,0,0,0,2
-"Kade Meyer","NO",2008-11-05,"5.08",190,"D","Saginaw Spirit",2,0,1,1,0.5,1,0,0,0,0,0,5
+"Jonas Gulbrandsen","NO",2008-10-14,"6.06",220,"C","Sarnia Sting",3,0,1,1,0.33,-1,0,0,0,0,0,2
 "Matthew Perreault","NO",2009-07-28,"6.00",178,"D","Peterborough Petes",3,0,1,1,0.33,1,0,1,1,0,0,4
-"Norman Greene","YES",2009-02-02,"6.01",183,"RW","Sudbury Wolves",2,0,1,1,0.5,0,0,0,0,0,0,0
+"Max Delisle","NO",2009-07-06,"6.01",184,"C","Owen Sound Attack",3,0,1,1,0.33,-1,0,1,1,0,0,2
+"Norman Greene","YES",2009-02-02,"6.01",183,"RW","Sudbury Wolves",3,0,1,1,0.33,1,0,0,0,0,0,0
 "Oskar Konobelj","YES",2009-05-29,"6.04",192,"D","North Bay Battalion",3,0,1,1,0.33,3,0,0,0,0,0,14
 "Parker Smith","YES",2009-04-17,"5.09",175,"LW","Sudbury Wolves",2,0,1,1,0.5,1,0,0,0,0,0,0
-"Peter Green","NO",2009-07-21,"6.00",173,"D","Brampton Steelheads",3,0,1,1,0.33,0,0,0,0,0,0,0
+"Paul Schuster","YES",2009-07-26,"5.10",176,"RW","Erie Otters",1,0,1,1,1,1,0,0,0,0,0,0
+"Peter Green","NO",2009-07-21,"6.00",173,"D","Brampton Steelheads",4,0,1,1,0.25,-3,0,0,0,0,0,0
+"Timothy Kazda","NO",2008-10-04,"6.01",193,"RW","Guelph Storm",3,0,1,1,0.33,-1,0,1,1,0,0,0
 "Abe Barnett","NO",2008-09-21,"6.02",198,"D","Brantford Bulldogs",2,0,0,0,0,1,0,0,0,0,0,2
 "Adam Kelly","NO",2008-09-19,"6.00",185,"RW","Kingston Frontenacs",2,0,0,0,0,-1,0,0,0,0,0,2
 "Aiden Mowrey","YES",2009-07-02,"6.04",210,"D","Barrie Colts",2,0,0,0,0,0,0,0,0,0,0,0
 "Alexander Lisi","YES",2009-07-03,"6.00",190,"LW","Owen Sound Attack",2,0,0,0,0,-2,0,0,0,0,0,0
 "Andrew Baker","YES",2009-01-20,"6.00",173,"RW","Guelph Storm",2,0,0,0,0,-3,0,0,0,0,0,0
-"Blake Munnings","YES",2009-01-23,"6.00",193,"LD","Niagara IceDogs",2,0,0,0,0,-1,0,0,0,0,0,0
+"Blake Munnings","YES",2009-01-23,"6.00",193,"LD","Niagara IceDogs",3,0,0,0,0,-2,0,0,0,0,0,0
 "Brock Chitaroni","NO",2009-01-27,"6.00",188,"RW","Ottawa 67's",1,0,0,0,0,-3,0,0,0,0,0,0
 "Caden Bell","YES",2009-01-15,"5.11",170,"D","Owen Sound Attack",2,0,0,0,0,-1,0,0,0,0,0,0
-"Carter Beauchesne","YES",2009-02-09,"6.00",185,"LW","Flint Firebirds",1,0,0,0,0,0,0,0,0,0,0,0
+"Carter Beauchesne","YES",2009-02-09,"6.00",185,"LW","Flint Firebirds",2,0,0,0,0,0,0,0,0,0,0,0
 "Carter Kucher","NO",2008-12-14,"6.04",212,"D","Guelph Storm",2,0,0,0,0,-3,0,0,0,0,0,0
-"Carter Lewandowski","YES",2009-06-02,"6.03",186,"C","Niagara IceDogs",2,0,0,0,0,0,0,0,0,0,0,0
-"Charlie Murata","NO",2009-02-15,"6.00",190,"RW","Flint Firebirds",1,0,0,0,0,-1,0,0,0,0,0,0
+"Carter Lewandowski","YES",2009-06-02,"6.03",186,"C","Niagara IceDogs",3,0,0,0,0,-1,0,0,0,0,0,0
+"Charlie Murata","NO",2009-02-15,"6.00",190,"RW","Flint Firebirds",2,0,0,0,0,-1,0,0,0,0,0,0
 "Charlie Sullivan","YES",2009-03-21,"6.02",184,"D","Guelph Storm",2,0,0,0,0,-1,0,0,0,0,0,2
 "Chase Sewell","NO",2009-09-09,"6.05",201,"D","Sarnia Sting",1,0,0,0,0,-2,0,0,0,0,0,0
 "Cody Costello","NO",2009-04-22,"6.02",179,"LD","Oshawa Generals",2,0,0,0,0,3,0,0,0,0,0,2
 "Drew Roscoe","NO",2009-03-05,"6.08",205,"D","Saginaw Spirit",2,0,0,0,0,-2,0,0,0,0,0,0
 "Evan Nicholson","YES",2009-04-01,"5.10",173,"LW","Kitchener Rangers",1,0,0,0,0,0,0,0,0,0,0,0
 "Gavin Christie","YES",2009-04-13,"6.02",181,"D","Kingston Frontenacs",2,0,0,0,0,2,0,0,0,0,0,0
-"Gensen Geldart","NO",2009-05-05,"6.02",180,"C","Saginaw Spirit",2,0,0,0,0,-2,0,0,0,0,0,0
+"Gensen Geldart","NO",2009-05-05,"6.02",180,"C","Saginaw Spirit",3,0,0,0,0,-2,0,0,0,0,0,0
 "Grant Yingst","YES",2009-01-18,"6.01",208,"RW","Oshawa Generals",2,0,0,0,0,0,0,0,0,0,0,0
 "Hudson Leenders","YES",2009-02-01,"6.01",185,"LW","Saginaw Spirit",1,0,0,0,0,-1,0,0,0,0,0,0
 "Ian Inskip","YES",2009-02-05,"6.02",195,"LW","Windsor Spitfires",2,0,0,0,0,0,0,0,0,0,0,0
-"Ian Robinson","NO",2008-10-07,"6.03",191,"C","Kitchener Rangers",2,0,0,0,0,0,0,0,0,0,0,2
-"Jaakko Wycisk","YES",2009-03-16,"6.02",206,"C","Guelph Storm",2,0,0,0,0,-2,0,0,0,0,0,0
+"Ian Robinson","NO",2008-10-07,"6.03",191,"C","Kitchener Rangers",3,0,0,0,0,0,0,0,0,0,0,2
+"Jaakko Wycisk","YES",2009-03-16,"6.02",206,"C","Guelph Storm",3,0,0,0,0,-2,0,0,0,0,0,0
 "Jack Johnson","YES",2009-04-21,"6.03",198,"D","Ottawa 67's",1,0,0,0,0,0,0,0,0,0,0,0
 "Jacob Lukes","NO",2009-05-22,"6.00",175,"C","Kitchener Rangers",1,0,0,0,0,1,0,0,0,0,0,0
-"Jeremy Freeman","NO",2009-07-07,"5.09",178,"LW","Brantford Bulldogs",2,0,0,0,0,-1,0,0,0,0,0,0
-"Jesse Debruyn","YES",2009-02-03,"6.00",196,"D","Windsor Spitfires",2,0,0,0,0,-1,0,0,0,0,0,0
-"Jonah McCormick","NO",2008-10-08,"6.02",200,"LW","Barrie Colts",2,0,0,0,0,-1,0,0,0,0,0,2
+"Jeremy Freeman","NO",2009-07-07,"5.09",178,"LW","Brantford Bulldogs",3,0,0,0,0,-2,0,0,0,0,0,0
+"Jesse Debruyn","YES",2009-02-03,"6.00",196,"D","Windsor Spitfires",3,0,0,0,0,-1,0,0,0,0,0,2
+"Jonah McCormick","NO",2008-10-08,"6.02",200,"LW","Barrie Colts",3,0,0,0,0,-3,0,0,0,0,0,2
 "Kaden Aucoin","NO",2009-08-14,"6.02",185,"D","Sarnia Sting",2,0,0,0,0,-1,0,0,0,0,0,2
 "Kohyn Eshkawkogan","NO",2008-11-19,"5.10",179,"D","Ottawa 67's",1,0,0,0,0,-1,0,0,0,0,0,0
 "Lachlan Larmand","YES",2009-03-25,"6.00",180,"RW","Brampton Steelheads",1,0,0,0,0,-1,0,0,0,0,0,2
 "Lincoln Edwards","YES",2009-09-12,"5.10",172,"LW","North Bay Battalion",2,0,0,0,0,-2,0,0,0,0,0,0
-"Logan Massimi","YES",2009-01-05,"6.00",174,"RD","Kitchener Rangers",2,0,0,0,0,1,0,0,0,0,0,0
+"Logan Massimi","YES",2009-01-05,"6.00",174,"RD","Kitchener Rangers",3,0,0,0,0,0,0,0,0,0,0,0
+"Luca Santala","YES",2009-07-28,"6.03",195,"C","Kitchener Rangers",2,0,0,0,0,-2,0,0,0,0,0,0
 "Lucas Nutting","YES",2009-04-05,"5.11",185,"D","Flint Firebirds",1,0,0,0,0,0,0,0,0,0,0,0
-"Matthew Henderson","NO",2009-03-20,"6.00",175,"D","Kingston Frontenacs",2,0,0,0,0,2,0,0,0,0,0,0
-"Max Delisle","NO",2009-07-06,"6.01",184,"C","Owen Sound Attack",2,0,0,0,0,-1,0,0,0,0,0,2
+"Matthew Henderson","NO",2009-03-20,"6.00",175,"D","Kingston Frontenacs",3,0,0,0,0,1,0,0,0,0,0,0
 "Michael Tang","YES",2009-04-15,"6.01",170,"RW","Barrie Colts",2,0,0,0,0,-3,0,0,0,0,0,0
 "Myles Dunn","YES",2009-06-18,"5.10",170,"RW","Sarnia Sting",2,0,0,0,0,-1,0,0,0,0,0,2
 "Reid Hayes","YES",2009-07-16,"6.00",184,"RW","Ottawa 67's",1,0,0,0,0,0,0,0,0,0,0,0
-"Rocco Olek","YES",2009-07-07,"6.03",190,"RW","Barrie Colts",2,0,0,0,0,-1,0,0,0,0,0,0
-"Ryerson Edgar","NO",2009-07-30,"5.10",165,"C","Niagara IceDogs",2,0,0,0,0,1,0,0,0,0,0,0
+"Rocco Olek","YES",2009-07-07,"6.03",190,"RW","Barrie Colts",3,0,0,0,0,-1,0,0,0,0,0,0
+"Ryerson Edgar","NO",2009-07-30,"5.10",165,"C","Niagara IceDogs",3,0,0,0,0,1,0,0,0,0,0,0
 "Sarvir Jaworski","YES",2009-02-24,"5.11",165,"LW","Sarnia Sting",1,0,0,0,0,-1,0,0,0,0,0,2
-"Sebastian Mogull","NO",2008-12-12,"6.01",185,"RW","Barrie Colts",2,0,0,0,0,-3,0,0,0,0,0,0
+"Sebastian Mogull","NO",2008-12-12,"6.01",185,"RW","Barrie Colts",3,0,0,0,0,-5,0,0,0,0,0,2
 "Stepan Stejskal","YES",2009-01-06,"6.00",165,"LW","Niagara IceDogs",2,0,0,0,0,-1,0,0,0,0,0,0
-"Timothy Kazda","NO",2008-10-04,"6.01",193,"RW","Guelph Storm",2,0,0,0,0,-1,0,0,0,0,0,0
 "Tommy Kut","YES",2009-01-05,"6.03",224,"LD","Kitchener Rangers",2,0,0,0,0,1,0,0,0,0,0,0
-"Ty Bergeron","YES",2009-05-26,"6.01",200,"LW","Windsor Spitfires",2,0,0,0,0,-2,0,0,0,0,0,2
+"Ty Bergeron","YES",2009-05-26,"6.01",200,"LW","Windsor Spitfires",3,0,0,0,0,-2,0,0,0,0,0,2
 "Tyler Martyniuk","NO",2008-12-31,"6.01",200,"D","Saginaw Spirit",2,0,0,0,0,-3,0,0,0,0,0,0
 "Will Mullins","YES",2009-05-14,"6.00",179,"RW","Niagara IceDogs",2,0,0,0,0,-1,0,0,0,0,0,0
