@@ -5,12 +5,12 @@
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",7,1,0,1,0.14,11
 "Brady Smith",2007-04-12,"C","Soo Greyhounds",6,1,0,1,0.17,33
 "Brock Chitaroni",2009-01-27,"RW","Ottawa 67's",5,1,0,1,0.2,20
-"Charlie Murata",2009-02-15,"RW","Flint Firebirds",5,1,0,1,0.2,33
+"Charlie Murata",2009-02-15,"RW","Flint Firebirds",6,1,0,1,0.17,25
 "Colin Kennedy",2010-03-10,"C","Erie Otters",6,1,0,1,0.17,50
 "Ethan Czata",2007-05-29,"C","Guelph Storm",4,1,0,1,0.25,17
 "Evgeny Dubrovtsev",2008-03-18,"C","North Bay Battalion",7,1,0,1,0.14,14
 "Nolan Buttar",2008-05-23,"LW","Kingston Frontenacs",7,1,0,1,0.14,17
-"Tanner Lam",2007-07-14,"RW","Kitchener Rangers",7,1,0,1,0.14,17
+"Tanner Lam",2007-07-14,"RW","Kitchener Rangers",8,1,0,1,0.12,14
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",7,1,0,1,0.14,33
 "A.J. Gladman",2009-01-19,"D","Erie Otters",3,0,1,1,0.33,100
 "Anthony Cristoforo",2006-02-23,"D","Windsor Spitfires",5,0,1,1,0.2,20
@@ -18,11 +18,11 @@
 "Blake Clayton",2007-10-23,"C","Sudbury Wolves",5,0,1,1,0.2,25
 "Chase Yanni",2007-01-08,"LW","Ottawa 67's",5,0,1,1,0.2,20
 "Eric Frossard",2008-01-12,"D","Guelph Storm",6,0,1,1,0.17,50
-"Jimmy Lombardi",2007-02-16,"C","Flint Firebirds",4,0,1,1,0.25,12
+"Jimmy Lombardi",2007-02-16,"C","Flint Firebirds",5,0,1,1,0.2,10
 "Kayden Edwards",2008-04-24,"LW","Erie Otters",6,0,1,1,0.17,50
 "Linus Funck",2007-05-10,"D","Oshawa Generals",6,0,1,1,0.17,33
-"Luca Romano",2007-06-25,"C","Kitchener Rangers",5,0,1,1,0.2,20
-"Luka Graziano",2007-10-24,"D","Flint Firebirds",5,0,1,1,0.2,33
+"Luca Romano",2007-06-25,"C","Kitchener Rangers",6,0,1,1,0.17,17
+"Luka Graziano",2007-10-24,"D","Flint Firebirds",6,0,1,1,0.17,25
 "Onni Kalto",2006-12-14,"LW","Oshawa Generals",6,0,1,1,0.17,20
 "Tyler Hopkins",2007-01-23,"C","Guelph Storm",4,0,1,1,0.25,11
 "Aaron Enright",2007-03-28,"D","North Bay Battalion",4,0,0,0,0,0
@@ -44,11 +44,11 @@
 "Alessandro Di Iorio",2008-03-17,"C","Sarnia Sting",6,0,0,0,0,0
 "Alex Campeau",2009-03-23,"C","London Knights",5,0,0,0,0,0
 "Alex Carscadden",2008-01-13,"C","Guelph Storm",3,0,0,0,0,NA
-"Alex Forrest",2009-06-11,"LD","Kitchener Rangers",6,0,0,0,0,0
+"Alex Forrest",2009-06-11,"LD","Kitchener Rangers",7,0,0,0,0,0
 "Alex McLean",2008-08-08,"C","Kingston Frontenacs",7,0,0,0,0,0
 "Alex Milojevic",2009-09-05,"C","Saginaw Spirit",6,0,0,0,0,0
 "Alex Misiak",2007-06-22,"LW","Kingston Frontenacs",7,0,0,0,0,0
-"Alexander Bilecki",2008-05-09,"LD","Kitchener Rangers",5,0,0,0,0,0
+"Alexander Bilecki",2008-05-09,"LD","Kitchener Rangers",6,0,0,0,0,0
 "Alexander Hage",2008-02-05,"RW","Niagara IceDogs",4,0,0,0,0,NA
 "Alexander Karmanov",2008-03-22,"D","North Bay Battalion",4,0,0,0,0,0
 "Alexander Lisi",2009-07-03,"LW","Owen Sound Attack",6,0,0,0,0,NA
@@ -85,7 +85,7 @@
 "Brody Leet",2007-04-08,"LW","London Knights",5,0,0,0,0,NA
 "Brody Pepoy",2008-05-16,"RW","Saginaw Spirit",6,0,0,0,0,0
 "Brooks Rogowski",2008-06-24,"C","Oshawa Generals",5,0,0,0,0,0
-"Bryson Morgan",2008-03-20,"C","Flint Firebirds",4,0,0,0,0,0
+"Bryson Morgan",2008-03-20,"C","Flint Firebirds",5,0,0,0,0,0
 "Caden Bell",2009-01-15,"D","Owen Sound Attack",6,0,0,0,0,NA
 "Caden Harvey",2008-02-13,"RW","Windsor Spitfires",4,0,0,0,0,0
 "Caden Taylor",2007-03-31,"RW","Oshawa Generals",7,0,0,0,0,0
@@ -96,14 +96,14 @@
 "Cam Anderson",2009-06-06,"RW","Soo Greyhounds",3,0,0,0,0,0
 "Cam Warren",2009-05-07,"C","North Bay Battalion",6,0,0,0,0,0
 "Camden McCuaig",2008-06-19,"LW","Brantford Bulldogs",6,0,0,0,0,0
-"Cameron Arquette",2007-04-27,"LW","Kitchener Rangers",7,0,0,0,0,0
+"Cameron Arquette",2007-04-27,"LW","Kitchener Rangers",8,0,0,0,0,0
 "Cameron Aucoin",2007-03-20,"D","Sarnia Sting",7,0,0,0,0,0
 "Cameron Merrick",2007-11-10,"D","Owen Sound Attack",6,0,0,0,0,0
 "Camron Hankai",2007-03-22,"D","Peterborough Petes",4,0,0,0,0,NA
 "Carson Andrew",2008-03-10,"RW","Brantford Bulldogs",6,0,0,0,0,0
 "Carson Cameron",2007-06-27,"D","Peterborough Petes",7,0,0,0,0,0
 "Carson Harmer",2007-01-13,"C","London Knights",5,0,0,0,0,0
-"Carter Beauchesne",2009-02-09,"LW","Flint Firebirds",5,0,0,0,0,NA
+"Carter Beauchesne",2009-02-09,"LW","Flint Firebirds",6,0,0,0,0,NA
 "Carter Chadwick",2007-08-18,"LW","Sarnia Sting",2,0,0,0,0,NA
 "Carter Hicks",2008-02-20,"D","Brampton Steelheads",7,0,0,0,0,0
 "Carter Kucher",2008-12-14,"D","Guelph Storm",5,0,0,0,0,0
@@ -113,7 +113,7 @@
 "Carter Stevens",2008-01-11,"RW","Guelph Storm",6,0,0,0,0,0
 "Charlie Ashcroft",2008-03-01,"D","Soo Greyhounds",6,0,0,0,0,0
 "Charlie Hotles",2008-07-05,"C","Flint Firebirds",2,0,0,0,0,NA
-"Charlie Puglisi",2008-04-16,"C","Kitchener Rangers",7,0,0,0,0,0
+"Charlie Puglisi",2008-04-16,"C","Kitchener Rangers",8,0,0,0,0,0
 "Charlie Sullivan",2009-03-21,"D","Guelph Storm",2,0,0,0,0,NA
 "Chase Gaughan",2008-07-17,"RW","Sarnia Sting",7,0,0,0,0,0
 "Chase Hull",2007-04-28,"LW","Niagara IceDogs",6,0,0,0,0,0
@@ -127,7 +127,7 @@
 "Colby Coombe",2009-12-15,"LW","Ottawa 67's",3,0,0,0,0,0
 "Cole Dubowsky",2007-06-11,"LW","Windsor Spitfires",3,0,0,0,0,0
 "Cole Emerton",2008-03-04,"D","Sarnia Sting",7,0,0,0,0,0
-"Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",4,0,0,0,0,0
+"Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",5,0,0,0,0,0
 "Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",6,0,0,0,0,0
 "Cole Wreggitt",2008-07-13,"D","Sudbury Wolves",3,0,0,0,0,NA
 "Cole Zurawski",2008-02-06,"RW","Owen Sound Attack",6,0,0,0,0,0
@@ -137,17 +137,17 @@
 "Conor Walton",2006-04-22,"D","Windsor Spitfires",4,0,0,0,0,NA
 "Cooper Dennis",2007-05-07,"RW","Peterborough Petes",7,0,0,0,0,0
 "Cooper McAslan",2009-03-16,"D","London Knights",5,0,0,0,0,0
-"Cooper Williams",2007-04-18,"LW","Flint Firebirds",5,0,0,0,0,0
+"Cooper Williams",2007-04-18,"LW","Flint Firebirds",6,0,0,0,0,0
 "Cullen McCrate",2007-04-18,"D","Brantford Bulldogs",5,0,0,0,0,0
 "Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",6,0,0,0,0,0
-"Darian Anderson",2006-12-22,"RW","Flint Firebirds",5,0,0,0,0,0
+"Darian Anderson",2006-12-22,"RW","Flint Firebirds",6,0,0,0,0,0
 "David Bedkowski",2006-12-07,"D","Ottawa 67's",5,0,0,0,0,0
 "David Buchman",2009-07-01,"D","Brantford Bulldogs",8,0,0,0,0,0
 "Declan Gallivan",2007-06-03,"D","North Bay Battalion",1,0,0,0,0,NA
 "Declan McNally",2010-09-28,"D","Barrie Colts",6,0,0,0,0,0
 "Dillon Atkinson",2008-01-21,"C","Owen Sound Attack",6,0,0,0,0,NA
 "Dima Zhilkin",2008-10-21,"LW","Saginaw Spirit",6,0,0,0,0,0
-"Dmitri Toporowski",2006-08-11,"RD","Kitchener Rangers",6,0,0,0,0,0
+"Dmitri Toporowski",2006-08-11,"RD","Kitchener Rangers",7,0,0,0,0,0
 "Dmitry Savin",2009-04-14,"C","Saginaw Spirit",6,0,0,0,0,0
 "Doman Szongoth",2008-06-08,"C","Soo Greyhounds",6,0,0,0,0,NA
 "Dracen Campbell",2007-08-09,"D","Sarnia Sting",6,0,0,0,0,0
@@ -186,7 +186,7 @@
 "Grant Spada",2007-06-24,"D","Guelph Storm",4,0,0,0,0,NA
 "Grant Yingst",2009-01-18,"RW","Oshawa Generals",3,0,0,0,0,NA
 "Grayden Strohack",2006-06-09,"D","Peterborough Petes",7,0,0,0,0,0
-"Haeden Ellis",2007-03-07,"C","Kitchener Rangers",7,0,0,0,0,0
+"Haeden Ellis",2007-03-07,"C","Kitchener Rangers",8,0,0,0,0,0
 "Hamza Havusic",2008-07-03,"RW","Windsor Spitfires",7,0,0,0,0,0
 "Hannu Packalen",2010-02-15,"C","Ottawa 67's",1,0,0,0,0,NA
 "Harrison Franssen",2006-05-04,"C","Oshawa Generals",7,0,0,0,0,0
@@ -197,7 +197,7 @@
 "Hudson Leenders",2009-02-01,"LW","Saginaw Spirit",3,0,0,0,0,NA
 "Hudson Martin",2007-06-20,"D","Sudbury Wolves",5,0,0,0,0,NA
 "Ian Inskip",2009-02-05,"LW","Windsor Spitfires",4,0,0,0,0,NA
-"Ian Robinson",2008-10-07,"C","Kitchener Rangers",6,0,0,0,0,NA
+"Ian Robinson",2008-10-07,"C","Kitchener Rangers",7,0,0,0,0,NA
 "Illia Shybinskyi",2007-05-14,"LW","Guelph Storm",6,0,0,0,0,0
 "Ivan Belikov",2010-03-31,"D","Sudbury Wolves",3,0,0,0,0,NA
 "Ivan Galiyanov",2007-10-16,"C","Niagara IceDogs",4,0,0,0,0,0
@@ -206,7 +206,7 @@
 "Jack Clarke",2007-06-05,"C","Peterborough Petes",6,0,0,0,0,0
 "Jack Good",2006-03-31,"LW","Brantford Bulldogs",3,0,0,0,0,0
 "Jack Johnson",2009-04-21,"D","Ottawa 67's",5,0,0,0,0,0
-"Jack LaBrash",2007-03-04,"LW","Kitchener Rangers",7,0,0,0,0,0
+"Jack LaBrash",2007-03-04,"LW","Kitchener Rangers",8,0,0,0,0,0
 "Jack Torr",2008-07-29,"C","Brantford Bulldogs",8,0,0,0,0,0
 "Jack Van Volsen",2006-01-12,"C","Sarnia Sting",7,0,0,0,0,0
 "Jack Yates",2008-05-02,"LW","Brampton Steelheads",2,0,0,0,0,NA
@@ -257,7 +257,7 @@
 "Kade Meyer",2008-11-05,"D","Saginaw Spirit",6,0,0,0,0,0
 "Kaden Aucoin",2009-08-14,"D","Sarnia Sting",2,0,0,0,0,NA
 "Kaden McGregor",2009-01-30,"C","Brantford Bulldogs",8,0,0,0,0,0
-"Kaden Schneider",2007-06-21,"LD","Kitchener Rangers",5,0,0,0,0,0
+"Kaden Schneider",2007-06-21,"LD","Kitchener Rangers",6,0,0,0,0,0
 "Kaleb Dietsch",2007-01-03,"D","Ottawa 67's",5,0,0,0,0,NA
 "Kam Hodgson",2008-04-02,"RW","North Bay Battalion",7,0,0,0,0,0
 "Kane Barch",2009-03-13,"C","London Knights",5,0,0,0,0,0
@@ -290,7 +290,7 @@
 "Luc Plante",2007-05-21,"LW","Erie Otters",1,0,0,0,0,NA
 "Luca Blonda",2008-11-25,"D","Sudbury Wolves",5,0,0,0,0,0
 "Luca Diplacido",2008-09-11,"RD","Oshawa Generals",1,0,0,0,0,NA
-"Luca Santala",2009-07-28,"C","Kitchener Rangers",6,0,0,0,0,0
+"Luca Santala",2009-07-28,"C","Kitchener Rangers",7,0,0,0,0,0
 "Luca Testa",2006-04-10,"C","Barrie Colts",6,0,0,0,0,NA
 "Lucas Ambrosio",2008-01-06,"D","Erie Otters",5,0,0,0,0,0
 "Lucas DeMiglio",2008-10-26,"LW","Brampton Steelheads",7,0,0,0,0,0
@@ -307,7 +307,7 @@
 "Marc Ruggere",2010-09-05,"D","Barrie Colts",3,0,0,0,0,NA
 "Marcus Nordmark",2008-05-04,"RW","London Knights",3,0,0,0,0,0
 "Mark Pape",2009-01-24,"LW","Oshawa Generals",6,0,0,0,0,0
-"Martins Klaucans",2008-07-08,"C","Flint Firebirds",5,0,0,0,0,0
+"Martins Klaucans",2008-07-08,"C","Flint Firebirds",6,0,0,0,0,0
 "Mason Minsky",2007-07-03,"C","Peterborough Petes",7,0,0,0,0,0
 "Mason Roy",2008-07-15,"D","Brampton Steelheads",7,0,0,0,0,NA
 "Mason Walker",2008-11-26,"LW","Sudbury Wolves",5,0,0,0,0,0
@@ -331,7 +331,7 @@
 "Nathan Amidovski",2008-04-06,"LW","Brampton Steelheads",7,0,0,0,0,0
 "Nic Whitehead",2007-02-11,"C","Ottawa 67's",5,0,0,0,0,0
 "Nicholas Desiderio",2008-06-16,"LW","Barrie Colts",5,0,0,0,0,0
-"Nick Bogas",2008-07-23,"D","Flint Firebirds",5,0,0,0,0,0
+"Nick Bogas",2008-07-23,"D","Flint Firebirds",6,0,0,0,0,0
 "Noah Jenken",2007-03-08,"D","Guelph Storm",1,0,0,0,0,0
 "Noah Lapointe",2006-06-05,"D","Brantford Bulldogs",5,0,0,0,0,0
 "Noah Laus",2009-02-10,"LW","Soo Greyhounds",6,0,0,0,0,0
@@ -378,10 +378,10 @@
 "Ryan Roobroeck",2007-09-25,"LW","Guelph Storm",4,0,0,0,0,0
 "Ryan Yurkiw",2008-07-27,"D","Barrie Colts",5,0,0,0,0,0
 "Ryder Carey",2008-08-02,"RW","North Bay Battalion",7,0,0,0,0,0
-"Ryder Roberson",2008-02-18,"RW","Kitchener Rangers",7,0,0,0,0,0
+"Ryder Roberson",2008-02-18,"RW","Kitchener Rangers",8,0,0,0,0,0
 "Ryerson Edgar",2009-07-30,"C","Niagara IceDogs",6,0,0,0,0,0
-"Rylan Fellinger",2007-05-16,"D","Flint Firebirds",5,0,0,0,0,0
-"Ryland Cunningham",2008-06-28,"LW","Flint Firebirds",5,0,0,0,0,0
+"Rylan Fellinger",2007-05-16,"D","Flint Firebirds",6,0,0,0,0,0
+"Ryland Cunningham",2008-06-28,"LW","Flint Firebirds",6,0,0,0,0,0
 "Sam Roberts",2009-05-21,"RW","Oshawa Generals",7,0,0,0,0,0
 "Sam Wathier",2008-05-17,"D","Windsor Spitfires",4,0,0,0,0,NA
 "Sarvir Jaworski",2009-02-24,"LW","Sarnia Sting",5,0,0,0,0,NA
@@ -403,7 +403,7 @@
 "Timo Kazda",2008-10-04,"RW","Guelph Storm",6,0,0,0,0,0
 "Tobias Kramer",2008-06-27,"D","Niagara IceDogs",6,0,0,0,0,0
 "Tomas Pobezal",2006-09-18,"C","Kingston Frontenacs",6,0,0,0,0,0
-"Tommy Kut",2009-01-05,"LD","Kitchener Rangers",3,0,0,0,0,NA
+"Tommy Kut",2009-01-05,"LD","Kitchener Rangers",4,0,0,0,0,NA
 "Travis Hayes",2007-09-03,"RW","Soo Greyhounds",6,0,0,0,0,0
 "Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",6,0,0,0,0,0
 "Tristen Trevino",2006-07-06,"D","Erie Otters",6,0,0,0,0,0
@@ -419,14 +419,14 @@
 "Vladimir Dravecky",2007-12-19,"D","Guelph Storm",4,0,0,0,0,0
 "Vladimir Provorov",2008-02-09,"C","Sudbury Wolves",5,0,0,0,0,0
 "Wesley Royston",2007-11-22,"RW","Owen Sound Attack",6,0,0,0,0,0
-"Weston Cameron",2008-01-01,"LW","Kitchener Rangers",7,0,0,0,0,0
+"Weston Cameron",2008-01-01,"LW","Kitchener Rangers",8,0,0,0,0,0
 "Wil McFadden",2007-02-15,"C","Niagara IceDogs",2,0,0,0,0,0
 "Will Mullins",2009-05-14,"RW","Niagara IceDogs",6,0,0,0,0,0
 "William Schneid",2007-05-10,"RW","Barrie Colts",5,0,0,0,0,0
 "Wyatt Herres",2007-01-27,"D","Sarnia Sting",6,0,0,0,0,0
 "Xander Velliaris",2007-04-23,"D","Saginaw Spirit",4,0,0,0,0,NA
 "Xavier Lieb",2008-03-14,"C","Brantford Bulldogs",5,0,0,0,0,0
-"Xavier Tessier",2008-05-09,"C","Flint Firebirds",5,0,0,0,0,0
+"Xavier Tessier",2008-05-09,"C","Flint Firebirds",6,0,0,0,0,0
 "Yanis Lutz",2008-05-11,"C","Peterborough Petes",7,0,0,0,0,0
 "Zach Houben",2007-02-01,"C","Ottawa 67's",3,0,0,0,0,0
 "Zach Nyman",2008-02-12,"D","Brampton Steelheads",7,0,0,0,0,0
