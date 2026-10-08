@@ -10,7 +10,7 @@
 "Ethan Czata",2007-05-29,"C","Guelph Storm",4,1,0,1,0.25,17
 "Evgeny Dubrovtsev",2008-03-18,"C","North Bay Battalion",7,1,0,1,0.14,14
 "Nolan Buttar",2008-05-23,"LW","Kingston Frontenacs",7,1,0,1,0.14,17
-"Tanner Lam",2007-07-14,"RW","Kitchener Rangers",8,1,0,1,0.12,14
+"Tanner Lam",2007-07-14,"RW","Kitchener Rangers",8,1,0,1,0.12,12
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",7,1,0,1,0.14,33
 "A.J. Gladman",2009-01-19,"D","Erie Otters",3,0,1,1,0.33,100
 "Anthony Cristoforo",2006-02-23,"D","Windsor Spitfires",5,0,1,1,0.2,20
@@ -62,7 +62,7 @@
 "Arjun Nanubhai",2010-02-21,"C","Brampton Steelheads",7,0,0,0,0,NA
 "Artem Gonchar",2006-10-25,"D","Sudbury Wolves",3,0,0,0,0,0
 "Austin Brekelmans",2008-03-08,"LW","North Bay Battalion",3,0,0,0,0,NA
-"Avry Anstis",2008-03-05,"RW","Kitchener Rangers",7,0,0,0,0,0
+"Avry Anstis",2008-03-05,"RW","Kitchener Rangers",8,0,0,0,0,0
 "Beksultan Makysh",2008-05-24,"LW","Windsor Spitfires",7,0,0,0,0,0
 "Ben Lombardi",2008-03-24,"RW","Barrie Colts",4,0,0,0,0,0
 "Blake Barnes",2006-07-31,"LD","Niagara IceDogs",6,0,0,0,0,0
@@ -70,7 +70,7 @@
 "Blake Munnings",2009-01-23,"LD","Niagara IceDogs",4,0,0,0,0,NA
 "Brady Blaseg",2008-07-21,"LD","Oshawa Generals",5,0,0,0,0,0
 "Brady Murnane",2008-04-23,"LD","Oshawa Generals",7,0,0,0,0,0
-"Brady Smith",2008-04-13,"RW","Flint Firebirds",5,0,0,0,0,0
+"Brady Smith",2008-04-13,"RW","Flint Firebirds",6,0,0,0,0,0
 "Braeden Van Gelder",2007-06-16,"D","Guelph Storm",5,0,0,0,0,0
 "Braidy Wassilyn",2008-05-28,"LW","Saginaw Spirit",6,0,0,0,0,0
 "Brayden Bennett",2009-02-05,"C","Sudbury Wolves",4,0,0,0,0,0
@@ -212,7 +212,7 @@
 "Jack Yates",2008-05-02,"LW","Brampton Steelheads",2,0,0,0,0,NA
 "Jackson Marthaler",2008-02-10,"D","Oshawa Generals",7,0,0,0,0,0
 "Jacob Cloutier",2007-03-22,"RW","Saginaw Spirit",4,0,0,0,0,0
-"Jacob Lukes",2009-05-22,"C","Kitchener Rangers",3,0,0,0,0,NA
+"Jacob Lukes",2009-05-22,"C","Kitchener Rangers",4,0,0,0,0,NA
 "Jacob Vandeven",2008-03-03,"D","London Knights",5,0,0,0,0,NA
 "Jacob Xu",2008-03-13,"LD","Peterborough Petes",7,0,0,0,0,0
 "Jaden Licastro",2010-03-02,"D","Soo Greyhounds",5,0,0,0,0,NA
@@ -221,7 +221,7 @@
 "Jake Ritson",2009-02-12,"LW","London Knights",5,0,0,0,0,0
 "Jakub Winkelhofer",2007-01-12,"D","Soo Greyhounds",6,0,0,0,0,0
 "James McMurray",2007-06-15,"LW","Peterborough Petes",5,0,0,0,0,0
-"James Paul",2007-10-27,"D","Flint Firebirds",5,0,0,0,0,0
+"James Paul",2007-10-27,"D","Flint Firebirds",6,0,0,0,0,0
 "Jan Chovan",2007-01-09,"C","Sudbury Wolves",3,0,0,0,0,0
 "Jared Harding",2007-12-05,"D","Brampton Steelheads",4,0,0,0,0,0
 "Jared Langdon",2006-11-16,"C","Niagara IceDogs",5,0,0,0,0,0
@@ -245,11 +245,11 @@
 "Jonathan Brown",2007-03-09,"D","Windsor Spitfires",7,0,0,0,0,0
 "Jonathan Kapageridis",2007-05-08,"D","London Knights",5,0,0,0,0,0
 "Jordan Charron",2007-06-21,"RW","Soo Greyhounds",5,0,0,0,0,0
-"Josh Bonnyman",2007-07-05,"RW","Flint Firebirds",5,0,0,0,0,0
+"Josh Bonnyman",2007-07-05,"RW","Flint Firebirds",6,0,0,0,0,0
 "Josh Glavin",2006-09-24,"D","Saginaw Spirit",6,0,0,0,0,NA
 "Joshua Avery",2007-01-30,"C","Guelph Storm",4,0,0,0,0,0
 "Judd Knauft",2008-03-18,"LW","Niagara IceDogs",3,0,0,0,0,NA
-"Jude Bray",2008-05-04,"D","Flint Firebirds",1,0,0,0,0,NA
+"Jude Bray",2008-05-04,"D","Flint Firebirds",2,0,0,0,0,NA
 "Juho Piiparinen",2008-08-10,"D","London Knights",2,0,0,0,0,0
 "Julian Brown",2006-04-10,"D","Owen Sound Attack",6,0,0,0,0,NA
 "Julius Saari",2007-03-07,"D","Erie Otters",5,0,0,0,0,0
@@ -284,7 +284,7 @@
 "Liam Spencer",2006-01-19,"LD","Niagara IceDogs",1,0,0,0,0,NA
 "Lincoln Edwards",2009-09-12,"LW","North Bay Battalion",3,0,0,0,0,NA
 "Logan Hawery",2008-03-15,"C","Sarnia Sting",7,0,0,0,0,0
-"Logan Massimi",2009-01-05,"RD","Kitchener Rangers",6,0,0,0,0,0
+"Logan Massimi",2009-01-05,"RD","Kitchener Rangers",7,0,0,0,0,0
 "Logan Prud'homme",2010-08-02,"C","Kingston Frontenacs",6,0,0,0,0,NA
 "Luc Gauvreau",2007-08-08,"LW","Barrie Colts",2,0,0,0,0,NA
 "Luc Plante",2007-05-21,"LW","Erie Otters",1,0,0,0,0,NA
@@ -296,7 +296,7 @@
 "Lucas DeMiglio",2008-10-26,"LW","Brampton Steelheads",7,0,0,0,0,0
 "Lucas Karmiris",2006-09-27,"C","Peterborough Petes",2,0,0,0,0,0
 "Lucas Matheson",2010-02-24,"D","Barrie Colts",6,0,0,0,0,0
-"Lucas Nutting",2009-04-05,"D","Flint Firebirds",5,0,0,0,0,0
+"Lucas Nutting",2009-04-05,"D","Flint Firebirds",6,0,0,0,0,0
 "Lucas Prud'homme",2007-04-10,"LW","Owen Sound Attack",6,0,0,0,0,0
 "Lucian Bernat",2008-06-08,"RW","Owen Sound Attack",4,0,0,0,0,0
 "Luka Arkko",2008-01-14,"LW","Erie Otters",3,0,0,0,0,0

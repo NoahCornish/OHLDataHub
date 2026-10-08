@@ -4,7 +4,7 @@
 "Kash Kwajah",2010-09-10,"C","Sudbury Wolves",5,2,5,7,1.4,6,0,1,0,1,6
 "Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",6,2,5,7,1.17,3,2,1,1,0,8
 "Dmitry Savin",2009-04-14,"C","Saginaw Spirit",6,2,4,6,1,3,1,0,1,0,2
-"Luca Santala",2009-07-28,"C","Kitchener Rangers",7,4,1,5,0.71,-4,2,0,1,0,2
+"Luca Santala",2009-07-28,"C","Kitchener Rangers",7,4,1,5,0.71,-7,2,0,1,0,2
 "Andrew Laurin",2010-04-09,"RW","Ottawa 67's",5,3,2,5,1,-2,3,1,1,0,0
 "Cooper McAslan",2009-03-16,"D","London Knights",5,3,2,5,1,5,1,0,1,0,2
 "Brayden Lappalainen",2009-04-27,"LW","Brantford Bulldogs",7,2,2,4,0.57,3,2,1,0,0,0
@@ -14,14 +14,14 @@
 "Kingston Harris",2009-02-15,"C","Sudbury Wolves",5,0,4,4,0.8,3,0,2,0,0,11
 "Eloan Le Gallic",2009-02-06,"C","London Knights",5,2,1,3,0.6,4,0,0,0,0,0
 "Kane Cloutier",2010-06-14,"LW","Oshawa Generals",7,2,1,3,0.43,0,0,1,1,0,4
-"Lucas Nutting",2009-04-05,"D","Flint Firebirds",5,2,1,3,0.6,4,0,1,0,0,0
+"Lucas Nutting",2009-04-05,"D","Flint Firebirds",6,2,1,3,0.5,4,0,1,0,0,0
 "Michael Tang",2009-04-15,"RW","Barrie Colts",6,2,1,3,0.5,-2,0,1,0,0,0
 "Tanner Adams",2010-06-03,"C","Sudbury Wolves",3,2,1,3,1,3,0,0,0,0,9
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",7,2,1,3,0.43,0,1,0,0,0,7
 "Adrian Sgro",2010-03-15,"D","Sarnia Sting",7,1,2,3,0.43,4,0,1,0,0,11
 "Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",6,1,2,3,0.5,4,0,0,0,0,2
 "Landon Roulston",2010-03-05,"C","Peterborough Petes",7,1,2,3,0.43,2,0,0,0,0,4
-"Alex Forrest",2009-06-11,"LD","Kitchener Rangers",7,0,3,3,0.43,-1,0,1,0,0,2
+"Alex Forrest",2009-06-11,"LD","Kitchener Rangers",7,0,3,3,0.43,-2,0,1,0,0,2
 "Broden McArthur",2009-02-24,"D","Erie Otters",6,0,3,3,0.5,-1,0,1,0,0,2
 "Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",6,0,3,3,0.5,-3,0,3,0,0,6
 "Kane Barch",2009-03-13,"C","London Knights",5,0,3,3,0.6,1,0,0,0,0,6
@@ -48,7 +48,7 @@
 "Alex Milojevic",2009-09-05,"C","Saginaw Spirit",6,0,1,1,0.17,-3,0,1,0,0,2
 "Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",6,0,1,1,0.17,-1,0,0,0,0,0
 "Declan McNally",2010-09-28,"D","Barrie Colts",6,0,1,1,0.17,-2,0,0,0,0,4
-"Logan Massimi",2009-01-05,"RD","Kitchener Rangers",6,0,1,1,0.17,-2,0,0,0,0,0
+"Logan Massimi",2009-01-05,"RD","Kitchener Rangers",7,0,1,1,0.14,-2,0,0,0,0,0
 "Max Fransen",2010-03-29,"D","Owen Sound Attack",6,0,1,1,0.17,-4,0,1,0,0,0
 "Max Lappan",2010-03-17,"D","Niagara IceDogs",6,0,1,1,0.17,0,0,0,0,0,7
 "Reid Hayes",2009-07-16,"RW","Ottawa 67's",5,0,1,1,0.2,0,0,1,0,0,0
