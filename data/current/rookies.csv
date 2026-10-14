@@ -3,12 +3,12 @@
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",9,6,4,10,1.11,4,1,1,1,0,6
 "Kash Kwajah",2010-09-10,"C","Sudbury Wolves",7,2,7,9,1.29,4,0,3,0,1,6
 "Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",8,2,5,7,0.88,3,2,1,1,0,8
-"Luca Santala",2009-07-28,"C","Kitchener Rangers",9,5,1,6,0.67,-9,3,0,1,0,2
+"Luca Santala",2009-07-28,"C","Kitchener Rangers",10,5,1,6,0.6,-9,3,0,1,0,2
 "Brayden Lappalainen",2009-04-27,"LW","Brantford Bulldogs",8,2,4,6,0.75,5,2,1,0,0,0
 "Dmitry Savin",2009-04-14,"C","Saginaw Spirit",8,2,4,6,0.75,4,1,0,1,0,2
 "Jaakko Wycisk",2009-03-16,"C","Guelph Storm",8,1,5,6,0.75,-2,0,2,0,0,0
 "Andrew Laurin",2010-04-09,"RW","Ottawa 67's",8,3,2,5,0.63,-4,3,1,1,0,0
-"Cooper McAslan",2009-03-16,"D","London Knights",6,3,2,5,0.83,7,1,0,1,0,2
+"Cooper McAslan",2009-03-16,"D","London Knights",7,3,2,5,0.71,8,1,0,1,0,2
 "Lucas Nutting",2009-04-05,"D","Flint Firebirds",7,2,3,5,0.71,2,0,3,0,0,0
 "Michael Tang",2009-04-15,"RW","Barrie Colts",9,2,3,5,0.56,-5,0,2,0,0,0
 "Norman Greene",2009-02-02,"RW","Sudbury Wolves",7,2,3,5,0.71,5,0,0,0,0,2
@@ -27,14 +27,14 @@
 "Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",9,1,2,3,0.33,5,0,0,0,0,2
 "Alex Forrest",2009-06-11,"LD","Kitchener Rangers",9,0,3,3,0.33,-3,0,1,0,0,6
 "Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",7,0,3,3,0.43,-3,0,3,0,0,6
-"Kane Barch",2009-03-13,"C","London Knights",6,0,3,3,0.5,1,0,0,0,0,6
+"Kane Barch",2009-03-13,"C","London Knights",7,0,3,3,0.43,1,0,0,0,0,6
 "Lucas Matheson",2010-02-24,"D","Barrie Colts",9,0,3,3,0.33,0,0,1,0,0,4
 "Colin Kennedy",2010-03-10,"C","Erie Otters",9,2,0,2,0.22,-3,1,0,1,0,20
 "Patrik Ula",2009-11-28,"LW","Sudbury Wolves",6,2,0,2,0.33,2,0,0,2,0,6
 "Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",6,1,1,2,0.33,3,0,0,0,0,4
 "Jake Ritson",2009-02-12,"LW","London Knights",6,1,1,2,0.33,1,0,0,1,0,0
 "Paul Schuster",2009-07-26,"RW","Erie Otters",8,1,1,2,0.25,-1,1,0,0,0,2
-"Alex Campeau",2009-03-23,"C","London Knights",6,0,2,2,0.33,3,0,0,0,0,7
+"Alex Campeau",2009-03-23,"C","London Knights",7,0,2,2,0.29,3,0,0,0,0,7
 "Christopher Weiss",2009-01-17,"D","Soo Greyhounds",7,0,2,2,0.29,3,0,0,0,0,4
 "Colby Coombe",2009-12-15,"LW","Ottawa 67's",4,0,2,2,0.5,0,0,0,0,0,0
 "Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",7,0,2,2,0.29,0,0,0,0,0,0
@@ -52,7 +52,7 @@
 "Declan McNally",2010-09-28,"D","Barrie Colts",9,0,1,1,0.11,-6,0,0,0,0,6
 "Gavin Christie",2009-04-13,"D","Kingston Frontenacs",10,0,1,1,0.1,2,0,0,0,0,11
 "Grant Yingst",2009-01-18,"RW","Oshawa Generals",5,0,1,1,0.2,0,0,0,0,0,0
-"Jiří Gombár",2009-10-15,"LD","Kitchener Rangers",9,0,1,1,0.11,-3,0,0,0,0,2
+"Jiří Gombár",2009-10-15,"LD","Kitchener Rangers",10,0,1,1,0.1,-4,0,0,0,0,2
 "Logan Massimi",2009-01-05,"RD","Kitchener Rangers",8,0,1,1,0.13,-4,0,0,0,0,0
 "Max Lappan",2010-03-17,"D","Niagara IceDogs",8,0,1,1,0.13,2,0,0,0,0,7
 "Reid Hayes",2009-07-16,"RW","Ottawa 67's",8,0,1,1,0.13,-3,0,1,0,0,2
@@ -65,7 +65,7 @@
 "Carter Beauchesne",2009-02-09,"LW","Flint Firebirds",7,0,0,0,0,1,0,0,0,0,5
 "Charlie Sullivan",2009-03-21,"D","Guelph Storm",2,0,0,0,0,-1,0,0,0,0,2
 "Easton Poe",2008-03-06,"D","North Bay Battalion",5,0,0,0,0,-1,0,0,0,0,4
-"Evan Nicholson",2009-04-01,"LW","Kitchener Rangers",3,0,0,0,0,0,0,0,0,0,0
+"Evan Nicholson",2009-04-01,"LW","Kitchener Rangers",4,0,0,0,0,0,0,0,0,0,0
 "Finn Merrill",2010-07-12,"RW","Niagara IceDogs",7,0,0,0,0,-3,0,0,0,0,2
 "Hudson Leenders",2009-02-01,"LW","Saginaw Spirit",5,0,0,0,0,-1,0,0,0,0,0
 "Ian Inskip",2009-02-05,"LW","Windsor Spitfires",6,0,0,0,0,-1,0,0,0,0,0
