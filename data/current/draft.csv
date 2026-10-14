@@ -8,18 +8,18 @@
 "Noah Laus","NO",2009-02-10,"6.01",193,"LW","Soo Greyhounds",8,5,4,9,1.13,3,0,2,2,1,0,2
 "David Buchman","NO",2009-07-01,"5.11",182,"D","Brantford Bulldogs",10,2,7,9,0.9,8,0,2,2,1,0,4
 "Brock Chitaroni","NO",2009-01-27,"6.00",188,"RW","Ottawa 67's",8,1,7,8,1,-1,0,3,3,0,0,0
+"Luca Santala","YES",2009-07-28,"6.03",195,"C","Kitchener Rangers",10,6,1,7,0.7,-10,4,0,4,1,0,2
 "Brenner Lammens","NO",2009-09-13,"6.01",195,"C","Sarnia Sting",9,5,2,7,0.78,-2,2,0,2,1,0,10
 "Keaton Ardagh","NO",2009-07-08,"6.00",163,"RW","Brampton Steelheads",8,5,2,7,0.88,-1,2,1,3,0,0,2
 "Kaden McGregor","NO",2009-01-30,"5.11",180,"C","Brantford Bulldogs",10,3,4,7,0.7,1,1,1,2,1,0,14
 "Ryerson Edgar","NO",2009-07-30,"5.10",165,"C","Niagara IceDogs",8,2,5,7,0.88,6,0,1,1,1,0,9
 "Trevor Daley Jr","YES",2009-07-11,"5.10",182,"C","Soo Greyhounds",8,2,5,7,0.88,3,2,1,3,1,0,8
-"Luca Santala","YES",2009-07-28,"6.03",195,"C","Kitchener Rangers",10,5,1,6,0.6,-9,3,0,3,1,0,2
 "Max Delisle","NO",2009-07-06,"6.01",184,"C","Owen Sound Attack",8,4,2,6,0.75,-1,0,2,2,0,0,4
+"Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",7,3,3,6,0.86,8,1,0,1,1,0,4
 "Brayden Lappalainen","YES",2009-04-27,"5.11",170,"LW","Brantford Bulldogs",8,2,4,6,0.75,5,2,1,3,0,0,0
 "Dmitry Savin","YES",2009-04-14,"6.03",190,"C","Saginaw Spirit",8,2,4,6,0.75,4,1,0,1,1,0,2
 "Jaakko Wycisk","YES",2009-03-16,"6.02",206,"C","Guelph Storm",8,1,5,6,0.75,-2,0,2,2,0,0,0
 "Mason Walker","NO",2008-11-26,"5.11",169,"LW","Sudbury Wolves",7,1,5,6,0.86,2,0,3,3,0,1,4
-"Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",7,3,2,5,0.71,8,1,0,1,1,0,2
 "Jeremy Freeman","NO",2009-07-07,"5.09",178,"LW","Brantford Bulldogs",9,3,2,5,0.56,-1,2,1,3,1,0,2
 "Lucas Nutting","YES",2009-04-05,"5.11",185,"D","Flint Firebirds",7,2,3,5,0.71,2,0,3,3,0,0,0
 "Michael Tang","YES",2009-04-15,"6.01",170,"RW","Barrie Colts",9,2,3,5,0.56,-5,0,2,2,0,0,0
@@ -31,7 +31,7 @@
 "Kingston Harris","YES",2009-02-15,"6.01",164,"C","Sudbury Wolves",7,1,4,5,0.71,2,1,2,3,0,0,11
 "Peter Green","NO",2009-07-21,"6.00",190,"D","Brampton Steelheads",8,1,4,5,0.63,-3,0,2,2,0,0,6
 "Charlie Murata","NO",2009-02-15,"6.00",190,"RW","Flint Firebirds",7,3,1,4,0.57,1,1,1,2,0,0,8
-"Eloan Le Gallic","YES",2009-02-06,"6.01",165,"C","London Knights",6,3,1,4,0.67,4,0,0,0,0,0,0
+"Eloan Le Gallic","YES",2009-02-06,"6.01",165,"C","London Knights",7,3,1,4,0.57,3,0,0,0,0,0,0
 "Jake Murray","NO",2009-02-26,"6.01",195,"C","Erie Otters",9,1,3,4,0.44,0,0,0,0,0,0,8
 "Parker Smith","YES",2009-04-17,"5.09",175,"LW","Sudbury Wolves",6,1,3,4,0.67,3,0,0,0,0,0,0
 "Adam Nemec","YES",2009-07-28,"6.01",175,"LW","Brantford Bulldogs",10,0,4,4,0.4,-1,0,2,2,0,0,0
@@ -47,7 +47,7 @@
 "Matthew Henderson","NO",2009-03-20,"6.00",175,"D","Kingston Frontenacs",10,1,2,3,0.3,-5,0,0,0,0,0,2
 "Sebastian Mogull","NO",2008-12-12,"6.01",185,"RW","Barrie Colts",9,1,2,3,0.33,-8,1,0,1,0,0,4
 "Timo Kazda","NO",2008-10-04,"6.01",193,"RW","Guelph Storm",8,1,2,3,0.38,0,1,2,3,1,0,0
-"Alex Forrest","YES",2009-06-11,"5.11",157,"LD","Kitchener Rangers",9,0,3,3,0.33,-3,0,1,1,0,0,6
+"Alex Forrest","YES",2009-06-11,"5.11",157,"LD","Kitchener Rangers",10,0,3,3,0.3,-2,0,1,1,0,0,6
 "Carter Lewandowski","YES",2009-06-02,"6.03",186,"C","Niagara IceDogs",7,0,3,3,0.43,-3,0,3,3,0,0,6
 "Kane Barch","YES",2009-03-13,"6.00",192,"C","London Knights",7,0,3,3,0.43,1,0,0,0,0,0,6
 "Kohyn Eshkawkogan","NO",2008-11-19,"5.10",179,"D","Ottawa 67's",8,0,3,3,0.38,-2,0,1,1,0,0,12
@@ -105,5 +105,5 @@
 "Lincoln Edwards","YES",2009-09-12,"5.10",172,"LW","North Bay Battalion",4,0,0,0,0,-2,0,0,0,0,0,2
 "Rocco Olek","YES",2009-07-07,"6.03",190,"RW","Barrie Colts",5,0,0,0,0,-2,0,0,0,0,0,0
 "Sarvir Jaworski","YES",2009-02-24,"5.11",165,"LW","Sarnia Sting",5,0,0,0,0,0,0,0,0,0,0,2
-"Tommy Kut","YES",2009-01-05,"6.03",224,"LD","Kitchener Rangers",6,0,0,0,0,1,0,0,0,0,0,2
+"Tommy Kut","YES",2009-01-05,"6.03",224,"LD","Kitchener Rangers",7,0,0,0,0,1,0,0,0,0,0,2
 "Ty Bergeron","YES",2009-05-26,"6.01",200,"LW","Windsor Spitfires",9,0,0,0,0,-5,0,0,0,0,0,6
