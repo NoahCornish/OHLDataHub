@@ -22,7 +22,7 @@
 "Tanner Adams",2010-06-03,"C","Sudbury Wolves",3,2,1,3,1,3,0,0,0,0,9
 "Ty Robar",2009-04-19,"C","Kingston Frontenacs",7,2,1,3,0.43,-2,0,0,0,0,4
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",9,2,1,3,0.33,0,1,0,0,0,7
-"Adrian Sgro",2010-03-15,"D","Sarnia Sting",10,1,2,3,0.3,3,0,1,0,0,15
+"Adrian Sgro",2010-03-15,"D","Sarnia Sting",10,1,2,3,0.3,2,0,1,0,0,24
 "Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",9,1,2,3,0.33,5,0,0,0,0,2
 "Alex Forrest",2009-06-11,"LD","Kitchener Rangers",10,0,3,3,0.3,-2,0,1,0,0,6
 "Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",7,0,3,3,0.43,-3,0,3,0,0,6
@@ -45,7 +45,7 @@
 "Gordei Khotkov",2010-03-30,"D","Saginaw Spirit",8,1,0,1,0.13,-1,0,0,0,0,4
 "Jack Johnson",2009-04-21,"D","Ottawa 67's",6,1,0,1,0.17,0,0,0,0,1,0
 "Marc Ruggere",2010-09-05,"D","Barrie Colts",4,1,0,1,0.25,-1,0,0,0,0,0
-"Myles Dunn",2009-06-18,"RW","Sarnia Sting",4,1,0,1,0.25,0,0,0,0,0,4
+"Myles Dunn",2009-06-18,"RW","Sarnia Sting",5,1,0,1,0.2,-2,0,0,0,0,4
 "A.J. Gladman",2009-01-19,"D","Erie Otters",4,0,1,1,0.25,-1,0,0,0,0,0
 "Alex Milojevic",2009-09-05,"C","Saginaw Spirit",8,0,1,1,0.13,-5,0,1,0,0,4
 "Declan McNally",2010-09-28,"D","Barrie Colts",9,0,1,1,0.11,-6,0,0,0,0,6
@@ -80,6 +80,6 @@
 "Rocco Olek",2009-07-07,"RW","Barrie Colts",5,0,0,0,0,-2,0,0,0,0,0
 "Roman Andreev",2010-07-10,"RW","Kitchener Rangers",6,0,0,0,0,-1,0,0,0,0,0
 "Ryan Beaulieu",2010-01-10,"D","London Knights",2,0,0,0,0,2,0,0,0,0,2
-"Sarvir Jaworski",2009-02-24,"LW","Sarnia Sting",6,0,0,0,0,0,0,0,0,0,2
+"Sarvir Jaworski",2009-02-24,"LW","Sarnia Sting",6,0,0,0,0,-1,0,0,0,0,2
 "Tommy Kut",2009-01-05,"LD","Kitchener Rangers",7,0,0,0,0,1,0,0,0,0,2
 "Ty Bergeron",2009-05-26,"LW","Windsor Spitfires",9,0,0,0,0,-5,0,0,0,0,6
