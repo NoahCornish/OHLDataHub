@@ -6,14 +6,14 @@
 "Tanner Lam",2007-07-14,"RW","Kitchener Rangers",13,1,2,3,0.23,23
 "Mason Walker",2008-11-26,"LW","Sudbury Wolves",10,2,0,2,0.2,25
 "Andrew Robinson",2008-01-08,"D","Windsor Spitfires",8,1,1,2,0.25,22
-"Darian Anderson",2006-12-22,"RW","Flint Firebirds",9,1,1,2,0.22,15
+"Darian Anderson",2006-12-22,"RW","Flint Firebirds",9,1,1,2,0.22,14
 "Jake Murray",2009-02-26,"C","Erie Otters",11,1,1,2,0.18,50
 "Tyler Hopkins",2007-01-23,"C","Guelph Storm",9,1,1,2,0.22,15
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",11,1,0,1,0.09,8
-"Brady Smith",2007-04-12,"C","Soo Greyhounds",11,1,0,1,0.09,14
+"Brady Smith",2007-04-12,"C","Soo Greyhounds",11,1,0,1,0.09,12
 "Brock Chitaroni",2009-01-27,"RW","Ottawa 67's",10,1,0,1,0.1,10
 "Brody Pepoy",2008-05-16,"RW","Saginaw Spirit",11,1,0,1,0.09,8
-"Charlie Murata",2009-02-15,"RW","Flint Firebirds",9,1,0,1,0.11,20
+"Charlie Murata",2009-02-15,"RW","Flint Firebirds",9,1,0,1,0.11,25
 "Cohen Bidgood",2007-01-11,"RW","London Knights",9,1,0,1,0.11,8
 "Colin Kennedy",2010-03-10,"C","Erie Otters",11,1,0,1,0.09,50
 "Dylan Tsherna",2007-02-22,"RW","Barrie Colts",11,1,0,1,0.09,33
@@ -32,7 +32,7 @@
 "Arseny Pronin",2007-05-16,"LW","North Bay Battalion",11,0,1,1,0.09,14
 "Blake Barnes",2008-05-14,"D","Saginaw Spirit",10,0,1,1,0.1,20
 "Blake Clayton",2007-10-23,"C","Sudbury Wolves",5,0,1,1,0.2,25
-"Chase Yanni",2007-01-08,"LW","Ottawa 67's",10,0,1,1,0.1,14
+"Chase Yanni",2007-01-08,"LW","Ottawa 67's",10,0,1,1,0.1,12
 "Cooper McAslan",2009-03-16,"D","London Knights",9,0,1,1,0.11,11
 "Dmitri Toporowski",2006-08-11,"RD","Kitchener Rangers",11,0,1,1,0.09,50
 "Eric Frossard",2008-01-12,"D","Guelph Storm",11,0,1,1,0.09,50
@@ -240,7 +240,7 @@
 "Jason Musa",2007-05-09,"LW","Brantford Bulldogs",12,0,0,0,0,0
 "Jax Pereira",2009-05-06,"C","North Bay Battalion",10,0,0,0,0,0
 "Jaxon Cover",2008-02-13,"LW","London Knights",6,0,0,0,0,0
-"Jay Nimchonok",2010-10-01,"RD","Brampton Steelheads",5,0,0,0,0,0
+"Jay Nimchonok",2010-10-01,"RD","Brampton Steelheads",5,0,0,0,0,NA
 "Jean-Cristoph Lemieux",2008-06-19,"RW","Sudbury Wolves",8,0,0,0,0,0
 "Jean-Samuel Daigneault",2008-02-15,"D","North Bay Battalion",7,0,0,0,0,0
 "Jeremy Freeman",2009-07-07,"LW","Brantford Bulldogs",9,0,0,0,0,0
@@ -315,7 +315,7 @@
 "Mark Pape",2009-01-24,"LW","Oshawa Generals",11,0,0,0,0,0
 "Martins Klaucans",2008-07-08,"C","Flint Firebirds",9,0,0,0,0,0
 "Mason Minsky",2007-07-03,"C","Peterborough Petes",12,0,0,0,0,0
-"Mason Roy",2008-07-15,"D","Brampton Steelheads",10,0,0,0,0,NA
+"Mason Roy",2008-07-15,"D","Brampton Steelheads",10,0,0,0,0,0
 "Matej Stankoven",2008-02-28,"C","Brampton Steelheads",10,0,0,0,0,0
 "Matthew Henderson",2009-03-20,"D","Kingston Frontenacs",12,0,0,0,0,0
 "Matthew Hlacar",2006-05-31,"LW","Brantford Bulldogs",4,0,0,0,0,0

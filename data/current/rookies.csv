@@ -1,5 +1,5 @@
 "Name","BD","Pos","Team","GP","G","A","PTS","Pts/G","+/-","PPG","PPA","GWG","ENG","PIM"
-"Aiden Kelly",2010-02-02,"C","Brantford Bulldogs",12,5,11,16,1.33,6,3,3,1,0,4
+"Aiden Kelly",2010-02-02,"C","Brantford Bulldogs",12,5,10,15,1.25,6,3,3,1,0,4
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",11,6,6,12,1.09,5,1,1,1,0,6
 "Kash Kwajah",2010-09-10,"C","Sudbury Wolves",10,3,8,11,1.1,4,0,3,0,1,8
 "Dmitry Savin",2009-04-14,"C","Saginaw Spirit",11,4,6,10,0.91,7,1,2,1,0,2
@@ -59,7 +59,6 @@
 "Finn Merrill",2010-07-12,"RW","Niagara IceDogs",10,0,1,1,0.1,-5,0,0,0,0,2
 "Gavin Christie",2009-04-13,"D","Kingston Frontenacs",12,0,1,1,0.08,2,0,0,0,0,11
 "Jace Voortman",2010-08-12,"LW","Owen Sound Attack",11,0,1,1,0.09,-8,0,0,0,0,6
-"Jay Nimchonok",2010-10-01,"RD","Brampton Steelheads",5,0,1,1,0.2,-4,0,0,0,0,0
 "Logan Massimi",2009-01-05,"RD","Kitchener Rangers",8,0,1,1,0.13,-4,0,0,0,0,0
 "Max Lappan",2010-03-17,"D","Niagara IceDogs",11,0,1,1,0.09,-1,0,0,0,0,9
 "Roman Vanacker",2010-05-08,"LW","Kingston Frontenacs",11,0,1,1,0.09,-6,0,0,0,0,0
@@ -73,6 +72,7 @@
 "Hudson Leenders",2009-02-01,"LW","Saginaw Spirit",8,0,0,0,0,0,0,0,0,0,4
 "Ian Inskip",2009-02-05,"LW","Windsor Spitfires",8,0,0,0,0,-1,0,0,0,0,0
 "Jaden Licastro",2010-03-02,"D","Soo Greyhounds",10,0,0,0,0,-3,0,0,0,0,2
+"Jay Nimchonok",2010-10-01,"RD","Brampton Steelheads",5,0,0,0,0,-4,0,0,0,0,0
 "John Montanino",2010-05-26,"LD","Brampton Steelheads",1,0,0,0,0,-3,0,0,0,0,2
 "Kyler Lauder",2010-01-15,"LW","Saginaw Spirit",6,0,0,0,0,-1,0,0,0,0,2
 "Lachlan Larmand",2009-03-25,"RW","Brampton Steelheads",5,0,0,0,0,-1,0,0,0,0,2
