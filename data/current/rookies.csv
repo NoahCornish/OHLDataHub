@@ -15,7 +15,7 @@
 "Norman Greene",2009-02-02,"RW","Sudbury Wolves",10,2,3,5,0.5,4,0,0,0,0,2
 "Parker Smith",2009-04-17,"LW","Sudbury Wolves",9,2,3,5,0.56,0,0,0,0,0,0
 "Kingston Harris",2009-02-15,"C","Sudbury Wolves",9,1,4,5,0.56,-1,1,2,0,0,11
-"Eloan Le Gallic",2009-02-06,"C","London Knights",9,3,1,4,0.44,4,0,0,0,0,0
+"Eloan Le Gallic",2009-02-06,"C","London Knights",10,3,1,4,0.4,4,0,0,0,0,0
 "Ty Robar",2009-04-19,"C","Kingston Frontenacs",9,3,1,4,0.44,-1,0,0,0,0,4
 "Kane Cloutier",2010-06-14,"LW","Oshawa Generals",12,2,2,4,0.33,-1,0,1,1,0,6
 "Landon Roulston",2010-03-05,"C","Peterborough Petes",12,2,2,4,0.33,3,1,0,0,0,6
@@ -25,13 +25,13 @@
 "Gordei Khotkov",2010-03-30,"D","Saginaw Spirit",11,2,1,3,0.27,2,0,0,1,0,8
 "Stepan Stejskal",2009-01-06,"LW","Niagara IceDogs",8,2,1,3,0.38,-2,1,0,0,0,4
 "Tanner Adams",2010-06-03,"C","Sudbury Wolves",3,2,1,3,1,3,0,0,0,0,9
-"Adrian Sgro",2010-03-15,"D","Sarnia Sting",12,1,2,3,0.25,-2,0,1,0,0,24
+"Adrian Sgro",2010-03-15,"D","Sarnia Sting",13,1,2,3,0.23,-1,0,1,0,0,26
 "Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",8,1,2,3,0.38,4,0,0,0,0,4
 "Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",11,1,2,3,0.27,5,0,0,0,0,2
-"Jake Ritson",2009-02-12,"LW","London Knights",9,1,2,3,0.33,2,0,0,1,0,2
+"Jake Ritson",2009-02-12,"LW","London Knights",9,1,2,3,0.33,1,0,0,1,0,2
 "Jesse Debruyn",2009-02-03,"D","Windsor Spitfires",11,1,2,3,0.27,0,0,1,0,0,8
 "Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",10,0,3,3,0.3,-4,0,3,0,0,15
-"Kane Barch",2009-03-13,"C","London Knights",10,0,3,3,0.3,2,0,0,0,0,13
+"Kane Barch",2009-03-13,"C","London Knights",10,0,3,3,0.3,2,0,0,0,0,17
 "Lucas Matheson",2010-02-24,"D","Barrie Colts",11,0,3,3,0.27,-1,0,1,0,0,4
 "Max Fransen",2010-03-29,"D","Owen Sound Attack",11,0,3,3,0.27,-9,0,2,0,0,0
 "Colin Kennedy",2010-03-10,"C","Erie Otters",11,2,0,2,0.18,-4,1,0,1,0,20
@@ -40,7 +40,7 @@
 "Jiří Gombár",2009-10-15,"LD","Kitchener Rangers",12,1,1,2,0.17,-4,0,0,1,0,2
 "Paul Schuster",2009-07-26,"RW","Erie Otters",10,1,1,2,0.2,-3,1,0,0,0,2
 "Ty Bergeron",2009-05-26,"LW","Windsor Spitfires",11,1,1,2,0.18,-6,1,0,0,0,6
-"Alex Campeau",2009-03-23,"C","London Knights",9,0,2,2,0.22,4,0,0,0,0,9
+"Alex Campeau",2009-03-23,"C","London Knights",10,0,2,2,0.2,4,0,0,0,0,9
 "Christopher Weiss",2009-01-17,"D","Soo Greyhounds",10,0,2,2,0.2,5,0,0,0,0,4
 "Colby Coombe",2009-12-15,"LW","Ottawa 67's",4,0,2,2,0.5,0,0,0,0,0,0
 "Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",10,0,2,2,0.2,-1,0,0,0,0,0
