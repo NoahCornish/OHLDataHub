@@ -18,12 +18,13 @@
 "Ethan Czata",2007-05-29,"C","Guelph Storm",9,2,7,9,1,82
 "Evan Van Gorp",2006-05-18,"LW","London Knights",10,5,4,9,0.9,100
 "Jimmy Lombardi",2007-02-16,"C","Flint Firebirds",8,3,6,9,1.12,64
-"Noah Laus",2009-02-10,"LW","Soo Greyhounds",12,5,4,9,0.75,64
+"Noah Laus",2009-02-10,"LW","Soo Greyhounds",12,4,5,9,0.75,64
 "Nolan Buttar",2008-05-23,"LW","Kingston Frontenacs",12,2,7,9,0.75,90
 "Quinn McKenzie",2007-11-28,"C","Soo Greyhounds",12,1,8,9,0.75,90
 "Reyth Smith",2007-07-27,"LW","Niagara IceDogs",11,4,5,9,0.82,69
 "Vladimir Dravecky",2007-12-19,"D","Guelph Storm",9,3,6,9,1,64
 "Aiden O'Donnell",2008-01-03,"LW","Oshawa Generals",13,4,4,8,0.62,89
+"Brady Smith",2007-04-12,"C","Soo Greyhounds",12,5,3,8,0.67,89
 "Brody Pepoy",2008-05-16,"RW","Saginaw Spirit",11,4,4,8,0.73,67
 "Cam Warren",2009-05-07,"C","North Bay Battalion",11,1,7,8,0.73,100
 "Carson Harmer",2007-01-13,"C","London Knights",10,3,5,8,0.8,73
@@ -38,7 +39,6 @@
 "Adam Novotný",2007-11-13,"LW","Peterborough Petes",11,2,5,7,0.64,39
 "André Mondoux",2007-03-16,"D","Kingston Frontenacs",12,4,3,7,0.58,100
 "Anthony Cristoforo",2006-02-23,"D","Windsor Spitfires",8,4,3,7,0.88,58
-"Brady Smith",2007-04-12,"C","Soo Greyhounds",12,4,3,7,0.58,88
 "Brenner Lammens",2009-09-13,"C","Sarnia Sting",13,3,4,7,0.54,78
 "Cooper McAslan",2009-03-16,"D","London Knights",10,3,4,7,0.7,78
 "David Buchman",2009-07-01,"D","Brantford Bulldogs",12,2,5,7,0.58,70
@@ -52,7 +52,7 @@
 "Jonathan Kapageridis",2007-05-08,"D","London Knights",10,1,6,7,0.7,64
 "Liam Beamish",2007-01-04,"C","Erie Otters",11,5,2,7,0.64,100
 "Parker Holmes",2007-03-08,"LW","Sarnia Sting",12,2,5,7,0.58,88
-"Pierce Mbuyi",2008-04-17,"LW","Owen Sound Attack",12,3,4,7,0.58,50
+"Pierce Mbuyi",2008-04-17,"LW","Owen Sound Attack",12,2,5,7,0.58,50
 "Tanner Lam",2007-07-14,"RW","Kitchener Rangers",13,4,3,7,0.54,54
 "Tyler Challenger",2008-04-13,"LW","Sarnia Sting",13,3,4,7,0.54,88
 "Tyler Hopkins",2007-01-23,"C","Guelph Storm",9,5,2,7,0.78,54
@@ -235,7 +235,6 @@
 "Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",10,0,2,2,0.2,100
 "Cole Zurawski",2008-02-06,"RW","Kingston Frontenacs",10,1,1,2,0.2,33
 "David Bedkowski",2006-12-07,"D","Ottawa 67's",10,0,2,2,0.2,100
-"Dillon Atkinson",2008-01-21,"C","Owen Sound Attack",11,0,2,2,0.18,100
 "Doman Szongoth",2008-06-08,"C","Soo Greyhounds",12,0,2,2,0.17,100
 "Dylan Tsherna",2007-02-22,"RW","Barrie Colts",12,1,1,2,0.17,67
 "Easton Mikus",2007-06-19,"C","Brampton Steelheads",9,0,2,2,0.22,100
@@ -281,6 +280,7 @@
 "Ty Bergeron",2009-05-26,"LW","Windsor Spitfires",12,1,1,2,0.17,67
 "Ty Henry",2006-07-19,"D","Erie Otters",10,0,2,2,0.2,50
 "Ulysses Lombardi",2008-07-02,"C","Erie Otters",8,1,1,2,0.25,67
+"Wesley Royston",2007-11-22,"RW","Owen Sound Attack",12,2,0,2,0.17,40
 "Yanis Lutz",2008-05-11,"C","Peterborough Petes",13,1,1,2,0.15,22
 "Zach Nyman",2008-02-12,"D","Brampton Steelheads",10,0,2,2,0.2,67
 "Adrien Bartovic",2007-03-09,"C","Guelph Storm",11,0,1,1,0.09,25
@@ -301,8 +301,8 @@
 "Christian Colosimo",2008-12-01,"D","Niagara IceDogs",6,0,1,1,0.17,100
 "Cody Costello",2009-04-22,"LD","Oshawa Generals",10,0,1,1,0.1,100
 "Cody Wood",2008-06-13,"D","London Knights",10,1,0,1,0.1,100
-"Cole Dubowsky",2007-06-11,"LW","Windsor Spitfires",3,0,1,1,0.33,100
 "Declan McNally",2010-09-28,"D","Barrie Colts",12,0,1,1,0.08,100
+"Dillon Atkinson",2008-01-21,"C","Owen Sound Attack",11,0,1,1,0.09,100
 "Dmitri Toporowski",2006-08-11,"RD","Kitchener Rangers",11,0,1,1,0.09,50
 "Elias Matousek",2009-06-05,"RW","Barrie Colts",4,0,1,1,0.25,100
 "Eric Frossard",2008-01-12,"D","Guelph Storm",11,1,0,1,0.09,50
@@ -347,7 +347,6 @@
 "Spencer Evans",2006-05-12,"D","Soo Greyhounds",5,0,1,1,0.2,50
 "Teddy Spitznagel",2006-04-06,"LW","Ottawa 67's",9,0,1,1,0.11,100
 "Tobias Kramer",2008-06-27,"D","Niagara IceDogs",7,0,1,1,0.14,100
-"Wesley Royston",2007-11-22,"RW","Owen Sound Attack",12,1,0,1,0.08,25
 "Weston Cameron",2008-01-01,"LW","Kitchener Rangers",13,1,0,1,0.08,33
 "Wyatt Herres",2007-01-27,"D","Sarnia Sting",10,1,0,1,0.1,100
 "Zach Houben",2007-02-01,"C","Ottawa 67's",8,1,0,1,0.12,50

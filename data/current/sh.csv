@@ -10,7 +10,7 @@
 "Jake Murray",2009-02-26,"C","Erie Otters",11,1,1,2,0.18,50
 "Tyler Hopkins",2007-01-23,"C","Guelph Storm",9,1,1,2,0.22,15
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",12,1,0,1,0.08,7
-"Brady Smith",2007-04-12,"C","Soo Greyhounds",12,1,0,1,0.08,12
+"Brady Smith",2007-04-12,"C","Soo Greyhounds",12,1,0,1,0.08,11
 "Brock Chitaroni",2009-01-27,"RW","Ottawa 67's",10,1,0,1,0.1,10
 "Brody Pepoy",2008-05-16,"RW","Saginaw Spirit",11,1,0,1,0.09,8
 "Charlie Murata",2009-02-15,"RW","Flint Firebirds",9,1,0,1,0.11,25
@@ -48,7 +48,7 @@
 "Robin Kuzma",2008-01-29,"LW","Kingston Frontenacs",12,0,1,1,0.08,8
 "Ryan Roobroeck",2007-09-25,"LW","Guelph Storm",9,0,1,1,0.11,7
 "Vladimir Provorov",2008-02-09,"C","Sudbury Wolves",10,0,1,1,0.1,14
-"Wesley Royston",2007-11-22,"RW","Owen Sound Attack",12,0,1,1,0.08,25
+"Wesley Royston",2007-11-22,"RW","Owen Sound Attack",12,0,1,1,0.08,20
 "Aaron Enright",2007-03-28,"D","North Bay Battalion",9,0,0,0,0,0
 "Abe Barnett",2008-09-21,"D","Brantford Bulldogs",10,0,0,0,0,NA
 "Adam Goljer",2008-06-07,"D","Kingston Frontenacs",10,0,0,0,0,0
@@ -144,7 +144,6 @@
 "Cody Costello",2009-04-22,"LD","Oshawa Generals",10,0,0,0,0,0
 "Cody Wood",2008-06-13,"D","London Knights",10,0,0,0,0,0
 "Colby Coombe",2009-12-15,"LW","Ottawa 67's",4,0,0,0,0,0
-"Cole Dubowsky",2007-06-11,"LW","Windsor Spitfires",3,0,0,0,0,0
 "Cole Emerton",2008-03-04,"D","Sarnia Sting",13,0,0,0,0,0
 "Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",8,0,0,0,0,0
 "Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",10,0,0,0,0,0
