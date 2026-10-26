@@ -1,14 +1,14 @@
 "Name","BD","Pos","Team","GP","G","A","PTS","Pts/G","+/-","PPG","PPA","GWG","ENG","PIM"
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",13,9,7,16,1.23,6,3,2,1,0,6
+"Kash Kwajah",2010-09-10,"C","Sudbury Wolves",13,6,9,15,1.15,8,0,3,1,1,8
 "Aiden Kelly",2010-02-02,"C","Brantford Bulldogs",13,5,10,15,1.15,5,3,3,1,0,4
-"Kash Kwajah",2010-09-10,"C","Sudbury Wolves",13,5,9,14,1.08,7,0,3,1,1,8
 "Dmitry Savin",2009-04-14,"C","Saginaw Spirit",13,4,6,10,0.77,5,1,2,1,0,4
 "Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",14,4,6,10,0.71,3,2,1,2,0,10
 "Broden McArthur",2009-02-24,"D","Erie Otters",14,2,8,10,0.71,-5,0,3,0,0,8
 "Luca Santala",2009-07-28,"C","Kitchener Rangers",14,7,2,9,0.64,-8,4,0,1,0,2
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",15,6,3,9,0.6,5,1,1,0,0,9
 "Cooper McAslan",2009-03-16,"D","London Knights",12,4,5,9,0.75,16,1,0,1,1,6
-"Andrew Laurin",2010-04-09,"RW","Ottawa 67's",11,4,3,7,0.64,-6,3,2,1,0,0
+"Andrew Laurin",2010-04-09,"RW","Ottawa 67's",12,4,3,7,0.58,-6,3,2,1,0,0
 "Jesse Debruyn",2009-02-03,"D","Windsor Spitfires",13,2,5,7,0.54,-2,1,4,0,0,10
 "Parker Smith",2009-04-17,"LW","Sudbury Wolves",11,3,3,6,0.55,1,0,0,0,0,0
 "Brayden Lappalainen",2009-04-27,"LW","Brantford Bulldogs",11,2,4,6,0.55,4,2,1,0,0,6
@@ -24,7 +24,7 @@
 "Kane Barch",2009-03-13,"C","London Knights",12,1,4,5,0.42,2,0,0,0,0,17
 "Kingston Harris",2009-02-15,"C","Sudbury Wolves",11,1,4,5,0.45,-2,1,2,0,0,13
 "Eloan Le Gallic",2009-02-06,"C","London Knights",11,3,1,4,0.36,4,0,0,0,0,0
-"Tanner Adams",2010-06-03,"RW","Sudbury Wolves",6,3,1,4,0.67,3,1,0,0,0,15
+"Tanner Adams",2010-06-03,"RW","Sudbury Wolves",6,3,1,4,0.67,3,1,0,0,0,17
 "Ty Robar",2009-04-19,"C","Kingston Frontenacs",11,3,1,4,0.36,-1,0,0,0,0,11
 "Colin Kennedy",2010-03-10,"C","Erie Otters",14,2,2,4,0.29,-2,1,0,1,0,22
 "Adrian Sgro",2010-03-15,"D","Sarnia Sting",14,1,3,4,0.29,-2,0,1,0,0,26
@@ -34,7 +34,7 @@
 "Stepan Stejskal",2009-01-06,"LW","Niagara IceDogs",9,2,1,3,0.33,-2,1,0,0,0,4
 "Ty Bergeron",2009-05-26,"LW","Windsor Spitfires",13,2,1,3,0.23,-7,1,0,0,0,6
 "Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",10,1,2,3,0.3,4,0,0,0,0,4
-"Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",13,1,2,3,0.23,7,0,0,0,0,2
+"Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",13,1,2,3,0.23,6,0,0,0,0,2
 "Jake Ritson",2009-02-12,"LW","London Knights",10,1,2,3,0.3,1,0,0,1,0,2
 "Paul Schuster",2009-07-26,"RW","Erie Otters",13,1,2,3,0.23,-4,1,0,0,0,4
 "Alex Campeau",2009-03-23,"C","London Knights",12,0,3,3,0.25,4,0,0,0,0,11
@@ -49,7 +49,7 @@
 "Marc Ruggere",2010-09-05,"D","Barrie Colts",8,1,1,2,0.25,-2,0,0,0,0,0
 "Christopher Weiss",2009-01-17,"D","Soo Greyhounds",11,0,2,2,0.18,5,0,0,0,0,4
 "Colby Coombe",2009-12-15,"LW","Ottawa 67's",4,0,2,2,0.5,0,0,0,0,0,0
-"Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",10,0,2,2,0.2,-1,0,0,0,0,0
+"Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",11,0,2,2,0.18,-1,0,0,0,0,0
 "Declan McNally",2010-09-28,"D","Barrie Colts",14,0,2,2,0.14,-12,0,0,0,0,8
 "Grant Yingst",2009-01-18,"RW","Oshawa Generals",8,0,2,2,0.25,1,0,0,0,0,0
 "Reid Hayes",2009-07-16,"RW","Ottawa 67's",12,0,2,2,0.17,-6,0,1,0,0,2
