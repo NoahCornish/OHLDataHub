@@ -11,9 +11,9 @@
 "Aleks Kulemin","NO",2009-03-20,"6.04",190,"C","Kingston Frontenacs",14,4,9,13,0.93,5,1,2,3,1,0,6
 "David Buchman","NO",2009-07-01,"5.11",182,"D","Brantford Bulldogs",15,2,11,13,0.87,9,0,5,5,1,0,8
 "Kaden McGregor","NO",2009-01-30,"5.11",180,"C","Brantford Bulldogs",15,7,5,12,0.8,-1,5,1,6,2,0,22
+"Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",13,4,8,12,0.92,19,1,0,1,1,1,8
 "Trevor Daley Jr","YES",2009-07-11,"5.10",182,"C","Soo Greyhounds",15,4,8,12,0.8,5,2,1,3,2,0,10
 "Max Brocklehurst","NO",2008-12-30,"5.09",170,"RW","Windsor Spitfires",14,5,6,11,0.79,-3,2,1,3,0,0,9
-"Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",13,4,7,11,0.85,19,1,0,1,1,1,8
 "Brock Chitaroni","NO",2009-01-27,"6.00",188,"RW","Ottawa 67's",13,2,9,11,0.85,-1,0,4,4,0,0,0
 "Brenner Lammens","NO",2009-09-13,"6.01",195,"C","Sarnia Sting",15,5,5,10,0.67,-7,2,0,2,1,0,21
 "Dmitry Savin","YES",2009-04-14,"6.03",190,"C","Saginaw Spirit",14,4,6,10,0.71,5,1,2,3,1,0,6
@@ -94,7 +94,6 @@
 "Will Mullins","YES",2009-05-14,"6.00",179,"RW","Niagara IceDogs",11,0,1,1,0.09,-5,0,1,1,0,0,2
 "Aiden Mowrey","YES",2009-07-02,"6.04",210,"D","Barrie Colts",9,0,0,0,0,0,0,0,0,0,0,4
 "Aleksandr Sementsov","YES",2009-08-25,"5.09",165,"LW","Brantford Bulldogs",1,0,0,0,0,-1,0,0,0,0,0,0
-"Alex Taylor","YES",2009-01-14,"5.08",153,"RW","Owen Sound Attack",6,0,0,0,0,0,0,0,0,0,0,2
 "Benson Hirst","NO",2008-11-02,"6.00",195,"D","Guelph Storm",4,0,0,0,0,-2,0,0,0,0,0,2
 "Carter Beauchesne","YES",2009-02-09,"6.00",185,"LW","Flint Firebirds",12,0,0,0,0,0,0,0,0,0,0,13
 "Chase Sewell","NO",2009-09-09,"6.05",201,"D","Sarnia Sting",8,0,0,0,0,-2,0,0,0,0,0,2
