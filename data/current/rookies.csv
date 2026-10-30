@@ -1,15 +1,15 @@
 "Name","BD","Pos","Team","GP","G","A","PTS","Pts/G","+/-","PPG","PPA","GWG","ENG","PIM"
-"Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",13,9,7,16,1.23,6,3,2,1,0,6
+"Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",14,9,7,16,1.14,6,3,2,1,0,6
 "Aiden Kelly",2010-02-02,"C","Brantford Bulldogs",14,6,10,16,1.14,5,3,3,1,0,4
 "Kash Kwajah",2010-09-10,"C","Sudbury Wolves",13,6,9,15,1.15,8,0,3,1,1,8
 "Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",15,4,8,12,0.8,5,2,1,2,0,10
+"Cooper McAslan",2009-03-16,"D","London Knights",13,4,7,11,0.85,19,1,0,1,1,8
 "Dmitry Savin",2009-04-14,"C","Saginaw Spirit",14,4,6,10,0.71,5,1,2,1,0,6
 "Broden McArthur",2009-02-24,"D","Erie Otters",15,2,8,10,0.67,-6,0,3,0,0,8
 "Luca Santala",2009-07-28,"C","Kitchener Rangers",14,7,2,9,0.64,-8,4,0,1,0,2
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",15,6,3,9,0.6,5,1,1,0,0,9
-"Cooper McAslan",2009-03-16,"D","London Knights",13,4,5,9,0.69,17,1,0,1,1,6
 "Andrew Laurin",2010-04-09,"RW","Ottawa 67's",12,4,3,7,0.58,-6,3,2,1,0,0
-"Adam Nemec",2009-07-28,"LW","Brantford Bulldogs",15,2,5,7,0.47,-2,0,2,0,0,0
+"Adam Nemec",2009-07-28,"LW","Brantford Bulldogs",15,2,5,7,0.47,-1,0,2,0,0,0
 "Jesse Debruyn",2009-02-03,"D","Windsor Spitfires",14,2,5,7,0.5,-1,1,4,0,0,10
 "Parker Smith",2009-04-17,"LW","Sudbury Wolves",11,3,3,6,0.55,1,0,0,0,0,0
 "Brayden Lappalainen",2009-04-27,"LW","Brantford Bulldogs",11,2,4,6,0.55,4,2,1,0,0,6
@@ -36,9 +36,9 @@
 "Stepan Stejskal",2009-01-06,"LW","Niagara IceDogs",9,2,1,3,0.33,-2,1,0,0,0,4
 "Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",10,1,2,3,0.3,4,0,0,0,0,4
 "Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",13,1,2,3,0.23,6,0,0,0,0,2
-"Jake Ritson",2009-02-12,"LW","London Knights",11,1,2,3,0.27,0,0,0,1,0,2
-"Paul Schuster",2009-07-26,"RW","Erie Otters",13,1,2,3,0.23,-4,1,0,0,0,4
-"Alex Campeau",2009-03-23,"C","London Knights",12,0,3,3,0.25,4,0,0,0,0,11
+"Jake Ritson",2009-02-12,"LW","London Knights",11,1,2,3,0.27,-1,0,0,1,0,2
+"Paul Schuster",2009-07-26,"RW","Erie Otters",14,1,2,3,0.21,-4,1,0,0,0,4
+"Alex Campeau",2009-03-23,"C","London Knights",13,0,3,3,0.23,4,0,0,0,0,11
 "Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",11,0,3,3,0.27,-4,0,3,0,0,15
 "Jace Voortman",2010-08-12,"LW","Owen Sound Attack",14,0,3,3,0.21,-5,0,0,0,0,8
 "Reid Hayes",2009-07-16,"RW","Ottawa 67's",13,0,3,3,0.23,-5,0,1,0,0,2
@@ -71,7 +71,7 @@
 "Carter Beauchesne",2009-02-09,"LW","Flint Firebirds",12,0,0,0,0,0,0,0,0,0,13
 "Easton Poe",2008-03-06,"D","North Bay Battalion",5,0,0,0,0,-1,0,0,0,0,4
 "Evan Nicholson",2009-04-01,"LW","Kitchener Rangers",5,0,0,0,0,0,0,0,0,0,0
-"Ian Inskip",2009-02-05,"LW","Windsor Spitfires",9,0,0,0,0,-1,0,0,0,0,0
+"Ian Inskip",2009-02-05,"LW","Windsor Spitfires",10,0,0,0,0,-1,0,0,0,0,0
 "Jaden Licastro",2010-03-02,"D","Soo Greyhounds",12,0,0,0,0,-4,0,0,0,0,9
 "Jay Nimchonok",2010-10-01,"RD","Brampton Steelheads",8,0,0,0,0,-6,0,0,0,0,0
 "John Montanino",2010-05-26,"LD","Brampton Steelheads",1,0,0,0,0,-3,0,0,0,0,2
