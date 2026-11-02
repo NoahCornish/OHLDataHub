@@ -11,7 +11,7 @@
 "David Buchman","NO",2009-07-01,"5.11",182,"D","Brantford Bulldogs",17,2,12,14,0.82,7,0,6,6,1,0,8
 "John McLaughlin","NO",2009-08-14,"6.00",185,"C","Windsor Spitfires",14,7,6,13,0.93,-2,2,2,4,2,0,12
 "Kaden McGregor","NO",2009-01-30,"5.11",180,"C","Brantford Bulldogs",17,7,6,13,0.76,-1,5,2,7,2,0,24
-"Tyler Hinde","YES",2009-06-23,"6.03",173,"C","Oshawa Generals",17,7,6,13,0.76,7,1,2,3,0,0,9
+"Tyler Hinde","YES",2009-06-23,"6.03",173,"C","Oshawa Generals",17,7,6,13,0.76,6,1,2,3,0,0,9
 "Max Delisle","NO",2009-07-06,"6.01",184,"C","Owen Sound Attack",16,6,7,13,0.81,-3,2,4,6,0,0,14
 "Trevor Daley Jr","YES",2009-07-11,"5.10",182,"C","Soo Greyhounds",17,4,9,13,0.76,7,2,1,3,2,0,12
 "Max Brocklehurst","NO",2008-12-30,"5.09",170,"RW","Windsor Spitfires",16,5,7,12,0.75,-2,2,1,3,0,0,11
@@ -81,7 +81,7 @@
 "Kade Meyer","NO",2008-11-05,"5.08",190,"D","Saginaw Spirit",16,0,2,2,0.13,2,0,0,0,0,0,15
 "Brayden Bennett","NO",2009-02-05,"6.00",193,"C","Sudbury Wolves",5,1,0,1,0.2,0,1,0,1,0,0,0
 "Cole Renaud","YES",2009-08-13,"6.01",183,"RW","Rouyn-Noranda Huskies",1,1,0,1,1,-1,1,0,1,0,0,0
-"Jack Johnson","YES",2009-04-21,"6.03",198,"D","Ottawa 67's",10,1,0,1,0.1,4,0,0,0,0,1,11
+"Jack Johnson","YES",2009-04-21,"6.03",198,"D","Ottawa 67's",10,1,0,1,0.1,5,0,0,0,0,1,11
 "Jonah McCormick","NO",2008-10-08,"6.02",200,"LW","Barrie Colts",6,1,0,1,0.17,-3,0,0,0,0,0,11
 "Kaden Aucoin","NO",2009-08-14,"6.02",185,"D","Sarnia Sting",12,1,0,1,0.08,-16,0,0,0,0,0,29
 "Lachlan Larmand","YES",2009-03-25,"6.00",180,"RW","Brampton Steelheads",9,1,0,1,0.11,-1,0,0,0,0,0,6
@@ -112,6 +112,7 @@
 "Karsten Barbeau","YES",2009-03-09,"6.03",195,"LW","Soo Greyhounds",3,0,0,0,0,0,0,0,0,0,0,0
 "Landon Pickersgill","NO",2008-10-30,"6.01",183,"D","Sarnia Sting",6,0,0,0,0,-3,0,0,0,0,0,4
 "Liam Connelly","YES",2009-05-28,"6.03",205,"D","Rouyn-Noranda Huskies",1,0,0,0,0,0,0,0,0,0,0,0
+"Lucas Balanyk","NO",2009-05-09,"5.09",173,"RW","Ottawa 67's",1,0,0,0,0,1,0,0,0,0,0,0
 "Quinn Patton","YES",2009-09-13,"5.10",152,"LW","Brampton Steelheads",1,0,0,0,0,0,0,0,0,0,0,0
 "Rocco Olek","YES",2009-07-07,"6.03",190,"RW","Barrie Colts",6,0,0,0,0,-2,0,0,0,0,0,0
 "Samuel Rheault","NO",2008-10-21,"6.00",187,"LW","Rouyn-Noranda Huskies",1,0,0,0,0,0,0,0,0,0,0,0

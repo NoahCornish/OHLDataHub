@@ -1,9 +1,9 @@
 "Name","BD","Pos","Team","GP","EVG","EVA","EVPTS","EVPTS/G","EVPTS%"
 "Landon Wright",2006-01-17,"RW","Kingston Frontenacs",16,5,13,18,1.12,95
 "Michael Dec",2007-01-29,"RW","Erie Otters",16,8,9,17,1.06,74
+"Filip Ekberg",2007-04-14,"RW","Ottawa 67's",14,5,11,16,1.14,80
 "Owen Griffin",2007-04-08,"C","Guelph Storm",13,5,11,16,1.23,73
-"Filip Ekberg",2007-04-14,"RW","Ottawa 67's",14,4,11,15,1.07,83
-"Spencer Bowes",2007-09-19,"LW","Ottawa 67's",15,9,6,15,1,71
+"Spencer Bowes",2007-09-19,"LW","Ottawa 67's",15,9,7,16,1.07,70
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",16,5,9,14,0.88,67
 "Cam Warren",2009-05-07,"C","North Bay Battalion",16,2,12,14,0.88,93
 "Dima Zhilkin",2008-10-21,"LW","Saginaw Spirit",16,7,7,14,0.88,56
@@ -45,6 +45,7 @@
 "Jack Van Volsen",2006-01-12,"C","Sarnia Sting",17,2,8,10,0.59,53
 "Lucas Ambrosio",2008-01-06,"D","Erie Otters",15,2,8,10,0.67,100
 "Nathan Amidovski",2008-04-06,"LW","Brampton Steelheads",16,5,5,10,0.62,62
+"Ondrej Ruml",2008-03-25,"D","Ottawa 67's",14,4,6,10,0.71,62
 "Parker Holmes",2007-03-08,"LW","Sarnia Sting",16,4,6,10,0.62,91
 "Quinn McKenzie",2007-11-28,"C","Soo Greyhounds",17,1,9,10,0.59,77
 "Ryan Roobroeck",2007-09-25,"LW","Guelph Storm",13,8,2,10,0.77,45
@@ -62,7 +63,6 @@
 "Leon Kolarik",2007-09-23,"LW","Peterborough Petes",16,5,4,9,0.56,60
 "Levi Harper",2008-10-03,"D","Saginaw Spirit",10,2,7,9,0.9,82
 "Max Brocklehurst",2008-12-30,"RW","Windsor Spitfires",16,3,6,9,0.56,75
-"Ondrej Ruml",2008-03-25,"D","Ottawa 67's",14,4,5,9,0.64,64
 "Ryerson Edgar",2009-07-30,"C","Niagara IceDogs",15,4,5,9,0.6,60
 "Shamar Moses",2007-05-06,"RW","North Bay Battalion",17,5,4,9,0.53,64
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",17,5,4,9,0.53,69
@@ -442,6 +442,7 @@
 "Liam Spencer",2006-01-19,"LD","Sarnia Sting",5,0,0,0,0,NA
 "Luc Gauvreau",2007-08-08,"LW","Barrie Colts",7,0,0,0,0,NA
 "Luca Diplacido",2008-09-11,"RD","Oshawa Generals",4,0,0,0,0,NA
+"Lucas Balanyk",2009-05-09,"RW","Ottawa 67's",1,0,0,0,0,NA
 "Maksim Sokolovskii",2008-07-12,"D","London Knights",1,0,0,0,0,NA
 "Malik Tremblay",2010-03-26,"RW","Rouyn-Noranda Huskies",1,0,0,0,0,0
 "Manuel Amado",2008-02-04,"C","Brampton Steelheads",12,0,0,0,0,NA
