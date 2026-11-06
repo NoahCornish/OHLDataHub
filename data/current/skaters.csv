@@ -7,9 +7,9 @@
 "Easton Walos",9448,"https://assets.leaguestat.com/ohl/240x240/9448.jpg","NO",11,2008-12-28,2008,"5.11",192,"C","Sarnia Sting",18,10,14,24,1.33,-9,6,10,16,0,0,0,1,0,10,1
 "Ryan Roobroeck",8963,"https://assets.leaguestat.com/ohl/240x240/8963.jpg","NO",25,2007-09-25,2007,"6.03",218,"LW","Guelph Storm",14,14,9,23,1.64,12,4,5,9,2,1,3,3,0,12,1
 "Owen Griffin",8932,"https://assets.leaguestat.com/ohl/240x240/8932.jpg","NO",10,2007-04-08,2007,"5.10",175,"C","Guelph Storm",14,5,18,23,1.64,16,0,6,6,0,0,0,2,1,14,1
+"Adam Novotný",9638,"https://assets.leaguestat.com/ohl/240x240/9638.jpg","NO",16,2007-11-13,2007,"6.01",204,"LW","Peterborough Petes",16,10,12,22,1.38,-2,7,6,13,0,0,0,3,0,8,1
 "Mclean Agrette",9408,"https://assets.leaguestat.com/ohl/240x240/9408.jpg","NO",92,2007-11-23,2007,"5.08",167,"LW","Erie Otters",17,6,16,22,1.29,3,2,6,8,0,0,0,0,0,0,1
-"Bogdan Yakushevsky",9792,"https://assets.leaguestat.com/ohl/240x240/9792.jpg","YES",87,2009-01-16,2009,"6.00",182,"RW","Windsor Spitfires",16,10,11,21,1.31,11,3,2,5,2,0,2,1,0,6,1
-"Adam Novotný",9638,"https://assets.leaguestat.com/ohl/240x240/9638.jpg","NO",16,2007-11-13,2007,"6.01",204,"LW","Peterborough Petes",16,9,12,21,1.31,-2,6,6,12,0,0,0,3,0,8,1
+"Bogdan Yakushevsky",9792,"https://assets.leaguestat.com/ohl/240x240/9792.jpg","YES",87,2009-01-16,2009,"6.00",182,"RW","Windsor Spitfires",17,10,11,21,1.24,11,3,2,5,2,0,2,1,0,6,1
 "Cooper Dennis",9473,"https://assets.leaguestat.com/ohl/240x240/9473.jpg","NO",24,2007-05-07,2007,"5.06",151,"RW","Peterborough Petes",18,8,13,21,1.17,-11,2,8,10,0,0,0,1,1,4,1
 "Adam Nemec",9685,"https://assets.leaguestat.com/ohl/240x240/9685.jpg","NO",71,2007-10-18,2007,"6.01",176,"LW","Sudbury Wolves",12,6,15,21,1.75,-1,2,11,13,0,0,0,0,1,6,1
 "Vladimir Dravecky",9656,"https://assets.leaguestat.com/ohl/240x240/9656.jpg","NO",29,2007-12-19,2007,"6.00",192,"D","Guelph Storm",14,5,16,21,1.5,13,1,5,6,0,2,2,2,0,6,1
@@ -74,6 +74,7 @@
 "Tyler Hinde",9399,"https://assets.leaguestat.com/ohl/240x240/9399.jpg","YES",21,2009-06-23,2009,"6.03",173,"C","Oshawa Generals",17,7,6,13,0.76,6,1,2,3,1,0,1,0,0,9,1
 "Kaden McGregor",9552,"https://assets.leaguestat.com/ohl/240x240/9552.jpg","NO",16,2009-01-30,2009,"5.11",180,"C","Brantford Bulldogs",17,7,6,13,0.76,-1,5,2,7,0,0,0,2,0,24,1
 "Jacob Cloutier",8990,"https://assets.leaguestat.com/ohl/240x240/8990.jpg","NO",42,2007-03-22,2007,"5.11",180,"RW","Saginaw Spirit",14,5,8,13,0.93,5,2,3,5,0,0,0,0,0,10,1
+"Adam Levac",9226,"https://assets.leaguestat.com/ohl/240x240/9226.jpg","NO",10,2008-06-27,2008,"6.00",183,"C","Peterborough Petes",14,5,8,13,0.93,-1,1,5,6,0,0,0,0,0,15,1
 "Nolan Buttar",9137,"https://assets.leaguestat.com/ohl/240x240/9137.jpg","NO",22,2008-05-23,2008,"6.02",205,"LW","Kingston Frontenacs",17,5,8,13,0.76,8,0,0,0,1,0,1,2,0,16,1
 "Eamon Edgar",9534,"https://assets.leaguestat.com/ohl/240x240/9534.jpg","NO",37,2009-11-05,2009,"5.10",175,"C","Barrie Colts",17,4,9,13,0.76,-13,4,4,8,0,0,0,2,0,4,1
 "Trevor Daley Jr",9976,"https://assets.leaguestat.com/ohl/240x240/9976.jpg","YES",83,2009-07-11,2009,"5.10",182,"C","Soo Greyhounds",18,4,9,13,0.72,6,2,1,3,0,0,0,2,0,12,1
@@ -83,7 +84,6 @@
 "Onni Kalto",9395,"https://assets.leaguestat.com/ohl/240x240/9395.jpg","NO",78,2006-12-14,2006,"6.02",191,"LW","Oshawa Generals",16,7,5,12,0.75,-2,4,2,6,0,1,1,0,1,2,1
 "Joey Banas",9668,"https://assets.leaguestat.com/ohl/240x240/9668.jpg","NO",34,2008-03-31,2008,"5.08",170,"RW","Niagara IceDogs",15,6,6,12,0.8,-5,2,1,3,0,0,0,1,0,8,1
 "Haeden Ellis",9281,"https://assets.leaguestat.com/ohl/240x240/9281.jpg","NO",13,2007-03-07,2007,"5.10",161,"C","Kitchener Rangers",17,6,6,12,0.71,-1,1,2,3,0,0,0,1,0,11,1
-"Adam Levac",9226,"https://assets.leaguestat.com/ohl/240x240/9226.jpg","NO",10,2008-06-27,2008,"6.00",183,"C","Peterborough Petes",14,5,7,12,0.86,-1,1,4,5,0,0,0,0,0,13,1
 "Adam Goljer",10082,"https://assets.leaguestat.com/ohl/240x240/10082.jpg","NO",8,2008-06-07,2008,"6.02",194,"D","Kingston Frontenacs",15,5,7,12,0.8,-5,3,4,7,0,0,0,1,0,6,1
 "Camden McCuaig",9141,"https://assets.leaguestat.com/ohl/240x240/9141.jpg","NO",20,2008-06-19,2008,"6.02",195,"LW","Brantford Bulldogs",15,4,8,12,0.8,4,0,4,4,0,0,0,0,0,13,1
 "Mason Walker",9261,"https://assets.leaguestat.com/ohl/240x240/9261.jpg","NO",86,2008-11-26,2008,"5.11",169,"LW","Sudbury Wolves",16,4,8,12,0.75,1,1,3,4,2,0,2,0,1,6,1
@@ -107,7 +107,7 @@
 "Aiden Young",8992,"https://assets.leaguestat.com/ohl/240x240/8992.jpg","NO",26,2007-04-18,2007,"5.11",181,"C","Peterborough Petes",18,2,9,11,0.61,-1,1,2,3,0,0,0,1,0,4,1
 "Luca Santala",9921,"https://assets.leaguestat.com/ohl/240x240/9921.jpg","YES",23,2009-07-28,2009,"6.03",195,"C","Kitchener Rangers",16,7,3,10,0.63,-8,4,0,4,0,0,0,1,0,2,1
 "William Schneid",9580,"https://assets.leaguestat.com/ohl/240x240/9580.jpg","NO",11,2007-05-10,2007,"6.01",203,"RW","Barrie Colts",16,7,3,10,0.63,-7,2,3,5,0,0,0,0,0,4,1
-"Stepan Kuryachenkov",9784,"https://assets.leaguestat.com/ohl/240x240/9784.jpg","NO",18,2008-07-16,2008,"6.00",176,"LW","Brampton Steelheads",17,6,4,10,0.59,-5,1,1,2,1,0,1,1,1,9,1
+"Stepan Kuryachenkov",9784,"https://assets.leaguestat.com/ohl/240x240/9784.jpg","NO",18,2008-07-16,2008,"6.00",176,"LW","Brampton Steelheads",17,6,4,10,0.59,-5,1,1,2,1,0,1,2,1,9,1
 "Brady Smith",9221,"https://assets.leaguestat.com/ohl/240x240/9221.jpg","NO",12,2007-04-12,2007,"6.00",187,"C","Soo Greyhounds",18,6,4,10,0.56,4,0,0,0,1,0,1,1,1,15,1
 "Noah Read",9242,"https://assets.leaguestat.com/ohl/240x240/9242.jpg","NO",93,2007-01-06,2007,"6.00",170,"LW","Niagara IceDogs",10,5,5,10,1,3,0,0,0,0,0,0,0,0,9,1
 "Martins Klaucans",10015,"https://assets.leaguestat.com/ohl/240x240/10015.jpg","NO",8,2008-07-08,2008,"6.00",190,"C","Flint Firebirds",15,5,5,10,0.67,5,2,2,4,0,0,0,1,1,11,1
@@ -118,6 +118,7 @@
 "Cole Zurawski",9228,"https://assets.leaguestat.com/ohl/240x240/9228.jpg","NO",44,2008-02-06,2008,"6.01",190,"RW","Kingston Frontenacs",13,4,6,10,0.77,-11,2,5,7,0,0,0,0,0,14,1
 "Chase Gaughan",9122,"https://assets.leaguestat.com/ohl/240x240/9122.jpg","NO",71,2008-07-17,2008,"6.03",190,"RW","Sarnia Sting",18,4,6,10,0.56,-4,0,2,2,0,0,0,1,1,2,1
 "Vladimir Provorov",9391,"https://assets.leaguestat.com/ohl/240x240/9391.jpg","NO",97,2008-02-09,2008,"5.11",172,"C","Sudbury Wolves",15,3,7,10,0.67,6,1,3,4,0,1,1,1,0,8,1
+"Andrew Robinson",9358,"https://assets.leaguestat.com/ohl/240x240/9358.jpg","NO",27,2008-01-08,2008,"6.00",200,"D","Windsor Spitfires",10,2,8,10,1,-1,1,1,2,1,1,2,1,0,6,1
 "Wil McFadden",8958,"https://assets.leaguestat.com/ohl/240x240/8958.jpg","NO",12,2007-02-15,2007,"5.08",170,"C","Niagara IceDogs",11,2,8,10,0.91,-3,0,5,5,0,0,0,0,0,0,1
 "Yanis Lutz",9554,"https://assets.leaguestat.com/ohl/240x240/9554.jpg","NO",44,2008-05-11,2008,"5.11",160,"C","Peterborough Petes",18,2,8,10,0.56,-8,1,6,7,0,0,0,0,0,16,1
 "Ryan Kaczynski",9575,"https://assets.leaguestat.com/ohl/240x240/9575.jpg","NO",89,2009-07-08,2009,"6.03",190,"LW","Soo Greyhounds",10,8,1,9,0.9,5,3,0,3,0,0,0,1,0,4,1
@@ -141,7 +142,6 @@
 "Vann Williamson",8820,"https://assets.leaguestat.com/ohl/240x240/8820.jpg","NO",27,2006-07-19,2006,"6.02",196,"D","Kingston Frontenacs",15,2,7,9,0.6,3,1,1,2,0,0,0,0,0,14,1
 "Callum Croskery",9570,"https://assets.leaguestat.com/ohl/240x240/9570.jpg","NO",14,2008-01-29,2008,"6.01",182,"D","Soo Greyhounds",16,2,7,9,0.56,-4,0,3,3,0,0,0,1,0,19,1
 "Caden Taylor",9011,"https://assets.leaguestat.com/ohl/240x240/9011.jpg","NO",96,2007-03-31,2007,"6.03",189,"RW","Oshawa Generals",16,2,7,9,0.56,5,1,0,1,0,0,0,1,0,14,1
-"Andrew Robinson",9358,"https://assets.leaguestat.com/ohl/240x240/9358.jpg","NO",27,2008-01-08,2008,"6.00",200,"D","Windsor Spitfires",10,1,8,9,0.9,-1,0,1,1,1,1,2,0,0,6,1
 "Jet Kwajah",9779,"https://assets.leaguestat.com/ohl/240x240/9779.jpg","NO",26,2008-03-13,2008,"6.00",176,"D","Brantford Bulldogs",13,1,8,9,0.69,1,0,4,4,0,0,0,0,0,4,1
 "Nick Bogas",10019,"https://assets.leaguestat.com/ohl/240x240/10019.jpg","NO",2,2008-07-23,2008,"6.00",195,"D","Flint Firebirds",14,1,8,9,0.64,3,0,3,3,0,0,0,0,0,10,1
 "James Paul",9336,"https://assets.leaguestat.com/ohl/240x240/9336.jpg","NO",7,2007-10-27,2007,"6.02",185,"D","Flint Firebirds",15,1,8,9,0.6,10,0,0,0,0,1,1,0,0,0,1
@@ -154,6 +154,7 @@
 "Xavier Lieb",9765,"https://assets.leaguestat.com/ohl/240x240/9765.jpg","NO",17,2008-03-14,2008,"5.09",165,"C","Brantford Bulldogs",14,4,4,8,0.57,1,1,1,2,0,0,0,2,0,0,1
 "André Mondoux",9307,"https://assets.leaguestat.com/ohl/240x240/9307.jpg","NO",25,2007-03-16,2007,"6.05",207,"D","Kingston Frontenacs",17,4,4,8,0.47,6,0,0,0,0,0,0,0,0,2,1
 "Matthew Manza",9330,"https://assets.leaguestat.com/ohl/240x240/9330.jpg","NO",55,2007-09-22,2007,"6.00",178,"RW","Sarnia Sting",18,4,4,8,0.44,-6,2,2,4,0,0,0,0,1,2,1
+"Lucas Karmiris",8731,"https://assets.leaguestat.com/ohl/240x240/8731.jpg","NO",17,2006-09-27,2006,"6.00",187,"C","Peterborough Petes",11,3,5,8,0.73,-2,1,2,3,0,0,0,0,0,2,1
 "Luka Graziano",9507,"https://assets.leaguestat.com/ohl/240x240/9507.jpg","NO",14,2007-10-24,2007,"5.10",180,"D","Flint Firebirds",15,3,5,8,0.53,2,3,1,4,0,1,1,0,0,18,1
 "Nolan Laird",8987,"https://assets.leaguestat.com/ohl/240x240/8987.jpg","NO",19,2006-01-04,2006,"6.01",200,"C","North Bay Battalion",17,3,5,8,0.47,-8,0,1,1,1,0,1,1,0,16,1
 "Adam Nemec",9774,"https://assets.leaguestat.com/ohl/240x240/9774.jpg","YES",23,2009-07-28,2009,"6.01",175,"LW","Brantford Bulldogs",17,2,6,8,0.47,-1,0,2,2,0,0,0,0,0,4,1
@@ -168,7 +169,6 @@
 "Mark Pape",9417,"https://assets.leaguestat.com/ohl/240x240/9417.jpg","NO",23,2009-01-24,2009,"6.00",178,"LW","Oshawa Generals",16,5,2,7,0.44,0,0,0,0,0,0,0,0,0,15,1
 "Andrew Laurin",9849,"https://assets.leaguestat.com/ohl/240x240/9849.jpg","YES",9,2010-04-09,2010,"6.01",176,"RW","Ottawa 67's",12,4,3,7,0.58,-6,3,2,5,0,0,0,1,0,0,1
 "Charlie Puglisi",10011,"https://assets.leaguestat.com/ohl/240x240/10011.jpg","NO",98,2008-04-16,2008,"5.10",164,"C","Kitchener Rangers",17,4,3,7,0.41,4,1,1,2,0,0,0,0,0,12,1
-"Lucas Karmiris",8731,"https://assets.leaguestat.com/ohl/240x240/8731.jpg","NO",17,2006-09-27,2006,"6.00",187,"C","Peterborough Petes",11,3,4,7,0.64,-2,1,1,2,0,0,0,0,0,2,1
 "Brayden Lappalainen",9658,"https://assets.leaguestat.com/ohl/240x240/9658.jpg","YES",21,2009-04-27,2009,"5.11",170,"LW","Brantford Bulldogs",13,3,4,7,0.54,4,3,1,4,0,0,0,0,0,8,1
 "Parker Smith",9392,"https://assets.leaguestat.com/ohl/240x240/9392.jpg","YES",96,2009-04-17,2009,"5.09",175,"LW","Sudbury Wolves",14,3,4,7,0.5,3,0,0,0,0,0,0,0,0,0,1
 "Adrien Bartovic",10033,"https://assets.leaguestat.com/ohl/240x240/10033.jpg","NO",15,2007-03-09,2007,"6.01",188,"C","Guelph Storm",16,3,4,7,0.44,2,2,1,3,0,0,0,0,0,2,1
@@ -222,10 +222,10 @@
 "Norman Greene",9947,"https://assets.leaguestat.com/ohl/240x240/9947.jpg","YES",22,2009-02-02,2009,"6.01",183,"RW","Sudbury Wolves",15,2,3,5,0.33,5,0,0,0,0,0,0,0,0,2,1
 "Ben Lombardi",9821,"https://assets.leaguestat.com/ohl/240x240/9821.jpg","NO",24,2008-03-24,2008,"6.00",185,"RW","Barrie Colts",15,2,3,5,0.33,5,0,0,0,0,0,0,0,0,8,1
 "Nicholas Desiderio",9578,"https://assets.leaguestat.com/ohl/240x240/9578.jpg","NO",2,2008-06-16,2008,"6.00",200,"LW","Barrie Colts",16,2,3,5,0.31,-1,0,0,0,0,0,0,0,0,11,1
-"Hamza Havusic",9787,"https://assets.leaguestat.com/ohl/240x240/9787.jpg","NO",22,2008-07-03,2008,"6.04",190,"RW","Windsor Spitfires",16,2,3,5,0.31,-1,0,0,0,0,0,0,0,0,7,1
 "Chase Hull",9501,"https://assets.leaguestat.com/ohl/240x240/9501.jpg","NO",64,2007-04-28,2007,"5.11",185,"LW","Niagara IceDogs",16,2,3,5,0.31,-4,1,0,1,0,0,0,1,0,22,1
 "Jax Pereira",9514,"https://assets.leaguestat.com/ohl/240x240/9514.jpg","NO",22,2009-05-06,2009,"5.11",175,"C","North Bay Battalion",16,2,3,5,0.31,2,0,0,0,0,0,0,0,0,8,1
 "Weston Cameron",9169,"https://assets.leaguestat.com/ohl/240x240/9169.jpg","NO",17,2008-01-01,2008,"6.04",188,"LW","Kitchener Rangers",17,2,3,5,0.29,2,1,1,2,0,0,0,0,0,28,1
+"Hamza Havusic",9787,"https://assets.leaguestat.com/ohl/240x240/9787.jpg","NO",22,2008-07-03,2008,"6.04",190,"RW","Windsor Spitfires",17,2,3,5,0.29,-1,0,0,0,0,0,0,0,0,7,1
 "Dylan Tsherna",8967,"https://assets.leaguestat.com/ohl/240x240/8967.jpg","NO",89,2007-02-22,2007,"6.00",185,"RW","Barrie Colts",17,2,3,5,0.29,-6,0,0,0,1,0,1,0,0,19,1
 "Liam Ladds",9022,"https://assets.leaguestat.com/ohl/240x240/9022.jpg","NO",18,2007-10-28,2007,"6.02",171,"D","Sudbury Wolves",13,1,4,5,0.38,3,0,0,0,0,1,1,0,1,21,1
 "Caleb Mitchell",9115,"https://assets.leaguestat.com/ohl/240x240/9115.jpg","NO",77,2008-03-17,2008,"6.00",180,"D","London Knights",14,1,4,5,0.36,1,0,1,1,0,0,0,0,0,6,1
@@ -278,7 +278,6 @@
 "Drew Bate",9815,"https://assets.leaguestat.com/ohl/240x240/9815.jpg","YES",18,2010-05-19,2010,"5.11",170,"C","Saginaw Spirit",13,2,1,3,0.23,-4,2,0,2,0,0,0,0,0,10,1
 "Alex Milojevic",9818,"https://assets.leaguestat.com/ohl/240x240/9818.jpg","YES",93,2009-09-05,2009,"5.11",195,"C","Saginaw Spirit",16,2,1,3,0.19,-5,1,1,2,0,0,0,0,1,4,1
 "Evan Passmore",9008,"https://assets.leaguestat.com/ohl/240x240/9008.jpg","NO",88,2006-12-05,2006,"6.05",217,"D","Barrie Colts",17,2,1,3,0.18,-13,0,1,1,0,0,0,0,0,22,1
-"Matthew Hlacar",9168,"https://assets.leaguestat.com/ohl/240x240/9168.jpg","NO",81,2006-05-31,2006,"6.03",205,"LW","Brantford Bulldogs",8,1,2,3,0.38,2,0,0,0,0,0,0,0,0,14,1
 "Phillip Shargorodsky",9845,"https://assets.leaguestat.com/ohl/240x240/9845.jpg","NO",20,2007-03-18,2007,"6.03",200,"C","Barrie Colts",8,1,2,3,0.38,4,0,0,0,0,0,0,0,0,8,1
 "Cole Guizzetti",10014,"https://assets.leaguestat.com/ohl/240x240/10014.jpg","YES",21,2010-06-20,2010,"5.06",155,"LW","Flint Firebirds",10,1,2,3,0.3,4,0,0,0,0,0,0,0,0,4,1
 "Patrick Babin",9150,"https://assets.leaguestat.com/ohl/240x240/9150.jpg","NO",17,2008-01-30,2008,"5.11",188,"D","Guelph Storm",13,1,2,3,0.23,2,0,0,0,0,0,0,0,0,8,1
@@ -399,7 +398,6 @@
 "Lucas Balanyk",9982,"https://assets.leaguestat.com/ohl/240x240/9982.jpg","NO",20,2009-05-09,2009,"5.09",173,"RW","Ottawa 67's",2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
 "Sean Matthew Goyette",9470,"https://assets.leaguestat.com/ohl/240x240/9470.jpg","NO",28,2008-05-15,2008,"5.11",186,"D","Brampton Steelheads",2,0,0,0,0,-2,0,0,0,0,0,0,0,0,5,1
 "Kosta Housseas",9930,"https://assets.leaguestat.com/ohl/240x240/9930.jpg","YES",12,2010-01-27,2010,"6.03",200,"D","London Knights",2,0,0,0,0,-1,0,0,0,0,0,0,0,0,2,1
-"John Kanyo",9988,"https://assets.leaguestat.com/ohl/240x240/9988.jpg","NO",58,2010-02-10,2010,"6.00",178,"D","Brantford Bulldogs",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 "Jakub Kuklinski",9838,"https://assets.leaguestat.com/ohl/240x240/9838.jpg","NO",81,2010-01-01,2010,"5.10",171,"LW","Oshawa Generals",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 "Lexi Kert",9836,"https://assets.leaguestat.com/ohl/240x240/9836.jpg","NO",84,2007-12-12,2007,"6.01",220,"D","Barrie Colts",3,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1
 "Karsten Barbeau",9666,"https://assets.leaguestat.com/ohl/240x240/9666.jpg","YES",15,2009-03-09,2009,"6.03",195,"LW","Soo Greyhounds",4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1

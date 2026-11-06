@@ -5,7 +5,7 @@
 "Owen Griffin",2007-04-08,"C","Guelph Storm",14,5,12,17,1.21,74
 "Filip Ekberg",2007-04-14,"RW","Ottawa 67's",15,5,11,16,1.07,80
 "Dima Zhilkin",2008-10-21,"LW","Saginaw Spirit",16,7,7,14,0.88,56
-"Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",16,5,9,14,0.88,67
+"Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",17,5,9,14,0.82,67
 "Robin Kuzma",2008-01-29,"LW","Kingston Frontenacs",17,5,9,14,0.82,93
 "Mclean Agrette",2007-11-23,"LW","Erie Otters",17,4,10,14,0.82,64
 "Cam Warren",2009-05-07,"C","North Bay Battalion",16,2,12,14,0.88,93
@@ -67,7 +67,7 @@
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",17,5,4,9,0.53,69
 "Cullen McCrate",2007-04-18,"D","Brantford Bulldogs",12,4,5,9,0.75,90
 "Joey Banas",2008-03-31,"RW","Niagara IceDogs",15,4,5,9,0.6,75
-"Adam Novotný",2007-11-13,"LW","Peterborough Petes",16,3,6,9,0.56,43
+"Adam Novotný",2007-11-13,"LW","Peterborough Petes",16,3,6,9,0.56,41
 "Callum Cheynowski",2006-08-04,"D","Niagara IceDogs",15,2,7,9,0.6,100
 "Levi Harper",2008-10-03,"D","Saginaw Spirit",10,2,7,9,0.9,82
 "Brooks Rogowski",2008-06-24,"C","Oshawa Generals",15,0,9,9,0.6,64
@@ -102,7 +102,7 @@
 "Christopher Brown",2006-01-27,"LW","Soo Greyhounds",16,5,2,7,0.44,78
 "Joshua Avery",2007-01-30,"C","Guelph Storm",13,5,2,7,0.54,100
 "Mark Pape",2009-01-24,"LW","Oshawa Generals",16,5,2,7,0.44,100
-"Adam Levac",2008-06-27,"C","Peterborough Petes",14,4,3,7,0.5,58
+"Adam Levac",2008-06-27,"C","Peterborough Petes",14,4,3,7,0.5,54
 "Jeremy Martin",2007-02-06,"LW","Soo Greyhounds",17,4,3,7,0.41,78
 "Max Delisle",2009-07-06,"C","Owen Sound Attack",17,4,3,7,0.41,47
 "Stepan Kuryachenkov",2008-07-16,"LW","Brampton Steelheads",17,4,3,7,0.41,70
@@ -148,7 +148,7 @@
 "Nick Bogas",2008-07-23,"D","Flint Firebirds",14,1,5,6,0.43,67
 "Ryan Hanrahan",2009-11-10,"C","Saginaw Spirit",16,1,5,6,0.38,86
 "Tyler Martyniuk",2008-12-31,"D","Saginaw Spirit",16,1,5,6,0.38,67
-"Andrew Robinson",2008-01-08,"D","Windsor Spitfires",10,0,6,6,0.6,67
+"Andrew Robinson",2008-01-08,"D","Windsor Spitfires",10,0,6,6,0.6,60
 "Dracen Campbell",2007-08-09,"D","Sarnia Sting",17,0,6,6,0.35,75
 "William Schneid",2007-05-10,"RW","Barrie Colts",16,5,0,5,0.31,50
 "Josh Bonnyman",2007-07-05,"RW","Flint Firebirds",15,4,1,5,0.33,100
@@ -166,10 +166,10 @@
 "Ben Lombardi",2008-03-24,"RW","Barrie Colts",15,2,3,5,0.33,100
 "Brody Cook",2007-04-06,"RW","Owen Sound Attack",13,2,3,5,0.38,100
 "Evan Headrick",2008-01-08,"RW","Erie Otters",17,2,3,5,0.29,56
-"Hamza Havusic",2008-07-03,"RW","Windsor Spitfires",16,2,3,5,0.31,100
+"Hamza Havusic",2008-07-03,"RW","Windsor Spitfires",17,2,3,5,0.29,100
 "Jake Crawford",2007-05-05,"C","Owen Sound Attack",17,2,3,5,0.29,45
 "Jax Pereira",2009-05-06,"C","North Bay Battalion",16,2,3,5,0.31,100
-"Lucas Karmiris",2006-09-27,"C","Peterborough Petes",11,2,3,5,0.45,71
+"Lucas Karmiris",2006-09-27,"C","Peterborough Petes",11,2,3,5,0.45,62
 "Nicholas Desiderio",2008-06-16,"LW","Barrie Colts",16,2,3,5,0.31,100
 "Norman Greene",2009-02-02,"RW","Sudbury Wolves",15,2,3,5,0.33,100
 "Ryland Cunningham",2008-06-28,"LW","Flint Firebirds",15,2,3,5,0.33,100
@@ -253,7 +253,6 @@
 "Julian Brown",2006-04-10,"D","Owen Sound Attack",17,1,2,3,0.18,75
 "Kingston Harris",2009-02-15,"C","Sudbury Wolves",14,1,2,3,0.21,43
 "Matthew Henderson",2009-03-20,"D","Kingston Frontenacs",17,1,2,3,0.18,75
-"Matthew Hlacar",2006-05-31,"LW","Brantford Bulldogs",8,1,2,3,0.38,100
 "Max Fransen",2010-03-29,"D","Owen Sound Attack",14,1,2,3,0.21,50
 "Owen DeGraff",2008-01-13,"RW","Brantford Bulldogs",14,1,2,3,0.21,75
 "Patrick Babin",2008-01-30,"D","Guelph Storm",13,1,2,3,0.23,100
@@ -406,7 +405,6 @@
 "Jaden Licastro",2010-03-02,"D","Soo Greyhounds",12,0,0,0,0,NA
 "Jakub Kuklinski",2010-01-01,"LW","Oshawa Generals",2,0,0,0,0,NA
 "Jean-Samuel Daigneault",2008-02-15,"D","North Bay Battalion",13,0,0,0,0,0
-"John Kanyo",2010-02-10,"D","Brantford Bulldogs",2,0,0,0,0,NA
 "John Montanino",2010-05-26,"LD","Brampton Steelheads",1,0,0,0,0,NA
 "Josh Glavin",2006-09-24,"D","Saginaw Spirit",16,0,0,0,0,NA
 "Jude Bray",2008-05-04,"D","Flint Firebirds",9,0,0,0,0,NA
