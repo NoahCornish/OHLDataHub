@@ -40,7 +40,7 @@
 "Jimmy Lombardi",2007-02-16,"C","Flint Firebirds",18,5,9,14,0.78,58
 "Tyler Hinde",2009-06-23,"C","Oshawa Generals",22,5,9,14,0.64,74
 "Aiden O'Donnell",2008-01-03,"LW","Oshawa Generals",19,4,10,14,0.74,82
-"Anthony Cristoforo",2006-02-23,"D","Windsor Spitfires",18,8,5,13,0.72,62
+"Anthony Cristoforo",2006-02-23,"RW","Windsor Spitfires",18,8,5,13,0.72,62
 "Tyler Hopkins",2007-01-23,"C","Guelph Storm",19,8,5,13,0.68,50
 "Colin Fitzgerald",2008-04-01,"RW","Soo Greyhounds",23,7,6,13,0.57,62
 "Carson Harmer",2007-01-13,"C","London Knights",20,6,7,13,0.65,76
@@ -97,7 +97,7 @@
 "Jacob Cloutier",2007-03-22,"RW","Saginaw Spirit",20,4,6,10,0.5,59
 "Ondrej Ruml",2008-03-25,"D","Ottawa 67's",19,4,6,10,0.53,62
 "Parker Holmes",2007-03-08,"LW","Sarnia Sting",22,4,6,10,0.45,91
-"Caden Taylor",2007-03-31,"RW","Oshawa Generals",21,3,7,10,0.48,91
+"Caden Taylor",2007-03-31,"LW","Oshawa Generals",21,3,7,10,0.48,91
 "Harrison Franssen",2006-05-04,"C","Oshawa Generals",22,3,7,10,0.45,100
 "Alexander Bilecki",2008-05-09,"LD","Kitchener Rangers",20,2,8,10,0.5,45
 "Callum Cheynowski",2006-08-04,"D","Niagara IceDogs",18,2,8,10,0.56,100
@@ -238,7 +238,7 @@
 "Blake Barnes",2006-07-31,"LD","Niagara IceDogs",19,0,5,5,0.26,71
 "Ty Henry",2006-07-19,"D","Erie Otters",21,0,5,5,0.24,71
 "Eloan Le Gallic",2009-02-06,"C","London Knights",19,3,1,4,0.21,100
-"Kane Cloutier",2010-06-14,"LW","Oshawa Generals",19,3,1,4,0.21,67
+"Kane Cloutier",2010-06-14,"C","Oshawa Generals",19,3,1,4,0.21,67
 "Sawyer Schmidt",2009-12-29,"C","Saginaw Spirit",21,3,1,4,0.19,80
 "Thanasi Marentette",2007-01-30,"D","Windsor Spitfires",13,3,1,4,0.31,100
 "Troy Patton",2008-06-12,"C","Brampton Steelheads",20,3,1,4,0.2,40
@@ -293,6 +293,7 @@
 "Jake Ritson",2009-02-12,"LW","London Knights",18,1,2,3,0.17,100
 "Lauchlan Whelan",2010-08-13,"C","Windsor Spitfires",20,1,2,3,0.15,100
 "Max Fransen",2010-03-29,"D","Owen Sound Attack",16,1,2,3,0.19,50
+"Miles Reilly",2010-05-01,"C","Kingston Frontenacs",3,1,2,3,1,100
 "Rene Van Bommel",2006-05-14,"LW","North Bay Battalion",21,1,2,3,0.14,100
 "Alex Campeau",2009-03-23,"C","London Knights",20,0,3,3,0.15,100
 "Alexander Karmanov",2008-03-22,"D","Windsor Spitfires",13,0,3,3,0.23,100
@@ -415,7 +416,6 @@
 "Hayden Martin",2009-02-27,"D","Guelph Storm",4,0,0,0,0,NA
 "Heath Bogart",2008-06-02,"D","Brantford Bulldogs",11,0,0,0,0,NA
 "Jaden Licastro",2010-03-02,"D","Soo Greyhounds",14,0,0,0,0,NA
-"Jakub Kuklinski",2010-01-01,"LW","Oshawa Generals",5,0,0,0,0,NA
 "Josh Colosimo",2006-01-13,"LW","Windsor Spitfires",1,0,0,0,0,NA
 "Karsten Barbeau",2009-03-09,"LW","Soo Greyhounds",6,0,0,0,0,NA
 "Kieran Riley",2007-01-08,"D","Flint Firebirds",2,0,0,0,0,NA
