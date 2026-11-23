@@ -1,91 +1,94 @@
 "Name","BD","Pos","Team","GP","G","A","PTS","Pts/G","+/-","PPG","PPA","GWG","ENG","PIM"
 "Bogdan Yakushevsky",2009-01-16,"RW","Windsor Spitfires",25,10,17,27,1.08,15,3,2,1,0,6
-"Aiden Kelly",2010-02-02,"C","Brantford Bulldogs",21,12,12,24,1.14,6,5,4,2,0,19
-"Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",26,7,16,23,0.88,11,2,3,3,0,12
-"Cooper McAslan",2009-03-16,"D","London Knights",22,5,17,22,1,16,1,5,1,1,23
+"Aiden Kelly",2010-02-02,"C","Brantford Bulldogs",21,12,12,24,1.14,5,5,4,2,0,19
+"Trevor Daley Jr",2009-07-11,"C","Soo Greyhounds",26,7,16,23,0.88,11,2,3,3,0,14
+"Cooper McAslan",2009-03-16,"D","London Knights",23,5,17,22,0.96,14,1,5,1,1,23
 "Luca Santala",2009-07-28,"C","Kitchener Rangers",24,12,9,21,0.88,4,4,1,1,1,2
-"Tyler Hinde",2009-06-23,"C","Oshawa Generals",23,10,11,21,0.91,2,1,2,0,0,9
+"Tyler Hinde",2009-06-23,"C","Oshawa Generals",24,10,11,21,0.88,1,1,2,0,0,9
 "Kash Kwajah",2010-09-10,"C","Sudbury Wolves",18,7,12,19,1.06,5,1,3,1,1,12
+"Dmitry Savin",2009-04-14,"C","North Bay Battalion",23,5,10,15,0.65,10,1,3,1,0,8
 "Broden McArthur",2009-02-24,"D","Erie Otters",24,3,12,15,0.63,-6,1,5,1,0,8
-"Adam Nemec",2009-07-28,"LW","Brantford Bulldogs",24,5,8,13,0.54,-6,0,3,1,0,4
-"Dmitry Savin",2009-04-14,"C","North Bay Battalion",23,4,9,13,0.57,8,1,3,1,0,8
+"Adam Nemec",2009-07-28,"LW","Brantford Bulldogs",24,5,8,13,0.54,-7,0,3,1,0,4
 "Jesse Debruyn",2009-02-03,"D","Windsor Spitfires",25,2,10,12,0.48,0,1,7,0,0,21
 "Michael Tang",2009-04-15,"RW","Barrie Colts",25,4,7,11,0.44,-15,0,4,1,0,6
+"Brayden Lappalainen",2009-04-27,"LW","Brantford Bulldogs",20,4,6,10,0.5,2,4,2,0,0,14
 "Kingston Harris",2009-02-15,"C","Sudbury Wolves",20,4,6,10,0.5,1,1,3,1,0,17
 "Ty Bergeron",2009-05-26,"LW","Windsor Spitfires",25,4,6,10,0.4,-3,1,1,1,0,8
 "Alex Forrest",2009-06-11,"LD","Kitchener Rangers",24,0,10,10,0.42,5,0,2,0,0,16
-"Brayden Lappalainen",2009-04-27,"LW","Brantford Bulldogs",20,4,5,9,0.45,1,4,2,0,0,14
 "Adrian Sgro",2010-03-15,"D","Sarnia Sting",19,4,4,8,0.42,-1,0,1,1,0,33
-"Reid Hayes",2009-07-16,"RW","Ottawa 67's",23,4,4,8,0.35,-11,1,1,1,0,2
+"Reid Hayes",2009-07-16,"RW","Ottawa 67's",23,4,4,8,0.35,-12,1,1,1,0,2
 "Gordei Khotkov",2010-03-30,"D","Saginaw Spirit",24,2,6,8,0.33,0,0,0,1,0,12
-"Kane Barch",2009-03-13,"C","London Knights",22,2,6,8,0.36,-3,1,0,0,0,23
-"Carter Beauchesne",2009-02-09,"LW","Flint Firebirds",21,1,7,8,0.38,7,0,0,0,0,19
-"Andrew Laurin",2010-04-09,"RW","Ottawa 67's",17,4,3,7,0.41,-8,3,2,1,0,0
+"Kane Barch",2009-03-13,"C","London Knights",23,2,6,8,0.35,-4,1,0,0,0,25
+"Carter Beauchesne",2009-02-09,"LW","Flint Firebirds",22,1,7,8,0.36,5,0,0,0,0,19
+"Andrew Laurin",2010-04-09,"RW","Ottawa 67's",18,4,3,7,0.39,-8,3,2,1,0,0
+"Kane Cloutier",2010-06-14,"C","Oshawa Generals",21,4,3,7,0.33,-9,0,2,2,0,6
 "Parker Smith",2009-04-17,"LW","Sudbury Wolves",17,3,4,7,0.41,2,0,0,0,0,0
 "Oskar Konobelj",2009-05-29,"D","North Bay Battalion",24,2,5,7,0.29,7,0,0,0,0,48
 "Lucas Matheson",2010-02-24,"D","Barrie Colts",20,1,6,7,0.35,-3,1,3,0,0,10
-"Aleksandr Sementsov",2009-08-25,"LW","Brantford Bulldogs",8,3,3,6,0.75,-1,1,1,0,0,2
+"Aleksandr Sementsov",2009-08-25,"LW","Brantford Bulldogs",8,3,3,6,0.75,-1,2,1,1,0,2
 "Jiří Gombár",2009-10-15,"LD","Kitchener Rangers",22,3,3,6,0.27,4,0,0,2,0,6
-"Kane Cloutier",2010-06-14,"C","Oshawa Generals",20,3,3,6,0.3,-10,0,2,1,0,6
-"Lucas Nutting",2009-04-05,"D","Flint Firebirds",16,2,4,6,0.38,1,0,4,0,0,0
+"Lucas Nutting",2009-04-05,"D","Flint Firebirds",17,2,4,6,0.35,0,0,4,0,0,0
 "Max Fransen",2010-03-29,"D","Owen Sound Attack",19,1,5,6,0.32,-10,0,3,0,0,0
 "Jace Voortman",2010-08-12,"LW","Owen Sound Attack",19,0,6,6,0.32,-7,0,0,0,0,10
-"Eloan Le Gallic",2009-02-06,"C","London Knights",21,3,2,5,0.24,2,0,0,0,0,2
+"Eloan Le Gallic",2009-02-06,"C","London Knights",22,3,2,5,0.23,1,0,0,0,0,2
 "Landon Roulston",2010-03-05,"C","Peterborough Petes",14,3,2,5,0.36,3,1,0,0,0,6
-"Ty Robar",2009-04-19,"C","Kingston Frontenacs",22,3,2,5,0.23,-4,0,0,0,0,13
-"Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",24,2,3,5,0.21,17,0,0,0,0,4
+"Ty Robar",2009-04-19,"C","Kingston Frontenacs",22,3,2,5,0.23,-5,0,0,0,0,13
+"Dante D'Andrea",2009-01-22,"D","Kingston Frontenacs",24,2,3,5,0.21,16,0,0,0,0,4
 "Norman Greene",2009-02-02,"RW","Sudbury Wolves",19,2,3,5,0.26,4,0,0,0,0,4
-"Alexander Milojevic",2009-09-05,"C","Soo Greyhounds",24,3,1,4,0.17,-7,1,1,1,1,4
+"Alexander Milojevic",2009-09-05,"C","Soo Greyhounds",24,3,1,4,0.17,-6,1,1,1,1,4
 "Tanner Adams",2010-06-03,"RW","Sudbury Wolves",6,3,1,4,0.67,3,1,0,0,0,17
 "Colin Kennedy",2010-03-10,"C","Erie Otters",19,2,2,4,0.21,-2,1,0,1,0,33
 "Patrik Ula",2009-11-28,"C","Sudbury Wolves",15,2,2,4,0.27,3,0,0,2,0,8
 "Caden Bell",2009-01-15,"D","Owen Sound Attack",24,1,3,4,0.17,-14,0,1,0,0,2
-"Jake Ritson",2009-02-12,"LW","London Knights",20,1,3,4,0.2,-1,0,0,1,0,2
-"Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",21,0,4,4,0.19,-5,0,3,0,0,17
+"Jake Ritson",2009-02-12,"LW","London Knights",21,1,3,4,0.19,-1,0,0,1,0,2
+"Carter Lewandowski",2009-06-02,"C","Niagara IceDogs",21,0,4,4,0.19,-5,0,3,0,0,19
 "Colby Coombe",2009-12-15,"LW","Ottawa 67's",13,0,4,4,0.31,0,0,0,0,0,5
+"Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",18,0,4,4,0.22,-4,0,0,0,0,0
 "Declan McNally",2010-09-28,"D","Barrie Colts",20,0,4,4,0.2,-12,0,1,0,0,10
-"Max Lappan",2010-03-17,"D","Niagara IceDogs",22,0,4,4,0.18,-6,0,0,0,0,9
+"Max Lappan",2010-03-17,"D","Niagara IceDogs",22,0,4,4,0.18,-7,0,0,0,0,9
 "Tommy Kut",2009-01-05,"LD","Kitchener Rangers",20,0,4,4,0.2,7,0,0,0,0,6
 "Drew Bate",2010-05-19,"C","Saginaw Spirit",18,2,1,3,0.17,-4,2,0,0,0,10
-"Finn Merrill",2010-07-12,"RW","Niagara IceDogs",21,2,1,3,0.14,-10,0,0,0,0,12
+"Finn Merrill",2010-07-12,"RW","Niagara IceDogs",22,2,1,3,0.14,-10,0,0,0,0,14
 "Stepan Stejskal",2009-01-06,"LW","Niagara IceDogs",14,2,1,3,0.21,-4,1,0,0,0,6
 "Cam Anderson",2009-06-16,"RW","Soo Greyhounds",21,1,2,3,0.14,-4,0,0,0,0,16
 "Cole Guizzetti",2010-06-20,"LW","Flint Firebirds",10,1,2,3,0.3,4,0,0,0,0,4
-"Grant Yingst",2009-01-18,"RW","Oshawa Generals",11,1,2,3,0.27,0,0,0,0,0,0
+"Grant Yingst",2009-01-18,"RW","Oshawa Generals",12,1,2,3,0.25,1,0,0,0,0,0
 "Hudson Leenders",2009-02-01,"LW","Saginaw Spirit",19,1,2,3,0.16,-4,1,0,0,0,6
 "Paul Schuster",2009-07-26,"RW","Erie Otters",23,1,2,3,0.13,-7,1,0,0,0,4
-"Alex Campeau",2009-03-23,"C","London Knights",22,0,3,3,0.14,5,0,0,0,0,11
-"Cole Mazzoni",2009-05-12,"LW","Oshawa Generals",17,0,3,3,0.18,-4,0,0,0,0,0
-"Gavin Christie",2009-04-13,"D","Kingston Frontenacs",22,0,3,3,0.14,4,0,0,0,0,20
+"Alex Campeau",2009-03-23,"C","London Knights",23,0,3,3,0.13,3,0,0,0,0,11
+"Gavin Christie",2009-04-13,"D","Kingston Frontenacs",22,0,3,3,0.14,5,0,0,0,0,20
 "Alexander Lisi",2009-07-03,"LW","Owen Sound Attack",23,2,0,2,0.09,-8,0,0,1,0,2
-"Jack Johnson",2009-04-21,"D","Ottawa 67's",17,1,1,2,0.12,0,0,0,0,1,11
-"Lincoln Edwards",2009-09-12,"LW","North Bay Battalion",15,1,1,2,0.13,0,0,0,1,0,8
-"Logan Prud'homme",2010-08-02,"C","Kingston Frontenacs",24,1,1,2,0.08,-6,0,0,0,0,6
+"Jack Johnson",2009-04-21,"D","Ottawa 67's",18,1,1,2,0.11,-1,0,0,0,1,11
+"Lincoln Edwards",2009-09-12,"LW","North Bay Battalion",16,1,1,2,0.13,0,0,0,1,0,8
+"Logan Prud'homme",2010-08-02,"C","Kingston Frontenacs",24,1,1,2,0.08,-7,0,0,0,0,6
 "Marc Ruggere",2010-09-05,"D","Barrie Colts",16,1,1,2,0.13,-7,0,0,0,0,2
 "A.J. Gladman",2009-01-19,"D","Erie Otters",14,0,2,2,0.14,1,0,0,0,0,9
 "Christopher Weiss",2009-01-17,"D","Soo Greyhounds",17,0,2,2,0.12,4,0,0,0,0,4
-"Roman Vanacker",2010-05-08,"LW","Kingston Frontenacs",23,0,2,2,0.09,-7,0,0,0,0,0
+"Jacob McKinnon",2010-09-18,"LW","Blainville-Boisbriand Armada",1,0,2,2,2,-1,0,0,0,0,0
+"Roman Vanacker",2010-05-08,"LW","Kingston Frontenacs",24,0,2,2,0.08,-8,0,0,0,0,0
 "Aiden Mowrey",2009-07-02,"D","Barrie Colts",19,0,1,1,0.05,-3,0,0,0,0,11
-"Artem Glukhikh",2010-02-09,"C","Gatineau Olympiques",2,0,1,1,0.5,0,0,0,0,0,0
+"Artem Glukhikh",2010-02-09,"C","Gatineau Olympiques",2,0,1,1,0.5,1,0,0,0,0,0
 "Ian Inskip",2009-02-05,"LW","Windsor Spitfires",11,0,1,1,0.09,0,0,0,0,0,0
-"Jaden Licastro",2010-03-02,"D","Soo Greyhounds",16,0,1,1,0.06,-4,0,0,0,0,11
+"Jaden Licastro",2010-03-02,"D","Soo Greyhounds",16,0,1,1,0.06,-3,0,0,0,0,11
 "Jay Nimchonok",2010-10-01,"RD","Brampton Steelheads",12,0,1,1,0.08,-5,0,0,0,0,0
 "Jayden Tillman",2010-11-26,"D","Gatineau Olympiques",2,0,1,1,0.5,1,0,0,0,0,0
 "Logan Massimi",2009-01-05,"RD","Kitchener Rangers",15,0,1,1,0.07,-5,0,0,0,0,0
-"Will Mullins",2009-05-14,"RW","Niagara IceDogs",14,0,1,1,0.07,-6,0,1,0,0,2
+"Sarvir Jaworski",2009-02-24,"LW","Sarnia Sting",14,0,1,1,0.07,0,0,0,0,0,2
+"Will Mullins",2009-05-14,"RW","Niagara IceDogs",15,0,1,1,0.07,-6,0,1,0,0,2
 "Zack Naish",2009-12-02,"D","Niagara IceDogs",5,0,1,1,0.2,2,0,0,0,0,5
+"Adrien Rosa",2009-06-24,"D","Gatineau Olympiques",1,0,0,0,0,0,0,0,0,0,0
 "Alex Taylor",2009-01-14,"RW","Owen Sound Attack",8,0,0,0,0,-1,0,0,0,0,2
-"Alexis Bonin-Lallemand",2009-04-29,"D","Blainville-Boisbriand Armada",1,0,0,0,0,2,0,0,0,0,0
+"Alexis Bonin-Lallemand",2009-04-29,"D","Blainville-Boisbriand Armada",1,0,0,0,0,3,0,0,0,0,0
 "Andrei Milyayev",2009-12-13,"LW","Blainville-Boisbriand Armada",1,0,0,0,0,-1,0,0,0,0,0
-"Charles-Isaac Leroux",2008-02-14,"D","Blainville-Boisbriand Armada",1,0,0,0,0,-2,0,0,0,0,0
+"Camden Jackson",2009-01-13,"D","Blainville-Boisbriand Armada",1,0,0,0,0,1,0,0,0,0,0
+"Charles-Isaac Leroux",2008-02-14,"D","Blainville-Boisbriand Armada",1,0,0,0,0,-3,0,0,0,0,0
 "Easton Poe",2008-03-06,"D","North Bay Battalion",7,0,0,0,0,0,0,0,0,0,4
 "Evan Nicholson",2009-04-01,"LW","Kitchener Rangers",9,0,0,0,0,0,0,0,0,0,7
 "Gleb Olkhovik",2009-02-19,"LW","Barrie Colts",4,0,0,0,0,0,0,0,0,0,0
 "Hayden Martin",2009-02-27,"D","Guelph Storm",4,0,0,0,0,0,0,0,0,0,0
-"Jacob McKinnon",2010-09-18,"LW","Blainville-Boisbriand Armada",1,0,0,0,0,-2,0,0,0,0,0
 "Kyler Lauder",2010-01-15,"LW","Saginaw Spirit",8,0,0,0,0,-1,0,0,0,0,2
 "Liam Campbell",2008-10-22,"LW","Blainville-Boisbriand Armada",1,0,0,0,0,0,0,0,0,0,0
 "Oliver Ozogany",2009-01-16,"LW","Blainville-Boisbriand Armada",1,0,0,0,0,-1,0,0,0,0,0
 "Rocco Olek",2009-07-07,"RW","Barrie Colts",10,0,0,0,0,-6,0,0,0,0,0
 "Roman Andreev",2010-07-10,"RW","Kitchener Rangers",11,0,0,0,0,-1,0,0,0,0,0
-"Sarvir Jaworski",2009-02-24,"LW","Sarnia Sting",13,0,0,0,0,-1,0,0,0,0,2
+"Zachary Chouinard",2009-08-13,"RW","Blainville-Boisbriand Armada",1,0,0,0,0,0,0,0,0,0,0
