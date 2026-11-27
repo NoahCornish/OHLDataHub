@@ -51,7 +51,7 @@
 "Alexander Bilecki",2008-05-09,"LD","Kitchener Rangers",24,4,11,15,0.62,54
 "Cooper McAslan",2009-03-16,"D","London Knights",24,4,11,15,0.62,68
 "Brooks Rogowski",2008-06-24,"C","Oshawa Generals",21,3,12,15,0.71,71
-"Levi Harper",2008-10-03,"D","Saginaw Spirit",19,3,12,15,0.79,71
+"Levi Harper",2008-10-03,"D","Saginaw Spirit",19,3,12,15,0.79,75
 "Aiden Young",2007-04-18,"C","Peterborough Petes",26,2,13,15,0.58,83
 "Liam Beamish",2007-01-04,"C","Erie Otters",22,10,4,14,0.64,93
 "Luca Romano",2007-06-25,"C","Kitchener Rangers",24,8,6,14,0.58,47
@@ -101,7 +101,7 @@
 "Xavier Tessier",2008-05-09,"C","Flint Firebirds",21,6,5,11,0.52,92
 "Adam Nemec",2009-07-28,"LW","Brantford Bulldogs",25,5,6,11,0.44,73
 "Chase Gaughan",2008-07-17,"RW","Sarnia Sting",25,5,6,11,0.44,85
-"Jacob Cloutier",2007-03-22,"RW","Saginaw Spirit",23,5,6,11,0.48,55
+"Jacob Cloutier",2007-03-22,"RW","Saginaw Spirit",23,5,6,11,0.48,52
 "Kieran Witkowski",2007-02-07,"LW","Brampton Steelheads",20,5,6,11,0.55,100
 "Nikita Klepov",2008-06-27,"RW","Saginaw Spirit",9,5,6,11,1.22,73
 "Ryder Carey",2008-08-02,"RW","North Bay Battalion",24,5,6,11,0.46,65
@@ -426,6 +426,7 @@
 "Luke Howard",2007-08-21,"D","Barrie Colts",5,0,0,0,0,NA
 "Nathan Hauad",2008-09-23,"RW","Brantford Bulldogs",3,0,0,0,0,NA
 "Nikolas Rossetto",2008-08-02,"RW","North Bay Battalion",5,0,0,0,0,NA
+"Pacey Adduono",2008-09-01,"C","Peterborough Petes",2,0,0,0,0,NA
 "Rocco Olek",2009-07-07,"RW","Barrie Colts",11,0,0,0,0,NA
 "Roman Andreev",2010-07-10,"RW","Kitchener Rangers",11,0,0,0,0,NA
 "Ryker Kesler",2010-12-19,"C","London Knights",5,0,0,0,0,NA

@@ -10,11 +10,11 @@
 "Ryerson Edgar","NO",2009-07-30,"5.10",165,"C","Niagara IceDogs",23,10,12,22,0.96,-7,4,6,10,1,0,19
 "Cam Warren","NO",2009-05-07,"5.10",168,"C","North Bay Battalion",23,8,14,22,0.96,4,5,1,6,1,0,6
 "Cooper McAslan","YES",2009-03-16,"6.03",190,"D","London Knights",24,5,17,22,0.92,15,1,5,6,1,1,23
-"David Buchman","NO",2009-07-01,"5.11",182,"D","Brantford Bulldogs",25,4,18,22,0.88,9,0,8,8,1,0,14
+"David Buchman","YES",2009-07-01,"5.11",182,"D","Brantford Bulldogs",25,4,18,22,0.88,9,0,8,8,1,0,14
 "Luca Santala","YES",2009-07-28,"6.03",195,"C","Kitchener Rangers",25,12,9,21,0.84,6,4,1,5,1,1,2
 "Tyler Hinde","YES",2009-06-23,"6.03",173,"C","Oshawa Generals",24,10,11,21,0.88,1,1,2,3,0,0,9
-"Levi Harper","NO",2008-10-03,"6.00",185,"D","Saginaw Spirit",19,4,17,21,1.11,3,1,5,6,1,0,28
 "Kaden McGregor","NO",2009-01-30,"5.11",180,"C","Brantford Bulldogs",25,9,11,20,0.8,1,5,4,9,2,1,34
+"Levi Harper","NO",2008-10-03,"6.00",185,"D","Saginaw Spirit",19,4,16,20,1.05,3,1,4,5,1,0,28
 "Max Delisle","NO",2009-07-06,"6.01",184,"C","Owen Sound Attack",23,8,11,19,0.83,-1,2,6,8,0,0,21
 "Jaakko Wycisk","NO",2009-03-16,"6.02",206,"C","Guelph Storm",24,6,11,17,0.71,5,0,4,4,2,0,8
 "Max Brocklehurst","NO",2008-12-30,"5.09",170,"RW","Windsor Spitfires",26,6,10,16,0.62,-2,3,2,5,0,0,13
@@ -89,7 +89,7 @@
 "Kaden Aucoin","NO",2009-08-14,"6.02",185,"D","Sarnia Sting",20,1,1,2,0.1,-12,0,0,0,0,0,33
 "Lincoln Edwards","YES",2009-09-12,"5.10",172,"LW","North Bay Battalion",16,1,1,2,0.13,0,0,0,0,1,0,8
 "A.J. Gladman","YES",2009-01-19,"6.06",225,"D","Erie Otters",15,0,2,2,0.13,1,0,0,0,0,0,9
-"Anton Gesink","NO",2009-05-02,"6.02",179,"RW","Erie Otters",14,0,2,2,0.14,-1,0,0,0,0,0,8
+"Anton Gesink","YES",2009-05-02,"6.02",179,"RW","Erie Otters",14,0,2,2,0.14,-1,0,0,0,0,0,8
 "Christopher Weiss","YES",2009-01-17,"6.03",201,"D","Soo Greyhounds",17,0,2,2,0.12,4,0,0,0,0,0,4
 "Jacob Lukes","NO",2009-05-22,"6.00",175,"C","Kitchener Rangers",12,0,2,2,0.17,4,0,0,0,0,0,0
 "Lucas Balanyk","NO",2009-05-09,"5.09",173,"RW","Ottawa 67's",10,0,2,2,0.2,-3,0,0,0,0,0,2
